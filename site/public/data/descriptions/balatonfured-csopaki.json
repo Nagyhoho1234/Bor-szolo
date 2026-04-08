@@ -1,0 +1,132 @@
+{
+  "borvidek": "Balatonfüred-Csopaki",
+  "name_hu": "Balatonfüred-Csopaki",
+  "name_en": "Balatonfüred-Csopak",
+  "tagline": "The Olaszrizling capital of Hungary, where Lake Balaton meets dolomite, marl and red sandstone slopes.",
+  "tagline_hu": "Magyarország olaszrizling-fővárosa, ahol a Balaton dolomit-, márga- és vörös homokkő lejtőkkel találkozik.",
+  "elevator_pitch": "A ~12 km amphitheatre on Lake Balaton's north shore, Balatonfüred-Csopak is Hungary's largest north-Balaton PDO and the heartland of dry, mineral, age-worthy Olaszrizling. Its layered red sandstone, marl and dolomite slopes are protected by the voluntary Csopak Kódex, the strictest terroir code in Hungary, which doubles as a deliberate climate-defence instrument.",
+  "elevator_pitch_hu": "Balatonfüred-Csopak a Balaton északi partján húzódó, mintegy 12 km hosszú amfiteátrum, az észak-balatoni OEM-ek legnagyobbja és a száraz, ásványos, érlelhető olaszrizling fellegvára. Rétegzett vörös homokkő, márga és dolomit lejtőit a Csopak Kódex – Magyarország legszigorúbb terroir-szabályzata – védi, amely egyben tudatos klímavédelmi eszközként is működik.",
+  "flagship_wines": [
+    "Dry mineral Olaszrizling",
+    "Csopak Kódex single-vineyard whites",
+    "Furmint as a high-acid hedge variety"
+  ],
+  "flagship_wines_hu": [
+    "Száraz, ásványos olaszrizling",
+    "Csopak Kódex egyes dűlős fehérek",
+    "Furmint mint magas savú „klímabiztosító” fajta"
+  ],
+  "principal_grapes_summary": "Olaszrizling dominates with ~40-50% of plantings and defines the district's identity, supported by Rajnai rizling, Szürkebarát, Chardonnay, Furmint and Tramini. Reds (Kékfrankos, Pinot Noir, Cabernet Franc, Syrah) account for under 10% on the warmest red-sandstone slopes.",
+  "principal_grapes_summary_hu": "Az olaszrizling a telepítések mintegy 40–50 százalékát adja és meghatározza a borvidék arculatát; mellette rajnai rizling, szürkebarát, chardonnay, furmint és tramini szerepel. A vörösek (kékfrankos, pinot noir, cabernet franc, syrah) a 10 százalékot sem érik el, és csak a legmelegebb vörös homokkő lejtőkön találhatók.",
+  "terroir_summary": "Vineyards climb a south-facing lakeshore amphitheatre layered by altitude: Permian red sandstone and iron-rich forest soils on the lower terrace, Pannonian calcareous marl on mid-slopes, and Triassic dolomite-limestone with shallow rendzinas above 200 m. Lake Balaton mirrors radiation onto the slopes while katabatic cooling from the Bakony preserves nocturnal acidity, producing one of Hungary's most benign yet acid-driven mesoclimates.",
+  "terroir_summary_hu": "A szőlőültetvények egy déli kitettségű, tóparti amfiteátrumot kapaszkodnak meg, magasság szerint rétegezve: az alsó teraszon permi vörös homokkő és vasban gazdag erdőtalajok, a középső lejtőkön pannóniai meszes márga, 200 méter felett pedig triász dolomit-mészkő sekély rendzinákkal. A Balaton sugárzást tükröz a lejtőkre, miközben a Bakonyról leereszkedő katabatikus hűlés megőrzi az éjszakai savakat – így alakult ki Magyarország egyik legkíméletesebb, mégis savakra építő mezoklímája.",
+  "climate_today": "Growing-season mean temperatures have risen ~1.1-1.4 °C between the 1961-1990 and 1991-2020 normals, with Lake Balaton surface waters now warming at +0.32 °C/decade and lakeshore growing-season means around 17.3-17.9 °C.",
+  "climate_today_hu": "A vegetációs időszak átlaghőmérséklete az 1961–1990-es és az 1991–2020-as normálértékek között kb. 1,1–1,4 °C-kal emelkedett; a Balaton vize jelenleg évtizedenként +0,32 °C-kal melegszik, a tóparti vegetációs átlag pedig 17,3–17,9 °C körül alakul.",
+  "climate_threat_headline": "Compound drought-heatwave summers like 2022 and 2024 are eroding the lake mesoclimate, lake water budget and the classical low-alcohol, high-acid Csopak Olaszrizling style.",
+  "climate_threat_headline_hu": "A 2022-eshez és 2024-eshez hasonló kombinált aszály–hőhullám nyarak felőrlik a tavi mezoklímát, a Balaton vízháztartását és a klasszikus, alacsony alkoholú, magas savú csopaki olaszrizling stílust.",
+  "climate_winner_loser": "Furmint and late-ripening Olaszrizling clones on dolomite and marl slopes are favoured, while Szürkebarát and red-sandstone lakeshore Olaszrizling lose acidity and freshness fastest.",
+  "climate_winner_loser_hu": "A furmint és a dolomit-, illetve márga lejtőkön termő, későn érő olaszrizling-klónok nyertesei a változásnak; a szürkebarát és a vörös homokkövön termő tóparti olaszrizling viszont a leggyorsabban veszít savakból és frissességből.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~2,130 ha (largest of the six north-Balaton PDOs)"
+    },
+    {
+      "label": "Signature variety",
+      "value": "Olaszrizling, ~40-50% of plantings"
+    },
+    {
+      "label": "Csopak Kódex",
+      "value": "Voluntary 2013 terroir code: max 1.5 kg/vine, 12-13% vol., RS ≤4 g/L, TA ≥5.5 g/L"
+    },
+    {
+      "label": "Soil sequence",
+      "value": "Red sandstone (0-160 m) → marl (160-200 m) → dolomite/limestone (200-300 m)"
+    },
+    {
+      "label": "Lake mesoclimate",
+      "value": "South-facing amphitheatre with ~6-8% extra reflected radiation and Bakony katabatic cooling"
+    },
+    {
+      "label": "2024 vintage",
+      "value": "Earliest harvest on record on the north shore, starting in early August"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 2130 ha (a hat észak-balatoni OEM közül a legnagyobb)"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Olaszrizling, a telepítések kb. 40–50 százaléka"
+    },
+    {
+      "label_hu": "Csopak Kódex",
+      "value_hu": "Önkéntes 2013-as terroir-szabályzat: max. 1,5 kg/tőke, 12–13% vol., maradékcukor ≤4 g/l, titrálható sav ≥5,5 g/l"
+    },
+    {
+      "label_hu": "Talajsorrend",
+      "value_hu": "Vörös homokkő (0–160 m) → márga (160–200 m) → dolomit/mészkő (200–300 m)"
+    },
+    {
+      "label_hu": "Tavi mezoklíma",
+      "value_hu": "Déli amfiteátrum kb. 6–8% többletsugárzással és bakonyi katabatikus hűléssel"
+    },
+    {
+      "label_hu": "2024-es évjárat",
+      "value_hu": "Az északi part valaha mért legkorábbi szürete, már augusztus elején"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Balatonfüred-Csopak PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/baltonfured-csopak-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Balatonfüred-Csopaki Wine District — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/en/balatonfured-csopaki-wine-district/"
+    },
+    {
+      "title": "Balatonfüred-Csopaki Wine District — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/en/balatonfured-csopaki-wine-district/"
+    },
+    {
+      "title": "Csopak is Olaszrizling — Winesofa (Csopak Codex explained)",
+      "url": "http://www.winesofa.eu/articles/csopak-is-olaszrizling"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "balatonfured-csopaki",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Balatonfüred-Csopaki district centroid: annual maximum 1-day precipitation rising from 22.8 mm to 26.5 mm (+3.6 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.1 to 23.4 days (+3.2); frost days from 81 to 30 days/year (-51); annual coldest night from -19.7 °C to -9.4 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Balatonfüred-Csopaki borvidék centroidjára: az éves maximális egynapos csapadék 22,8 mm-ről 26,5 mm-re nő (+3,6 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,1-ről 23,4 napra (+3,2); a fagyos napok száma 81-ről 30-ra (-51); az év leghidegebb éjszakája -19,7 °C-ról -9,4 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.85,
+      "rx1day_mm_ssp585_2080_2099": 26.48,
+      "rx5day_mm_hist_1995_2014": 50,
+      "rx5day_mm_ssp585_2080_2099": 51.87,
+      "cdd_days_hist_1995_2014": 20.15,
+      "cdd_days_ssp585_2080_2099": 23.35,
+      "cwd_days_hist_1995_2014": 9.4,
+      "cwd_days_ssp585_2080_2099": 8.15,
+      "frost_days_hist_1995_2014": 80.9,
+      "frost_days_ssp585_2080_2099": 29.9,
+      "tnn_c_hist_1995_2014": -19.69,
+      "tnn_c_ssp585_2080_2099": -9.45,
+      "growing_season_length_days_hist_1995_2014": 263.9,
+      "growing_season_length_days_ssp585_2080_2099": 321.2
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

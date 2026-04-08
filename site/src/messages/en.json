@@ -1,0 +1,523 @@
+{
+  "nav": {
+    "home": "Home",
+    "brand": "Wine & Climate",
+    "regions": "Regions",
+    "districts": "Wine Districts",
+    "compare": "Compare",
+    "varieties": "Varieties",
+    "threats": "Threats",
+    "methods": "Methods",
+    "synthesis": "Synthesis",
+    "about": "About",
+    "downloads": "Downloads"
+  },
+  "synthesis": {
+    "hub": {
+      "title": "Synthesis briefs",
+      "intro": "Two long-form briefs distil the project's climate-impact findings for two different audiences. Pick the one that fits how deep you want to go.",
+      "englishOnly": "English only",
+      "scientific": {
+        "kicker": "For researchers",
+        "title": "Scientific synthesis",
+        "description": "Manuscript-grade review of observed and projected climate-change impacts across all 22 Hungarian wine districts, anchored on Lakatos & Nagy (2025) and 22 underlying district-level evidence reviews.",
+        "meta": "≈ 7,000 words · 14 sections"
+      },
+      "policy": {
+        "kicker": "For growers, policy and investors",
+        "title": "Decision-support brief",
+        "description": "Action-oriented framing for growers, winery managers, HNT, the Ministry of Agriculture and CAP advisors. Plain-language risk tiers, adaptation menus and recommendations.",
+        "meta": "≈ 10,000 words · 11 sections"
+      },
+      "caveat": "Both briefs reflect the project state as of {date}. Numbers may diverge slightly from the live charts on this site as the analysis pipeline iterates."
+    },
+    "page": {
+      "back": "← Back to synthesis briefs",
+      "references": "References",
+      "missing": "This brief is not currently available."
+    }
+  },
+  "home": {
+    "title": "Hungarian wine districts and a changing climate",
+    "subtitle": "An interactive atlas of climate susceptibility across Hungary's 22 wine districts (borvidék).",
+    "intro": "A district-by-district analysis of how climate change is reshaping viticulture in Hungary's 22 wine regions — from Tokaj's warming autumns to Villány's heat-stress horizon. Built on FORESEE regional climate data, validated against the World Bank CMIP6 ensemble, and joined to a knowledge base of 38 grape varieties and their climate envelopes.",
+    "mapTitle": "National map",
+    "mapSubtitle": "The 22 wine districts coloured by their parent wine region. Click a district for its full climate-change profile.",
+    "browseTitle": "Browse all 22 districts",
+    "browseSubtitle": "Click any district for its full climate-change profile, viticulture dashboard, variety suitability and research dossier.",
+    "draftNotice": "<strong>Draft.</strong> The threats dataset (Flavescence dorée timeline, trunk diseases, EU pesticides) is currently a curated starter and needs source verification before publication. The variety climate envelopes are bootstrapped from training knowledge and need expert review. See <methodsLink>methods</methodsLink> for known limitations.",
+    "headlines": {
+      "fd": {
+        "big": "21 / 22",
+        "label": "Hungarian wine districts confirmed with Flavescence dorée by 2025"
+      },
+      "tokaj": {
+        "big": "+5.2 °C",
+        "label": "Tokaji warming projected by 2080-2099 under SSP5-8.5 (CCKP CMIP6 ensemble)"
+      },
+      "villany": {
+        "big": "Ib → IV",
+        "label": "Villányi: largest viticulture-class shift among Hungarian districts (RCP8.5 2081-2100)"
+      },
+      "coverage": {
+        "big": "9 × 22 × 130y",
+        "label": "Viticulture indices × wine districts × years (1971-2100)"
+      }
+    }
+  },
+  "districts": {
+    "indexTitle": "Wine districts",
+    "indexSubtitle": "All 22 official Hungarian wine districts (borvidék). Each card shows a one-sentence identity. Click for the full climate-change profile, viticulture indices, variety suitability, and research dossier.",
+    "settlements": "settlements",
+    "area": "area",
+    "region": "Region",
+    "flagshipLabel": "Flagship",
+    "detail": {
+      "headline": {
+        "tempDelta": "Mean temperature change",
+        "gddDelta": "Winkler GDD change",
+        "flagshipDelta": "Flagship variety suitability"
+      },
+      "headlineSubtitle": "2071–2100 RCP8.5 vs 1991–2020",
+      "settlements": "settlements",
+      "flagshipLabel": "Flagship",
+      "principalLabel": "Principal",
+      "grapesAndWines": "Grapes & wines",
+      "terroir": "Terroir",
+      "climateToday": "Climate today",
+      "climateThreat": "Climate threat",
+      "varietyWinnersLosers": "Variety winners & losers",
+      "keyFacts": "Key facts",
+      "topSources": "Top sources",
+      "extremeOutlook": "Extreme weather outlook",
+      "extremeMetrics": {
+        "rx1day": "Max 1-day precip",
+        "rx5day": "Max 5-day precip",
+        "cdd": "Longest dry spell",
+        "cwd": "Longest wet spell",
+        "frost": "Frost days/yr",
+        "tnn": "Coldest tasmin",
+        "gsl": "Growing season"
+      },
+      "source": "Source",
+      "hungaromet": {
+        "title": "What the nearest weather station actually measured",
+        "subtitle": "{station} — {distance} km from the district centroid · {yearMin}–{yearMax} · HungaroMet open data",
+        "cols": {
+          "year": "Year",
+          "tmean": "Annual mean temperature",
+          "precip": "Annual total precipitation"
+        },
+        "meanLabel": "5-year mean",
+        "caption": "These are real station readings. Use them as a sanity check on the FORESEE projections shown above.",
+        "source": "Source",
+        "license": "CC-BY-SA"
+      },
+      "whatsGrown": "What's grown here",
+      "principalVarieties": "Principal varieties",
+      "climateTraj": "Climate trajectory",
+      "indicesDashboard": "Viticulture indices dashboard",
+      "indicesDashboardSubtitle": "Each card shows the 1991–2020 baseline → 2071–2100 RCP8.5 future mean and a 130-year sparkline. Click any card to open the interactive trajectory with both RCP scenarios and observed history.",
+      "variety": "Variety suitability",
+      "biggestWinner": "Biggest winner",
+      "biggestLoser": "Biggest loser",
+      "replacements": {
+        "title": "Climate-adapted plantings to consider",
+        "caption": "If the climate trajectory plays out and the district's traditional grapes start to struggle, here are the varieties the model would back as replacements. Read these as a guide to direction, not a planting prescription.",
+        "inlineHeader": "Top 4 model picks",
+        "suitabilityShort": "suit",
+        "noData": "No candidates met the suitability gate for this horizon.",
+        "expanderLabel": "Show all 8 horizons",
+        "caveat": "Match against the qualitative §12 evidence in the research dossiers below before acting on any recommendation.",
+        "noteExisting": "already principal here",
+        "noteLimit": "limited by {factor}",
+        "cols": {
+          "variety": "Variety",
+          "suitability": "Suit.",
+          "delta": "Δ vs base",
+          "note": "Note"
+        }
+      },
+      "threats": "Threats",
+      "threatFdDescription": "21 of 22 Hungarian wine districts had confirmed FD detections by 2025; vector Scaphoideus titanus benefits from warmer winters.",
+      "threatFdDraftWarning": "threats/flavescence_doree_timeline.csv is marked DRAFT in the bundle manifest.",
+      "threatFrostDescription": "Risk flag triggered in 2071–2100 RCP8.5 normals: {flag}",
+      "threatDroughtDescription": "Projected P−PET in 2071–2100 RCP8.5: {value} mm.",
+      "threatHeatDescription": "Projected heat days (Tmax ≥ 35 °C): {value} days/yr.",
+      "peers": "Compared to peers",
+      "peerCols": {
+        "district": "District",
+        "winklerNow": "Winkler now",
+        "winklerFuture": "Winkler 2071–2100",
+        "delta": "Δ"
+      },
+      "researchTitle": "Research dossier",
+      "researchSubtitle": "District-specific climate-change synthesis covering terroir, viticulture history, and projected impacts. Numeric references link to the consolidated bibliography at the bottom of this section.",
+      "references": "References",
+      "sources": "Sources and data",
+      "baseline": "Baseline 1991–2020",
+      "future": "Future 2071–2100 RCP8.5",
+      "downloadAll": "Download the full curated bundle",
+      "citation": "Please cite FORESEE v1.1, World Bank CCKP CMIP6, and Lakatos & Nagy (Frontiers in Plant Science 2025)."
+    }
+  },
+  "regions": {
+    "indexTitle": "Wine Regions",
+    "indexSubtitle": "Hungary has 6 wine regions (borrégió) covering 22 wine districts.",
+    "districtsInRegion": "Districts in this region"
+  },
+  "compare": {
+    "title": "Compare wine districts",
+    "subtitle": "All 22 districts ranked by climate-change exposure. Sort any column, search by name, click a district for the full profile. Future = 2081-2100 under RCP8.5.",
+    "searchPlaceholder": "Search…",
+    "risk": {
+      "title": "Combined climate-risk ranking",
+      "subtitle": "Districts ranked by the count of triggered risk flags (frost, heat, drought, Winkler class shift) under 2071–2100 RCP8.5."
+    },
+    "suitability": {
+      "title": "Variety × district suitability heatmap",
+      "subtitle": "Cell = modelled suitability (0–1) for 2071–2100 RCP8.5."
+    },
+    "columns": {
+      "borvidek": "Wine district",
+      "borregio": "Region",
+      "winklerNow": "Winkler now (1991-2020)",
+      "winklerFuture": "Winkler future",
+      "winklerDelta": "Δ Winkler",
+      "heatDaysFuture": "Heat days future",
+      "droughtFuture": "P−PET future (mm)",
+      "winner": "Biggest winner variety",
+      "loser": "Biggest loser variety"
+    },
+    "picker": {
+      "heading": "Or pick two for side-by-side comparison",
+      "subtitle": "Choose any two districts and view every climate index and variety suitability score next to each other.",
+      "districtA": "District A",
+      "districtB": "District B",
+      "submit": "Compare",
+      "sameWarning": "Pick two different districts."
+    }
+  },
+  "comparePair": {
+    "title": "{a} vs {b}",
+    "subtitle": "Two wine districts side by side: baseline (1991–2020) and end-century (2081–2100, RCP8.5) for every climate index, plus variety suitability for the union of their principal grapes.",
+    "backToCompare": "Back to all districts",
+    "stat": {
+      "winklerNow": "Winkler now",
+      "winklerFuture": "Winkler 2081–2100",
+      "winklerDelta": "Δ Winkler",
+      "heatDaysFuture": "Heat days ≥35 °C (future)"
+    },
+    "unit": {
+      "days": "days"
+    },
+    "indices": {
+      "heading": "Climate indices side by side",
+      "subtitle": "Baseline = 1991–2020 observed. Future = 2081–2100 under RCP8.5. The right-hand column highlights the absolute future-period difference (A − B).",
+      "index": "Index",
+      "baseline": "Baseline 1991–2020",
+      "future": "Future 2081–2100 (RCP8.5)",
+      "diff": "Diff (A − B)"
+    },
+    "varieties": {
+      "heading": "Variety suitability comparison",
+      "subtitle": "Modelled suitability score (0–1) for each principal variety of either district, at baseline and end-century RCP8.5.",
+      "variety": "Variety",
+      "baseline": "Baseline 1991–2020",
+      "future": "Future 2081–2100 (RCP8.5)",
+      "bothPrincipal": "Principal in both",
+      "onlyA": "Principal in {a} only",
+      "onlyB": "Principal in {b} only",
+      "scale": "Score scale: ≥0.75 strong fit, 0.5–0.74 good, 0.25–0.49 marginal, <0.25 weak."
+    },
+    "footnote": {
+      "before": "Read these numbers as a relative comparison; both districts share the same data sources and methodology — see ",
+      "methodsLink": "Methods",
+      "after": " for the full pipeline."
+    }
+  },
+  "varieties": {
+    "indexTitle": "Grape varieties",
+    "indexSubtitle": "{count} grape varieties grown as principal cultivars across the 22 Hungarian wine districts. Sorted by number of districts.",
+    "tableHeader": {
+      "variety": "Variety",
+      "nDistricts": "# districts",
+      "districts": "Districts"
+    },
+    "colourRed": "Red",
+    "colourWhite": "White",
+    "grownIn": "Principal in",
+    "detail": {
+      "kicker": "Grape variety",
+      "principalIn": "Principal variety in {count} of 22 Hungarian wine districts",
+      "grownAsPrincipal": "Grown as a principal variety in",
+      "envelopeNote": "Climate envelope (Huglin/Winkler bounds, frost & heat tolerance) is defined in <code>analysis/config/grape_envelopes.csv</code> and used to compute district × variety suitability scores under each climate scenario. See the <methodsLink>methods page</methodsLink> for the matching algorithm.",
+      "notFound": "Variety not found",
+      "backToAll": "← All varieties",
+      "current": "Current suitability (1991–2020)",
+      "future": "Future suitability (2071–2100 RCP8.5)",
+      "delta": "Change"
+    }
+  },
+  "threats": {
+    "indexTitle": "Threats to Hungarian viticulture",
+    "indexSubtitle": "The risks reshaping Hungary's 22 wine districts — from the active 2025 Flavescence dorée outbreak to the climate-driven intensification of heat, drought and frost extremes. Each page below ranks all 22 districts on the relevant metric and lets you compare the FORESEE single-model regional projection against the World Bank CMIP6 multi-model ensemble.",
+    "draftWarning": "<strong>Note:</strong> The pest/disease/regulatory CSVs under /data/threats/ are still curated drafts. The narratives on the Flavescence dorée page have been independently verified; the per-row data tables need source verification before they ship.",
+    "severity": {
+      "catastrophic": "catastrophic",
+      "high": "high",
+      "medium": "medium"
+    },
+    "cards": {
+      "fd": {
+        "title": "Flavescence dorée",
+        "summary": "Phytoplasma disease vectored by Scaphoideus titanus, confirmed in 21 of 22 Hungarian wine districts in 2025. Threatens the entire 270 ML/yr industry.",
+        "flag": "Active outbreak"
+      },
+      "heat": {
+        "title": "Heat stress",
+        "summary": "Days above 35°C in summer cause photosynthetic shutdown, berry shrivel and flavour distortion. Csongrádi most exposed under both FORESEE and CCKP projections.",
+        "flag": "Climate · projected"
+      },
+      "drought": {
+        "title": "Drought",
+        "summary": "Growing-season precipitation minus PET. Most southern Hungarian districts trend toward severe deficits by late century, especially under RCP8.5.",
+        "flag": "Climate · projected"
+      },
+      "frost": {
+        "title": "Spring frost",
+        "summary": "March–May tmin <0°C events. Frost-day counts fall with warming, but earlier budbreak shifts the window of vulnerability and can offset the gain.",
+        "flag": "Climate · weather extreme"
+      }
+    },
+    "fd": {
+      "kicker": "Active outbreak · catastrophic",
+      "title": "Flavescence dorée",
+      "lede": "A grapevine phytoplasma disease vectored by the leafhopper <em>Scaphoideus titanus</em>, currently spreading across nearly every Hungarian wine district and threatening a 270 million-litre wine industry.",
+      "h2Status": "Status as of 2025",
+      "statusBody": "Hungary's National Food Chain Safety Office (NÉBIH) has confirmed Flavescence dorée infections in <strong>21 of 22</strong> Hungarian wine districts including Tokaj, Eger, Zala and Pannonhalma. More than 200 inspection teams have been deployed nationwide; the Hungarian government allocated approximately 3.8 billion HUF (~USD 11 million) to emergency inspections, vector-control pesticide programs and grower compensation. Industry voices have warned that mass uprooting of infected vineyards may become unavoidable.",
+      "h2Background": "Background",
+      "backgroundBody1": "Flavescence dorée (FD) is a quarantine pathogen in the European Union. It is caused by a phytoplasma — a wall-less bacterium living in the plant phloem — and is transmitted by the American grapevine leafhopper <em>Scaphoideus titanus</em>, which became established in continental Europe in the latter half of the 20th century. Symptoms include leaf rolling, premature autumn coloration and berry shrivel; infected vines produce no marketable fruit and typically must be uprooted.",
+      "backgroundBody2": "FD was first detected in Hungary in <strong>August 2013</strong> in the south-west of the country (Zala area). For more than a decade it spread slowly and remained largely off the radar of growers and the wider public; the 2025 confirmation that it had reached 21 of 22 wine districts represents a step-change in scale.",
+      "h2Climate": "Climate linkage",
+      "climateBody": "Warmer winters favour the overwintering survival of <em>Scaphoideus titanus</em> eggs, and longer growing seasons extend the window during which the leafhopper can transmit the phytoplasma. The accelerating spread of FD across Hungary in the early 2020s coincides with a period of rapidly warming winters under the FORESEE projections — see the per-district <indicesLink>climate index pages</indicesLink> for the temperature trajectories and the <compareLink>comparison view</compareLink> for districts ranked by warming exposure.",
+      "h2Sources": "Sources",
+      "draftNote": "<strong>Note:</strong> The CSV-based timeline at <code>/data/threats/flavescence_doree_timeline.csv</code> is still a curated draft pending row-by-row source verification. The narrative above has been verified against the sources listed."
+    },
+    "heat": {
+      "kicker": "Climate threat · summer heat",
+      "title": "Heat stress",
+      "lede": "Number of summer days (June–August) with maximum temperature above 35°C. Above this threshold, photosynthesis stalls, berries shrink and flavour development is disrupted. The chart compares the FORESEE single-model regional projection to the World Bank CCKP CMIP6 multi-model ensemble — districts where both sources agree on a steep rise are the highest-confidence heat-stress hotspots.",
+      "chartTitleShort": "Heat days (>35°C) per Hungarian wine district",
+      "chartTitleFull": "Heat days (>35°C, Jun–Aug) per Hungarian wine district",
+      "units": "days/yr"
+    },
+    "drought": {
+      "kicker": "Climate threat · summer water deficit",
+      "title": "Drought",
+      "subtitle": "Districts ranked by projected growing-season water deficit under 2071–2100 RCP8.5.",
+      "lede": "Growing-season (April–October) water balance: precipitation minus potential evapotranspiration (Hargreaves). Negative = deficit. The FORESEE bars show the P−PET balance directly. The CCKP bars are annual-total precipitation from the World Bank multi-model ensemble, included as an independent rainfall reference. Districts where FORESEE shows a sharp P−PET drop while CCKP shows falling rainfall agree on a hard-drought signal.",
+      "chartTitleShort": "Growing-season water balance",
+      "chartTitleFull": "Growing-season water balance per Hungarian wine district",
+      "units": "mm"
+    },
+    "frost": {
+      "kicker": "Climate threat · late spring frost",
+      "title": "Spring frost",
+      "subtitle": "Districts ranked by projected spring-frost days under 2071–2100 RCP8.5.",
+      "lede": "Number of March–May days with minimum temperature below 0°C. Late frost is the most acute weather risk in Hungarian viticulture: a single April night can wipe out a year's buds. The FORESEE bars show frost-day count under each scenario; the CCKP bars are annual-mean tasmin (lower = higher frost risk) as an independent ensemble check. Frost-day counts generally fall as the climate warms, but earlier budbreak shifts the window of vulnerability — read the trend with that caveat.",
+      "chartTitleShort": "Spring frost days per Hungarian wine district",
+      "chartTitleFull": "Spring frost days (Mar–May) per Hungarian wine district",
+      "units": "days/yr"
+    }
+  },
+  "methods": {
+    "title": "About this atlas",
+    "subtitle": "How the numbers are computed.",
+    "indicesTitle": "The 9 viticulture indices",
+    "sourcesTitle": "Data sources",
+    "uncertaintyTitle": "Uncertainty and known limitations",
+    "backToOverview": "← Back to overview",
+    "overview": {
+      "intro": "Hungary grows wine in 22 official districts, from the volcanic slopes of Badacsony to the loess terraces of Tokaj. Each one has its own climate fingerprint — and that fingerprint is changing faster than at any point in the written history of Hungarian viticulture. This site is a one-stop look at where each district stands today, where the climate models think it is heading, which grapes have been at home there for centuries, and which threats the growers there are watching.",
+      "h2Find": "What you'll find on the site",
+      "findBody": "Every wine district has a <strong>profile page</strong> with its current and projected climate, the grapes that grow there, the threats that matter locally, and a short interpretive write-up. A <strong>national map</strong> lets you jump from district to district visually. The <strong>Compare</strong> page lets you put any two or three districts side by side and see who's warming fastest, who's drying out, who still has cool September nights. The <strong>Varieties</strong> section walks through the major grapes — international workhorses and Hungarian heirlooms alike — and shows how their comfort zones overlap with each district. The <strong>Threats</strong> page tracks active issues like Flavescence dorée and the shifting pesticide rulebook.",
+      "h2Numbers": "Where the numbers come from",
+      "numbersBody": "We didn't measure any of this ourselves. The atlas stands on three big shoulders: a Hungarian-built daily climate dataset that has been the workhorse of national climate research for over a decade, the World Bank's global multi-model collection that lets us cross-check it against the international consensus, and the actual thermometer-and-rain-gauge readings published openly by Hungary's national weather service. On top of that we added a hand-built map of the official wine districts and a curated knowledge base of grape varieties drawn from Hungarian and international wine literature. The <dataLink>About the data</dataLink> page introduces each source in plain English.",
+      "h2How": "How to use this site",
+      "howCurious": "<strong>Curious where to start?</strong> Open the <mapLink>national map</mapLink>, click any district, and read the profile from top to bottom.",
+      "howCompare": "<strong>Comparing two regions?</strong> Use the <compareLink>Compare</compareLink> page to put their numbers side by side.",
+      "howNumber": "<strong>Wondering what a number means?</strong> The <indicesLink>What the numbers mean</indicesLink> page explains every climate index in plain English — what it measures, why a wine reader should care, what counts as warm, what counts as dry.",
+      "howSure": "<strong>Want to know how confident we are?</strong> The <uncertaintyLink>How sure are we?</uncertaintyLink> page is the honest answer.",
+      "h2Limits": "The honest limits",
+      "limitsBody": "Climate models <em>project</em>, they don't <em>predict</em>. What you'll see on every district page is a range of plausible futures under two policy scenarios — one in which the world curbs emissions, one in which it doesn't — not a weather forecast for 2070. We don't try to model hail, pests, soil quality, individual vineyard practices, or wine prices. The goal is the climate signal and what it means for grapes, not the full picture of what running a winery in 2050 will look like. Read the numbers as “here are the trends and risks worth planning for” and you'll be using the site the way it was intended.",
+      "h2Depth": "Want more depth?",
+      "depthData": "<link>About the data</link> — a friendly tour of the three datasets we lean on.",
+      "depthIndices": "<link>What the numbers mean</link> — every climate index on the site, explained without jargon.",
+      "depthUncertainty": "<link>How sure are we?</link> — the honest list of caveats and how to weight what you're reading."
+    },
+    "data": {
+      "title": "About the data",
+      "intro": "We didn't put up any thermometers, drill any soil pits, or run any climate models ourselves. Everything you see on this site is built on top of three world-class open datasets, plus a hand-curated layer of wine knowledge. Here's a friendly tour of where the numbers actually come from.",
+      "h2Foresee": "FORESEE — the Hungarian climate workhorse",
+      "foreseeBody": "FORESEE is a daily climate dataset built by Hungarian researchers at ELTE and Sopron University. Think of it as a giant spreadsheet with one row per day from 1971 to 2100, covering all of Central Europe on a roughly ten-kilometre grid. For each grid cell it tells us the day's warmest temperature, coldest temperature, and how much rain fell. The historical part comes from real weather observations; the future part comes from a regional climate model that's been carefully tuned so its history matches what actually happened. FORESEE has been the backbone of Hungarian climate-impact research for more than a decade, and it's the main source of every time-series chart and every district-level number on this atlas.",
+      "foreseeLink": "FORESEE homepage →",
+      "h2WB": "The World Bank's climate portal — the second opinion",
+      "wbBody": "FORESEE gives us one detailed trajectory. To make sure we're not stuck inside one model's view of the future, we cross-check against the <link>World Bank Climate Change Knowledge Portal</link>, which collects results from roughly thirty different climate models from research centres all over the world. For every district we ask the portal: “what does the international consensus say about future temperatures and rainfall here, and how much do the models disagree?” That spread of disagreement is, honestly, one of the most useful numbers on the site — it tells you how much trust to put in any single projection. Two scenarios are tracked: one in which the world cuts emissions (SSP2-4.5) and one in which it doesn't (SSP5-8.5).",
+      "h2HungaroMet": "HungaroMet — the actual weather stations",
+      "hungaroMetBody": "Hungary's national weather service publishes its daily station readings openly through the <link>HungaroMet Open Data Portal</link>. For every wine district we pick the nearest active automatic station and pull the most recent five years of daily temperature and rainfall. We use these as a present-day reality check on the FORESEE numbers — if the model and the real thermometer agree for the years we can compare, that's reassurance that the historical baseline is in the right place. Hungarian weather stations are among the most reliable in Central Europe, and the open licence makes this kind of cross-check possible at all.",
+      "h2BuiltOn": "What we built on top",
+      "builtOnBody": "Two extra layers were assembled by hand for this project. The first is the <strong>wine-district map</strong>: Hungary's 22 official PDO districts don't come pre-packaged as a clean digital boundary file, so we built one from OpenStreetMap settlement boundaries, hand-labelled with the official PDO assignments published in the Hungarian national wine catalogue. The second is the <strong>variety knowledge base</strong>: a curated table that records, for every grape variety on the site, the climate it likes, the climate it tolerates, and the climate that breaks it. This was assembled from international viticulture textbooks, Hungarian-language variety guides, and the work of Wines of Hungary on the indigenous grapes. Indigenous Hungarian varieties like Furmint, Hárslevelű and Kadarka still need expert review — flagged as such on every variety page.",
+      "h2NotDo": "What we don't do with the data",
+      "notDoBody": "We don't republish the raw climate model files — those belong to the original projects and you can download them directly from the links above. What we publish are the <em>district-level summaries</em> we computed on top: the averages, the trends, the indices, the suitability scores. If you want our processed bundle for your own analysis, head to the <link>Downloads page</link>.",
+      "furtherReading": "Further reading"
+    },
+    "indices": {
+      "title": "What the numbers mean",
+      "intro": "Open any wine-district profile on this site and you'll meet a small parade of numbers — Winkler GDD, Huglin Index, frost days, hot days, growing-season rainfall, dryness balance. They all measure something a grape grower has been worrying about for thousands of years, just dressed up in the language of modern climatology. Here's what each one is really saying.",
+      "h2Winkler": "Heat the grapes got — Winkler GDD",
+      "winklerBody": "Imagine an oven that only counts the warmth above 10 °C — below that, vines barely grow at all. Every day from April through October, the oven adds up how much warmer than 10 °C the day was, and at the end of the season you get a single number: the Winkler Growing Degree Day total. <strong>Why you care:</strong> it's the single best summary of whether a place is cool enough to make elegant Riesling, hot enough to ripen Cabernet Sauvignon, or somewhere in between. Hungarian districts mostly land between roughly 1500 and 2200 °C·days today, with warm sites like Villány and Szekszárd creeping toward the “hot enough for southern Mediterranean reds” band as the climate warms. A rising Winkler number means earlier harvests, riper fruit, higher alcohol — and, eventually, varieties that used to thrive there starting to struggle.",
+      "h2Huglin": "Sunshine for ripening — the Huglin Index",
+      "huglinBody": "The Huglin Index is a sun-clock for the vine. It works like Winkler, but pays extra attention to daytime warmth (when photosynthesis is actually happening) and corrects for how long the days are at your latitude. <strong>Why you care:</strong> the Huglin number tells you what kind of grape will ripen properly at all. Below about 1500 the season is too short for most reds; between 1800 and 2400 you're in the comfort zone for classic European varieties; above 2700 you're in late-Spanish territory where only heat-loving grapes thrive. Most Hungarian districts sit comfortably in the temperate to temperate-warm bands today, but several are projected to slide into “warm” or even “very warm” by the end of the century — meaning the grapes that once defined them may no longer be the right grapes.",
+      "h2Frost": "Late spring frost gambles",
+      "frostBody": "Once the buds break in April, every freezing night is a coin toss the vine can lose. A single morning at −2 °C can wipe out a whole crop before it ever exists. We count, for each district, how many March-to-May days dipped below freezing — the “late spring frost days” number on the district pages. <strong>Why you care:</strong> some grapes are early risers and especially exposed (Kadarka, Merlot, Juhfark); others bud later and dodge most of the danger. Counter-intuitively, a warming climate doesn't make this problem go away — it can make it worse, because warmer Februaries push the buds out earlier into a calendar that still occasionally delivers Arctic air. Districts where the frost-day count remains stubbornly above five are sites where you want wind-machines, smoke pots, or late-budding grapes.",
+      "h2Heat": "Summer heat-stress days",
+      "heatBody": "Above about 35 °C the vine's photosynthesis essentially shuts down — the leaves close their pores to save water and the grapes stop ripening. Above 38 °C the berries themselves can sunburn and lose aroma compounds. We count both: how many June-to-August days topped 35 °C, and how many topped 38 °C. <strong>Why you care:</strong> aromatic whites (Riesling, Tramini, Sauvignon blanc) start losing their character with more than about fifteen 35 °C days a year; robust reds tolerate more. The 38 °C count is the canary — even one or two extreme days can leave a permanent mark on a vintage. This is the index that climbs fastest under high-emission scenarios, and it's the main reason why “just plant Mediterranean grapes” isn't the easy answer to Hungarian climate change that it might first appear.",
+      "h2Rain": "Rain in the growing months",
+      "rainBody": "How much rain falls between April and October decides whether the vine has to fight for water or fight off mildew. Below about 400 mm and most varieties in Hungary will need irrigation to set a decent crop in dry years; above about 700 mm and fungal disease pressure (downy mildew, powdery mildew, botrytis) starts dictating the spray calendar. <strong>Why you care:</strong> the trend matters more than the number. A district that's slowly drying needs different rootstocks, deeper-rooting training systems, and cover crops that don't compete for water. A district that's getting wetter and stormier needs disease-resistant varieties and a bigger sprayer.",
+      "h2Dryness": "Did the soil run out of water? — the dryness balance",
+      "drynessBody": "Rainfall alone isn't the whole story — what matters is how much rain you got versus how much the hot, sunny air tried to suck out of your soil. The dryness balance subtracts the atmosphere's thirst from the rain that fell. Negative numbers mean the air took more than the sky gave; positive numbers mean the soil banked some water for later. <strong>Why you care:</strong> Hungarian wine country is broadly moving toward more negative balances, which is the technical way of saying “more drought stress.” Whether that's a problem depends on the soil — deep loess can store enormous reserves, thin slopes on basalt or schist cannot. We flag districts whose dryness balance falls below −300 mm in the average year as drought-risk areas worth watching.",
+      "h2CoolNights": "Cool September nights",
+      "coolNightsBody": "After a hot summer day, what brings flavour and colour into the grape skins is the cool of the night. The Cool Night Index is just the average of September minimum temperatures. Anywhere below 14 °C is “cool nights” — the traditional secret behind aromatic Tokaji, perfumed Egri reds, and the freshness of Sopron whites. <strong>Why you care:</strong> as nights warm up, wines from the same district slowly lose aromatic complexity even when daytime ripeness looks fine on paper. It's one of the quieter but more worrying signals on this site, because there's no easy viticultural fix for a sleepless vine.",
+      "h2Suitability": "How the variety suitability score works",
+      "suitabilityBody1": "On every district page you'll see grapes ranked from “great match” to “struggling.” The score behind that ranking is straightforward: we take what the district's climate is projected to look like, compare it with the comfort zone we have on file for each grape (its preferred warmth, its frost tolerance, its heat tolerance), and produce a 0-to-1 number for how well the two overlap. A perfect 1 means the district sits squarely inside that grape's sweet spot for every factor we check. A score near 0 means at least one factor — usually heat stress or cold — has pushed the grape outside its viable range.",
+      "suitabilityBody2": "It's a guide, not a prediction. A skilled winemaker working with the right rootstock, soil, and training system can extend a grape's usable range by a noticeable margin, and a great vintage in a marginal climate can be more memorable than a safe vintage in a comfortable one. Read the score as “here's where the climate is making this grape easy or hard,” not as a verdict.",
+      "formulasSummary": "Want the formulas?",
+      "formulasIntro": "For the technically curious, the numerical definitions of each index follow the standard published references:",
+      "formulaWinkler": "<strong>Winkler GDD</strong> — sum of daily ((Tmax + Tmin)/2 − 10 °C), clipped at 0, over 1 April – 31 October. Winkler et al. (1974), <em>General Viticulture</em>, UC Press.",
+      "formulaHuglin": "<strong>Huglin Index</strong> — sum of ((Tmean − 10) + (Tmax − 10))/2 over 1 April – 30 September, multiplied by a small latitude correction (~1.04 for Hungary). Huglin (1978).",
+      "formulaFrost": "<strong>Frost days</strong> — count of days with Tmin < 0 °C between 1 March and 31 May.",
+      "formulaHot": "<strong>Hot / extreme days</strong> — count of June–August days with Tmax above 35 °C and 38 °C.",
+      "formulaPrecip": "<strong>Growing-season precipitation</strong> — total rainfall, 1 April – 31 October.",
+      "formulaDryness": "<strong>Dryness balance</strong> — growing-season rainfall minus growing-season reference evapotranspiration, computed with the Hargreaves–Samani temperature-based formula recommended by <faoLink>FAO Irrigation and Drainage Paper 56</faoLink>.",
+      "formulaCoolNight": "<strong>Cool Night Index</strong> — mean of September daily Tmin. Tonietto & Carbonneau (2004).",
+      "etccdiBody": "The atlas also tracks ETCCDI extreme indices (annual hot days, annual maxima of 1- and 5-day rainfall, consecutive dry days, growing-season length) drawn directly from the World Bank's multi-model collection. Standard definitions live at <link>climdex.org</link>.",
+      "suitabilityFormula": "The variety-suitability score multiplies four sub-scores (Huglin fit, Winkler fit, frost penalty, heat penalty) against a curated comfort-zone table for each grape. The multiplication means a single hard limit collapses the total — which is the right behaviour: one extreme heat event matters even if everything else looks fine. We always tag the limiting factor on each (district, variety) row so you can see <em>why</em> a score is low."
+    },
+    "uncertainty": {
+      "title": "How sure are we?",
+      "intro": "Here's the honest answer. Climate models don't predict — they project. They take the physics of the atmosphere, an assumption about how much carbon humanity will keep emitting, and they run forward to see what comes out. The further into the future you go, the wider the cone of possibilities. This page tells you how to weight the numbers you see on every district page.",
+      "h2Models": "Different models tell different stories",
+      "modelsBody": "There are roughly thirty serious climate models in the world, run by labs in Europe, North America, Japan and elsewhere. They all agree that Hungary is warming. They <em>disagree</em> on how fast, on whether summers get drier or just stormier, and on how much the storm tracks shift. Our main trajectory comes from a Hungarian-tuned model called FORESEE, which is detailed and physically consistent and gives us the daily temperatures we need. To make sure we're not stuck inside one model's view of the future, we cross-check FORESEE against the World Bank's ensemble of about thirty models — and where the two strongly disagree on a given district, that's a flag to read the future numbers there with extra caution.",
+      "h2Emissions": "Different emission paths, different futures",
+      "emissionsBody": "Every projection on the site is shown under two scenarios: one where the world meaningfully curbs greenhouse gas emissions over the coming decades (called RCP4.5 or SSP2-4.5), and one where it doesn't (RCP8.5 or SSP5-8.5). The difference between the two is roughly a degree of extra growing-season warming and a noticeable extra drying by the end of the century — comparable in size to the disagreement between models within either scenario. The honest takeaway is that <em>both</em> futures involve a meaningful warming for Hungarian wine country; the choice of scenario decides whether that warming is challenging or destabilising.",
+      "h2Coarse": "Coarse maps versus your specific vineyard",
+      "coarseBody": "The climate grid we work on is about 10 kilometres wide — the World Bank one is about 25. That's much bigger than a single Tokaj hillside or a single south-facing basalt cone in Badacsony. Within any one district there will always be sites that are warmer, cooler, drier or wetter than the district-wide number we publish. Treat every value on this site as a <strong>district average</strong>, not a forecast for your particular row of vines. The smaller the district, the noisier the average — Móri, Pannonhalmi and Nagy-Somlói sit on only a handful of grid cells each, and their numbers wobble more from year to year as a result.",
+      "h2Grape": "The grape side of the equation",
+      "grapeBody": "For each grape variety on the site we keep a comfort zone — the warmth it likes, the warmth it tolerates, how many frost days it can survive, how many extreme-heat days will hurt it. For international varieties (Cabernet, Merlot, Riesling, Chardonnay and friends) those numbers are well-established from decades of research worldwide. For indigenous Hungarian grapes — Furmint, Hárslevelű, Kadarka, Juhfark, Kéknyelű, Olaszrizling and the rest — the bounds are best-effort, drawn from regional Hungarian sources and analogous international varieties, and explicitly need expert review. Every variety page carries a confidence flag; treat the rare indigenous suitability scores as starting points for conversation with experienced local winemakers, not gospel.",
+      "h2Validation": "Have we cross-checked the variety recommendations against real-world plantings?",
+      "validationBody1": "Yes, partly. We compared what our model says each district should consider planting against what actual growers are already trialling, district by district, as documented in the \"adaptation in progress\" sections of the underlying research dossiers — the pages where local winemakers describe which new grapes they have already put into the ground.",
+      "validationBody2": "The numbers are humbling. The strict overlap — where a model top pick <strong>exactly</strong> matches a variety the district is already trialling — is about <strong>5%</strong>. A more lenient overlap — counting any single variety in common between the model's shortlist and the dossier — is about <strong>20%</strong>. In other words, four out of five of the model's recommendations are grapes no Hungarian grower has yet planted in that district.",
+      "validationBody3": "What does that mean? It means the model is currently a <strong>broad horizon-scan of climate-adapted possibilities</strong>, not a forecast of what growers will actually choose. It cheerfully nominates Souvignier Gris, Aglianico or Touriga Nacional for districts whose winemakers are quietly experimenting with Furmint, Vermentino or Syrah instead. Treat the model's variety list the way you would treat a list of plausible blind dates — interesting candidates worth investigating, not a planting plan you can take to the bank.",
+      "validationFooter": "For the full district-by-district breakdown, see the <briefLink>policy brief</briefLink>.",
+      "h2NotModel": "What this site doesn't try to model",
+      "notModelBody": "We don't model hail (climate models can't resolve the kind of summer thunderstorm that produces it), pests or diseases (those are tracked separately on the <threatsLink>Threats</threatsLink> page from official sources, not modelled here), soil water-holding capacity (a deep loess slope tolerates drought far better than a thin one on schist), individual vineyard practices (rootstock, training, canopy management can move a grape's usable range by a whole climate class), or wine prices and PDO regulations (which ultimately decide what actually gets planted). The goal of this site is the climate signal and what it means for grapes — not the full picture of what running a winery in 2050 will look like.",
+      "h2OneSentence": "How to read the numbers, in one sentence",
+      "oneSentenceBody": "Read what you see here as “here are the trends and risks worth planning for” — not as “this is exactly what will happen on your hillside in 2070.” Used that way, the atlas does what it was designed to do: help you see where the climate is heading for each Hungarian wine district, and which grapes are likely to thank you for planting them."
+    }
+  },
+  "about": {
+    "title": "About",
+    "intro": "<strong>Hungarian Wine Climate Atlas</strong> is an open, citation-first scientific website that documents the present-day and projected climate of every Hungarian wine district (borvidék) and links those climate trajectories to grape varieties and emerging viticultural threats. It is built around peer-reviewed datasets and openly licensed sources — no fabricated numbers, no unattributed claims.",
+    "h2What": "What you can do here",
+    "whatBrowse": "<link>Browse the 22 districts</link> with verified PDO descriptions, climate normals and projection trajectories.",
+    "whatCompare": "<link>Compare districts side-by-side</link> on temperature, growing-degree-days, frost risk and water balance.",
+    "whatVarieties": "<link>Explore varietal suitability</link> across districts and climate scenarios.",
+    "whatThreats": "<link>Track viticultural threats</link> including the ongoing <fdLink>Flavescence dorée</fdLink> outbreak.",
+    "whatDownloads": "<link>Download the curated bundle</link> of district-level parquets, CSVs and JSONs.",
+    "h2Methodology": "Data and methodology",
+    "methodologyBody": "See the <methodsLink>Methods</methodsLink> section for the full pipeline, <sourcesLink>Data sources</sourcesLink> for every dataset used, <indicesLink>Climate indices</indicesLink> for the formulas, and <uncertaintyLink>Uncertainty</uncertaintyLink> for the caveats.",
+    "h2Sources": "Key upstream sources",
+    "h2License": "License and citation",
+    "licenseBody": "Derived data on this site is released under CC-BY-SA. Raw upstream climate fields are <em>not</em> redistributed — please obtain them from their original providers under their respective licenses. When reusing material from this atlas, please cite both this site and the original upstream datasets.",
+    "h2Repro": "Reproducibility",
+    "reproBody": "Every file in the public bundle has a SHA-256 checksum and is described in a versioned manifest. Anyone can verify the bundle integrity and re-derive every chart on this site. The full file list, download links and checksums live on the <link>Downloads</link> page."
+  },
+  "downloads": {
+    "title": "Downloads",
+    "intro": "Everything on this atlas is built from a single, versioned, curated data bundle. You can download any individual file directly, or grab the manifest and SHA-256 checksums to fetch and verify the whole bundle programmatically.",
+    "h2Entry": "Bundle entry points",
+    "entryManifest": "<a href=\"/data/manifest.json\">manifest.json</a> — full file list, row counts, column names, sizes, SHA-256 checksums.",
+    "entryChecksums": "<a href=\"/data/SHA256SUMS.txt\">SHA256SUMS.txt</a> — checksums in standard <code>sha256sum</code> format.",
+    "entryReadme": "<a href=\"/data/README.md\">README.md</a> — bundle README.",
+    "entryGeoJson": "<a href=\"/data/wine_districts.geojson\">wine_districts.geojson</a> — district polygons (EPSG:4326).",
+    "bundleHeading": "Bundle",
+    "generatedAt": "Generated {date}. {count} files.",
+    "citationRequired": "Citation required",
+    "filesCount": "{count} files",
+    "rows": "rows",
+    "draftFlags": "Draft flags",
+    "manifestMissing": "The bundle manifest could not be loaded at build time. Browse <a href=\"/data/\">/data/</a> directly.",
+    "h2Verify": "How to verify",
+    "verifyHint": "See <methodsLink>Methods</methodsLink> for how the bundle was produced and <uncertaintyLink>Uncertainty</uncertaintyLink> for caveats before reuse.",
+    "subtitle": "All 44 curated files, ~1.1 MB total, CC-BY re-derivation.",
+    "column": {
+      "path": "File",
+      "size": "Size",
+      "description": "Description"
+    }
+  },
+  "footer": {
+    "climateData": "Climate data",
+    "wineRefs": "Wine references",
+    "threatsPesticides": "Threats & pesticides",
+    "thisSite": "This site",
+    "foreseeDesc": "daily observed + bias-corrected RCM fields, Central Europe, 1951–2100. v1.1 used here (CNRM-ALADIN53, RCP4.5/8.5);",
+    "foreseeAuthor": "Dobor et al. 2015, Geosci. Data J.",
+    "wbDesc": "CMIP6 0.25° projected climate dataset, SSP2-4.5 / SSP5-8.5 multi-model ensemble.",
+    "hungaroMetDesc": "Hungarian Meteorological Service station observations, homogenised series and gridded HuClim data, CC-BY-SA.",
+    "lakatosDesc": "peer-reviewed benchmark used for variety-suitability cross-checks.",
+    "winesOfHungary": "Wines of Hungary — Hungarian Wine Marketing Agency (HWMA)",
+    "hungarianWinesEu": "Hungarianwines.eu — independent wine journalism portal",
+    "tasteHungary": "Taste Hungary — wine journal (PDO regional guides)",
+    "wikipedia": "Hungarian wine — Wikipedia",
+    "nebih": "NÉBIH (Hungarian National Food Chain Safety Office)",
+    "euPesticides": "EU Pesticides Database (DG SANTE)",
+    "efsa": "EFSA (European Food Safety Authority)",
+    "eppo": "EPPO (European Plant Protection Organisation)",
+    "methodsLink": "Methods & uncertainty",
+    "downloadsLink": "Download curated data & checksums",
+    "aboutLink": "About this atlas",
+    "manifestLink": "Bundle manifest (JSON)",
+    "checksumsLink": "SHA256 checksums",
+    "copyright": "© {year} Fehér Zsolt Zoltán · Hungarian Wine Climate Atlas. Derived data from <foreseeLink>FORESEE v1.1</foreseeLink> (CNRM-ALADIN53 RCP runs) and the <wbLink>World Bank CCKP CMIP6</wbLink> ensemble. Raw climate data is not redistributed. Site source code MIT-licensed; citation required when reusing — see <methodsLink>Methods</methodsLink>.",
+    "foreseeShort": "FORESEE v1.1",
+    "wbShort": "World Bank CCKP CMIP6",
+    "methodsShort": "Methods"
+  },
+  "common": {
+    "loading": "Loading…",
+    "language": "Language",
+    "switchTo": "Magyar",
+    "currentValue": "Now",
+    "futureValue": "Future",
+    "delta": "Δ",
+    "viewDetail": "View detail",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "clickToEnlarge": "Click to enlarge",
+    "close": "Close",
+    "moreDetail": "More detail",
+    "less": "Less",
+    "units": {
+      "km2": "km²",
+      "days": "days",
+      "mm": "mm",
+      "celsius": "°C",
+      "gdd": "°C·days"
+    }
+  },
+  "downloadPdf": {
+    "button": "Download PDF"
+  }
+}

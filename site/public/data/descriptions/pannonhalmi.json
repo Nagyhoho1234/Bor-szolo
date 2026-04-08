@@ -1,0 +1,132 @@
+{
+  "borvidek": "Pannonhalmi",
+  "name_hu": "Pannonhalmi",
+  "name_en": "Pannonhalma",
+  "tagline": "One of Hungary's smallest wine districts, a Benedictine monastic refuge for fragrant cool-climate whites.",
+  "tagline_hu": "Magyarország egyik legkisebb borvidéke: bencés szerzetesi menedék az illatos, hűvös klímás fehéreknek.",
+  "elevator_pitch": "Wrapped around the millennial Pannonhalma Archabbey (UNESCO 1996), this ~600 ha district on lime-rich loess hills makes Hungary's most fragrant Rajnai rizling, Tramini and Sauvignon Blanc. The Abbey Winery anchors a tiny producer ecosystem led by Liptai Zsolt, Hungarian Winemaker of the Year 2024. Lakatos & Nagy 2025 project Pannonhalma will warm the least of any Hungarian district, marking it as a climate refuge for aromatic whites.",
+  "elevator_pitch_hu": "A 996 óta fennálló Pannonhalmi Főapátság (UNESCO 1996) köré szerveződő, mintegy 600 hektáros borvidék meszes löszdombokon teremti Magyarország legillatosabb rajnai rizlingjét, traminijét és sauvignon blanc-ját. Az Apátsági Pincészet egy aprócska termelői ökoszisztémát horgonyoz le, amelynek élén Liptai Zsolt – a 2024. év magyar borásza – áll. Lakatos és Nagy 2025 szerint a magyar borvidékek közül Pannonhalma melegedik majd a legkevésbé, ami klimatikus menedékké teszi az illatos fehérek számára.",
+  "flagship_wines": [
+    "Rajnai rizling (Rhine Riesling)",
+    "Tramini (Gewürztraminer)",
+    "Sauvignon Blanc"
+  ],
+  "flagship_wines_hu": [
+    "Rajnai rizling",
+    "Tramini",
+    "Sauvignon blanc"
+  ],
+  "principal_grapes_summary": "A white-dominant district (>=80% white) led by Olaszrizling, Rajnai rizling, Tramini and Sauvignon Blanc, with Királyleányka, Chardonnay and Zöld veltelíni alongside; Pinot Noir is the signature red.",
+  "principal_grapes_summary_hu": "Fehér dominanciájú borvidék (≥80% fehér), élén az olaszrizlinggel, rajnai rizlinggel, traminival és sauvignon blanc-nal; mellettük királyleányka, chardonnay és zöld veltelíni szerepel. A jellegzetes vörös a pinot noir.",
+  "terroir_summary": "South- and southwest-facing loess slopes at 150-300 m on the isolated Sokoró and Pannonhalmi-dombság hills, rising abruptly out of the Kisalföld plain. Brown forest soils developed on a thick Pleistocene loess mantle over Pannonian sands and clays; the carbonate-rich loess gives an alkaline, lime-buffered chemistry that preserves titratable acidity and supports fragrant, mineral whites. The mesoclimate is moister and slightly cooler than the Hungarian average, exposed to oceanic airstreams from the NW.",
+  "terroir_summary_hu": "A déli és délnyugati kitettségű löszlejtők 150–300 méter között az elszigetelt Sokoró és a Pannonhalmi-dombság hátain emelkednek, élesen kiemelkedve a Kisalföld síkságából. A talajok vastag pleisztocén lösztakarón pannóniai homokon és agyagon kifejlődött barna erdőtalajok; a karbonátban gazdag lösz lúgos, mésszel pufferolt kémiát biztosít, amely megőrzi a titrálható savakat és illatos, ásványos fehéreket támogat. A mezoklíma a magyar átlagnál nedvesebb és kissé hűvösebb, kitéve az északnyugatról érkező óceáni légáramlatoknak.",
+  "climate_today": "1991-2020 normals around 10.5-11.0 C annual mean and ~600-650 mm rainfall, with the district drifting from Winkler Region I into the cool end of Region II and Huglin shifting from temperate to warm-temperate.",
+  "climate_today_hu": "Az 1991–2020-as normálértékek 10,5–11,0 °C-os évi átlagot és kb. 600–650 mm csapadékot mutatnak; a borvidék a Winkler I-ből a Winkler II hűvös pereme felé sodródik, a Huglin-index pedig a mérsékeltből a melegen mérsékelt sávba lép át.",
+  "climate_threat_headline": "Riesling style drift toward riper, broader, higher-alcohol profiles threatens the district's fresh, fragrant cool-climate identity, with limited altitude room to retreat.",
+  "climate_threat_headline_hu": "A rizling stíluseltolódása érettebb, szélesebb, magasabb alkoholú profilok felé veszélyezteti a borvidék friss, illatos, hűvös klímás identitását – és kevés tér marad a magasság felé visszahúzódni.",
+  "climate_winner_loser": "Projected as Hungary's least-warming wine district (+2.3 C under RCP 8.5), Pannonhalma is flagged as a climate refuge for aromatic whites within Hungary.",
+  "climate_winner_loser_hu": "Magyarország legkevésbé melegedő borvidékének projektálják (RCP 8.5 mellett +2,3 °C); ezért az illatos fehérek hazai klimatikus menedékeként tartják számon.",
+  "key_facts": [
+    {
+      "label": "Area under vine",
+      "value": "~600-638 ha across 13 municipalities; smallest of Hungary's 22 historic wine districts"
+    },
+    {
+      "label": "Heritage",
+      "value": "Pannonhalma Archabbey founded 996 AD; UNESCO World Heritage since 1996"
+    },
+    {
+      "label": "Flagship producer",
+      "value": "Pannonhalmi Apátsági Pincészet (Abbey Winery), ~37-50 ha, replanted from 2000"
+    },
+    {
+      "label": "Climate projection",
+      "value": "Lakatos & Nagy 2025: +2.3 C under RCP 8.5 by end-century, the smallest projected warming of any Hungarian district"
+    },
+    {
+      "label": "Soil signature",
+      "value": "Lime-rich loess on Pannonian sands; alkaline chemistry buffers must pH and protects acidity"
+    },
+    {
+      "label": "Winemaker recognition",
+      "value": "Liptai Zsolt named Hungarian Winemaker of the Year 2024; Winery of the Year 2023"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Kb. 600–638 ha 13 településen; Magyarország 22 történelmi borvidékének legkisebbike"
+    },
+    {
+      "label_hu": "Örökség",
+      "value_hu": "A Pannonhalmi Főapátság 996-ban alapult; 1996 óta UNESCO Világörökség"
+    },
+    {
+      "label_hu": "Vezető termelő",
+      "value_hu": "Pannonhalmi Apátsági Pincészet, kb. 37–50 ha, 2000-től újratelepítve"
+    },
+    {
+      "label_hu": "Klíma-előrejelzés",
+      "value_hu": "Lakatos–Nagy 2025: RCP 8.5 mellett a század végére +2,3 °C – a magyar borvidékek közül a legkisebb projektált felmelegedés"
+    },
+    {
+      "label_hu": "Talaj-aláírás",
+      "value_hu": "Mésztartalmú lösz pannóniai homokon; a lúgos kémia pufferolja a must pH-ját és védi a savakat"
+    },
+    {
+      "label_hu": "Borászati elismerés",
+      "value_hu": "Liptai Zsolt: az év magyar borásza 2024; az év pincészete 2023"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Upper Pannon Wine Region — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-regions/upper-pannon-wine-region"
+    },
+    {
+      "title": "Pannonhalmi borvidék — Wikipédia (HU)",
+      "url": "https://hu.wikipedia.org/wiki/Pannonhalmi_borvid%C3%A9k"
+    },
+    {
+      "title": "Pannonhalma Archabbey Winery — official site (apatsagipinceszet.hu)",
+      "url": "https://apatsagipinceszet.hu/?lang=en"
+    },
+    {
+      "title": "A Pilgrim's Progress to Worship Wine at Pannonhalma — Budapest Business Journal",
+      "url": "https://bbj.hu/budapest/gastronomy/drinks/a-pilgrims-progress-to-worship-wine-at-pannonhalma/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "pannonhalmi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Pannonhalmi district centroid: annual maximum 1-day precipitation rising from 22.9 mm to 26.6 mm (+3.7 mm, a proxy for severe-storm intensity); longest annual dry spell from 18.7 to 22.1 days (+3.4); frost days from 75 to 24 days/year (-51); annual coldest night from -19.1 °C to -8.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Pannonhalmi borvidék centroidjára: az éves maximális egynapos csapadék 22,9 mm-ről 26,6 mm-re nő (+3,7 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 18,7-ről 22,1 napra (+3,4); a fagyos napok száma 75-ről 24-re (-51); az év leghidegebb éjszakája -19,1 °C-ról -8,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.93,
+      "rx1day_mm_ssp585_2080_2099": 26.64,
+      "rx5day_mm_hist_1995_2014": 52.47,
+      "rx5day_mm_ssp585_2080_2099": 53.45,
+      "cdd_days_hist_1995_2014": 18.7,
+      "cdd_days_ssp585_2080_2099": 22.15,
+      "cwd_days_hist_1995_2014": 9.5,
+      "cwd_days_ssp585_2080_2099": 8.3,
+      "frost_days_hist_1995_2014": 74.7,
+      "frost_days_ssp585_2080_2099": 23.6,
+      "tnn_c_hist_1995_2014": -19.14,
+      "tnn_c_ssp585_2080_2099": -8.88,
+      "growing_season_length_days_hist_1995_2014": 266.4,
+      "growing_season_length_days_ssp585_2080_2099": 326.7
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

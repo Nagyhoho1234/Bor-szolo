@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this atlas, its derived datasets, or any of its outputs, please cite it as below."
+title: "Hungarian Wine Climate Atlas"
+abstract: >-
+  An open-source bilingual (Hungarian + English) information site that
+  visualises climate-change susceptibility for the 22 Hungarian wine districts
+  (borvidék). It joins three peer-reviewed climate datasets (FORESEE v1.1
+  regional climate, World Bank CCKP CMIP6 ensemble, HungaroMet station
+  observations) to a curated knowledge base of 58 grape varieties and surfaces
+  the result as a publishable Next.js + MapLibre + deck.gl static site with
+  per-district detail pages, side-by-side comparisons, threat ranking views,
+  methods explainers, and downloadable per-district PDFs.
+authors:
+  - family-names: "Fehér"
+    given-names: "Zsolt Zoltán"
+    affiliation: "University of Debrecen"
+type: software
+license: MIT
+url: "https://github.com/Nagyhoho1234/Bor-szolo"
+repository-code: "https://github.com/Nagyhoho1234/Bor-szolo"
+version: "1.0.0"
+date-released: "2026-04-08"
+keywords:
+  - "Hungarian wine districts"
+  - "borvidék"
+  - "climate change"
+  - "viticulture"
+  - "Winkler GDD"
+  - "Huglin index"
+  - "FORESEE"
+  - "CMIP6"
+  - "World Bank CCKP"
+  - "Flavescence dorée"
+  - "Tokaj"
+  - "wine"
+  - "grape varieties"
+  - "RCP4.5"
+  - "RCP8.5"
+  - "Hungary"
+  - "open data"
+  - "reproducible research"
+references:
+  - type: article
+    authors:
+      - family-names: "Lakatos"
+        given-names: "László"
+      - family-names: "Nagy"
+        given-names: "Richárd"
+    title: "Assessment of historical and future changes in temperature indices for winegrape suitability in Hungarian wine regions (1971–2100)"
+    journal: "Frontiers in Plant Science"
+    year: 2025
+    doi: "10.3389/fpls.2025.1481431"
+  - type: article
+    authors:
+      - family-names: "Dobor"
+        given-names: "Laura"
+    title: "Bridging the gap between climate models and impact studies: the FORESEE database"
+    journal: "Geoscience Data Journal"
+    year: 2015
+    doi: "10.1002/gdj3.22"
+  - type: article
+    authors:
+      - family-names: "Tonietto"
+        given-names: "Jorge"
+      - family-names: "Carbonneau"
+        given-names: "Alain"
+    title: "A multicriteria climatic classification system for grape-growing regions worldwide"
+    journal: "Agricultural and Forest Meteorology"
+    year: 2004
+    doi: "10.1016/j.agrformet.2003.06.001"

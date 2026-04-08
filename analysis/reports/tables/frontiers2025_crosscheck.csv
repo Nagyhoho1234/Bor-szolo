@@ -1,0 +1,83 @@
+# Frontiers 2025 (Lakatos & Nagy, 10.3389/fpls.2025.1481431) per-district cross-check
+# HUNT RESULT: Paper has NO supplementary materials (verified via Frontiers Nuxt payload
+#   `hasSupplementalData: false` and PMC11842426 has empty appendixContent/otherBackSections).
+# In-body Tables 1-5 contain class definitions, frequency distributions, per-VARIETY (not
+#   per-district) probabilities and suitability values. All per-district numerical results
+#   in the paper exist only as figure plots, which are not machine-extractable.
+# Per-district paper values therefore left blank; status=no_paper_data for all 66 rows.
+# Period 1971-2000 chosen because it is the closest match to the paper's 1986-2005 baseline
+#   that our pipeline has on-disk; differences in baseline window (~15 yr offset) prevent
+#   apples-to-apples even if the paper had published the numbers.
+# Soft sanity check: paper Table 3 reports that in 1986-2005 the modal AGST class for
+#   Hungarian wine regions was 'warm' (17-19 C) and modal Winkler class was Region II
+#   (1389-1667 GDD). Our 22-district 1971-2000 winkler_gdd values range 1223-1547 with
+#   median ~1320, putting most districts in Region I/II (cool/intermediate) — slightly
+#   cooler than the paper, consistent with the 1971-2000 baseline being ~0.4-0.6 C cooler
+#   than the paper's 1986-2005 baseline. Qualitative agreement.
+borvidek,period,index,our_value,paper_value,abs_diff,pct_diff,status
+Badacsonyi,1971-2000,CNI,10.4,,,,no_paper_data
+Badacsonyi,1971-2000,GDD-Winkler,1239.1,,,,no_paper_data
+Badacsonyi,1971-2000,Huglin,1707.2,,,,no_paper_data
+Balatonboglári,1971-2000,CNI,10.7,,,,no_paper_data
+Balatonboglári,1971-2000,GDD-Winkler,1401.1,,,,no_paper_data
+Balatonboglári,1971-2000,Huglin,1909.9,,,,no_paper_data
+Balatonfelvidéki,1971-2000,CNI,10.7,,,,no_paper_data
+Balatonfelvidéki,1971-2000,GDD-Winkler,1304.0,,,,no_paper_data
+Balatonfelvidéki,1971-2000,Huglin,1772.9,,,,no_paper_data
+Balatonfüred-Csopaki,1971-2000,CNI,11.1,,,,no_paper_data
+Balatonfüred-Csopaki,1971-2000,GDD-Winkler,1438.0,,,,no_paper_data
+Balatonfüred-Csopaki,1971-2000,Huglin,1913.7,,,,no_paper_data
+Bükki,1971-2000,CNI,10.1,,,,no_paper_data
+Bükki,1971-2000,GDD-Winkler,1238.6,,,,no_paper_data
+Bükki,1971-2000,Huglin,1730.1,,,,no_paper_data
+Csongrádi,1971-2000,CNI,10.9,,,,no_paper_data
+Csongrádi,1971-2000,GDD-Winkler,1546.7,,,,no_paper_data
+Csongrádi,1971-2000,Huglin,2092.7,,,,no_paper_data
+Egri,1971-2000,CNI,10.1,,,,no_paper_data
+Egri,1971-2000,GDD-Winkler,1304.5,,,,no_paper_data
+Egri,1971-2000,Huglin,1832.4,,,,no_paper_data
+Etyek-Budai,1971-2000,CNI,10.6,,,,no_paper_data
+Etyek-Budai,1971-2000,GDD-Winkler,1385.3,,,,no_paper_data
+Etyek-Budai,1971-2000,Huglin,1903.2,,,,no_paper_data
+Hajós-Bajai,1971-2000,CNI,10.5,,,,no_paper_data
+Hajós-Bajai,1971-2000,GDD-Winkler,1475.3,,,,no_paper_data
+Hajós-Bajai,1971-2000,Huglin,2038.5,,,,no_paper_data
+Kunsági,1971-2000,CNI,10.6,,,,no_paper_data
+Kunsági,1971-2000,GDD-Winkler,1472.0,,,,no_paper_data
+Kunsági,1971-2000,Huglin,2025.9,,,,no_paper_data
+Mátrai,1971-2000,CNI,10.0,,,,no_paper_data
+Mátrai,1971-2000,GDD-Winkler,1273.9,,,,no_paper_data
+Mátrai,1971-2000,Huglin,1815.3,,,,no_paper_data
+Móri,1971-2000,CNI,10.4,,,,no_paper_data
+Móri,1971-2000,GDD-Winkler,1223.4,,,,no_paper_data
+Móri,1971-2000,Huglin,1702.9,,,,no_paper_data
+Nagy-Somlói,1971-2000,CNI,10.4,,,,no_paper_data
+Nagy-Somlói,1971-2000,GDD-Winkler,1319.7,,,,no_paper_data
+Nagy-Somlói,1971-2000,Huglin,1841.8,,,,no_paper_data
+Neszmélyi,1971-2000,CNI,9.9,,,,no_paper_data
+Neszmélyi,1971-2000,GDD-Winkler,1260.8,,,,no_paper_data
+Neszmélyi,1971-2000,Huglin,1791.1,,,,no_paper_data
+Pannonhalmi,1971-2000,CNI,10.3,,,,no_paper_data
+Pannonhalmi,1971-2000,GDD-Winkler,1319.8,,,,no_paper_data
+Pannonhalmi,1971-2000,Huglin,1844.9,,,,no_paper_data
+Pécsi,1971-2000,CNI,11.1,,,,no_paper_data
+Pécsi,1971-2000,GDD-Winkler,1424.0,,,,no_paper_data
+Pécsi,1971-2000,Huglin,1918.2,,,,no_paper_data
+Soproni,1971-2000,CNI,10.7,,,,no_paper_data
+Soproni,1971-2000,GDD-Winkler,1295.9,,,,no_paper_data
+Soproni,1971-2000,Huglin,1798.4,,,,no_paper_data
+Szekszárdi,1971-2000,CNI,10.6,,,,no_paper_data
+Szekszárdi,1971-2000,GDD-Winkler,1485.8,,,,no_paper_data
+Szekszárdi,1971-2000,Huglin,2044.8,,,,no_paper_data
+Tokaji,1971-2000,CNI,10.4,,,,no_paper_data
+Tokaji,1971-2000,GDD-Winkler,1345.3,,,,no_paper_data
+Tokaji,1971-2000,Huglin,1853.5,,,,no_paper_data
+Tolnai,1971-2000,CNI,10.6,,,,no_paper_data
+Tolnai,1971-2000,GDD-Winkler,1436.1,,,,no_paper_data
+Tolnai,1971-2000,Huglin,1967.8,,,,no_paper_data
+Villányi,1971-2000,CNI,11.2,,,,no_paper_data
+Villányi,1971-2000,GDD-Winkler,1456.0,,,,no_paper_data
+Villányi,1971-2000,Huglin,1969.0,,,,no_paper_data
+Zalai,1971-2000,CNI,10.3,,,,no_paper_data
+Zalai,1971-2000,GDD-Winkler,1315.7,,,,no_paper_data
+Zalai,1971-2000,Huglin,1826.5,,,,no_paper_data

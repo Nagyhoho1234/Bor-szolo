@@ -1,0 +1,551 @@
+{
+  "borvidek": "Szekszárdi",
+  "borregio": "Pannon",
+  "slug": "szekszardi",
+  "current_principal_varieties": [
+    {
+      "variety": "Kékfrankos",
+      "variety_en": "Blaufränkisch",
+      "colour": "red",
+      "suitability": 1.0
+    },
+    {
+      "variety": "Cabernet franc",
+      "variety_en": "Cabernet Franc",
+      "colour": "red",
+      "suitability": 0.957
+    },
+    {
+      "variety": "Kadarka",
+      "variety_en": "Kadarka",
+      "colour": "red",
+      "suitability": 0.673
+    },
+    {
+      "variety": "Merlot",
+      "variety_en": "Merlot",
+      "colour": "red",
+      "suitability": 0.673
+    },
+    {
+      "variety": "Cabernet sauvignon",
+      "variety_en": "Cabernet Sauvignon",
+      "colour": "red",
+      "suitability": 0.505
+    },
+    {
+      "variety": "Syrah",
+      "variety_en": "Syrah",
+      "colour": "red",
+      "suitability": 0.505
+    }
+  ],
+  "horizons": {
+    "2021-2040_rcp45": {
+      "period": "2021-2040",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Kékfrankos",
+          "variety_en": "Blaufränkisch",
+          "colour": "red",
+          "future_suitability": 0.746,
+          "delta": -0.254,
+          "limiting_factor": "heat"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Sangiovese",
+          "variety_en": "Sangiovese",
+          "colour": "red",
+          "future_suitability": 0.925,
+          "delta": 0.207,
+          "confidence": "high",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2415,
+          "winkler_mean": 1806
+        },
+        {
+          "rank": 2,
+          "variety": "Vermentino",
+          "variety_en": "Vermentino",
+          "colour": "white",
+          "future_suitability": 0.925,
+          "delta": 0.207,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2415,
+          "winkler_mean": 1806
+        },
+        {
+          "rank": 3,
+          "variety": "Fiano",
+          "variety_en": "Fiano",
+          "colour": "white",
+          "future_suitability": 0.925,
+          "delta": 0.207,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2415,
+          "winkler_mean": 1806
+        },
+        {
+          "rank": 4,
+          "variety": "Verdejo",
+          "variety_en": "Verdejo",
+          "colour": "white",
+          "future_suitability": 0.925,
+          "delta": 0.207,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2415,
+          "winkler_mean": 1806
+        }
+      ]
+    },
+    "2021-2040_rcp85": {
+      "period": "2021-2040",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Cabernet sauvignon",
+          "variety_en": "Cabernet Sauvignon",
+          "colour": "red",
+          "future_suitability": 0.973,
+          "delta": 0.468,
+          "confidence": "high",
+          "limiting_factor": "frost",
+          "status": "expand",
+          "huglin_mean": 2367,
+          "winkler_mean": 1774
+        },
+        {
+          "rank": 2,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 0.973,
+          "delta": 0.468,
+          "confidence": "high",
+          "limiting_factor": "frost",
+          "status": "expand",
+          "huglin_mean": 2367,
+          "winkler_mean": 1774
+        },
+        {
+          "rank": 3,
+          "variety": "Sangiovese",
+          "variety_en": "Sangiovese",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.282,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2367,
+          "winkler_mean": 1774
+        },
+        {
+          "rank": 4,
+          "variety": "Merlot",
+          "variety_en": "Merlot",
+          "colour": "red",
+          "future_suitability": 0.973,
+          "delta": 0.3,
+          "confidence": "high",
+          "limiting_factor": "frost",
+          "status": "expand",
+          "huglin_mean": 2367,
+          "winkler_mean": 1774
+        }
+      ]
+    },
+    "2041-2060_rcp45": {
+      "period": "2041-2060",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Kékfrankos",
+          "variety_en": "Blaufränkisch",
+          "colour": "red",
+          "future_suitability": 0.541,
+          "delta": -0.459,
+          "limiting_factor": "heat"
+        },
+        {
+          "variety": "Cabernet franc",
+          "variety_en": "Cabernet Franc",
+          "colour": "red",
+          "future_suitability": 0.754,
+          "delta": -0.204,
+          "limiting_factor": "heat"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Touriga Nacional",
+          "variety_en": "Touriga Nacional",
+          "colour": "red",
+          "future_suitability": 0.941,
+          "delta": 0.436,
+          "confidence": "medium",
+          "limiting_factor": "frost",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 1919
+        },
+        {
+          "rank": 2,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 0.856,
+          "delta": 0.351,
+          "confidence": "high",
+          "limiting_factor": "heat",
+          "status": "expand",
+          "huglin_mean": 2506,
+          "winkler_mean": 1919
+        },
+        {
+          "rank": 3,
+          "variety": "Tempranillo",
+          "variety_en": "Tempranillo",
+          "colour": "red",
+          "future_suitability": 0.856,
+          "delta": 0.351,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 1919
+        },
+        {
+          "rank": 4,
+          "variety": "Aglianico",
+          "variety_en": "Aglianico",
+          "colour": "red",
+          "future_suitability": 0.856,
+          "delta": 0.351,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 1919
+        }
+      ]
+    },
+    "2041-2060_rcp85": {
+      "period": "2041-2060",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Cabernet sauvignon",
+          "variety_en": "Cabernet Sauvignon",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.495,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2331,
+          "winkler_mean": 1805
+        },
+        {
+          "rank": 2,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.495,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2331,
+          "winkler_mean": 1805
+        },
+        {
+          "rank": 3,
+          "variety": "Merlot",
+          "variety_en": "Merlot",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.327,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2331,
+          "winkler_mean": 1805
+        },
+        {
+          "rank": 4,
+          "variety": "Tempranillo",
+          "variety_en": "Tempranillo",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.495,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2331,
+          "winkler_mean": 1805
+        }
+      ]
+    },
+    "2061-2080_rcp45": {
+      "period": "2061-2080",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Kékfrankos",
+          "variety_en": "Blaufränkisch",
+          "colour": "red",
+          "future_suitability": 0.362,
+          "delta": -0.638,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Cabernet franc",
+          "variety_en": "Cabernet Franc",
+          "colour": "red",
+          "future_suitability": 0.552,
+          "delta": -0.405,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Mourvèdre",
+          "variety_en": "Mourvèdre / Monastrell",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.931,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2556,
+          "winkler_mean": 1990
+        },
+        {
+          "rank": 2,
+          "variety": "Nero d'Avola",
+          "variety_en": "Nero d'Avola",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.931,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2556,
+          "winkler_mean": 1990
+        },
+        {
+          "rank": 3,
+          "variety": "Garnacha",
+          "variety_en": "Grenache",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.763,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2556,
+          "winkler_mean": 1990
+        },
+        {
+          "rank": 4,
+          "variety": "Assyrtiko",
+          "variety_en": "Assyrtiko",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.664,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2556,
+          "winkler_mean": 1990
+        }
+      ]
+    },
+    "2061-2080_rcp85": {
+      "period": "2061-2080",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Kékfrankos",
+          "variety_en": "Blaufränkisch",
+          "colour": "red",
+          "future_suitability": 0.115,
+          "delta": -0.885,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Cabernet franc",
+          "variety_en": "Cabernet Franc",
+          "colour": "red",
+          "future_suitability": 0.234,
+          "delta": -0.723,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Kadarka",
+          "variety_en": "Kadarka",
+          "colour": "red",
+          "future_suitability": 0.351,
+          "delta": -0.322,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Merlot",
+          "variety_en": "Merlot",
+          "colour": "red",
+          "future_suitability": 0.351,
+          "delta": -0.322,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Mourvèdre",
+          "variety_en": "Mourvèdre / Monastrell",
+          "colour": "red",
+          "future_suitability": 0.903,
+          "delta": 0.834,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2744,
+          "winkler_mean": 2225
+        },
+        {
+          "rank": 2,
+          "variety": "Nero d'Avola",
+          "variety_en": "Nero d'Avola",
+          "colour": "red",
+          "future_suitability": 0.903,
+          "delta": 0.834,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2744,
+          "winkler_mean": 2225
+        },
+        {
+          "rank": 3,
+          "variety": "Garnacha",
+          "variety_en": "Grenache",
+          "colour": "red",
+          "future_suitability": 0.903,
+          "delta": 0.666,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2744,
+          "winkler_mean": 2225
+        },
+        {
+          "rank": 4,
+          "variety": "Assyrtiko",
+          "variety_en": "Assyrtiko",
+          "colour": "white",
+          "future_suitability": 0.903,
+          "delta": 0.566,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2744,
+          "winkler_mean": 2225
+        }
+      ]
+    },
+    "2081-2100_rcp45": {
+      "period": "2081-2100",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Kékfrankos",
+          "variety_en": "Blaufränkisch",
+          "colour": "red",
+          "future_suitability": 0.426,
+          "delta": -0.574,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Cabernet franc",
+          "variety_en": "Cabernet Franc",
+          "colour": "red",
+          "future_suitability": 0.634,
+          "delta": -0.323,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Mourvèdre",
+          "variety_en": "Mourvèdre / Monastrell",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.931,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2635,
+          "winkler_mean": 2045
+        },
+        {
+          "rank": 2,
+          "variety": "Nero d'Avola",
+          "variety_en": "Nero d'Avola",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.931,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2635,
+          "winkler_mean": 2045
+        },
+        {
+          "rank": 3,
+          "variety": "Garnacha",
+          "variety_en": "Grenache",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.763,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2635,
+          "winkler_mean": 2045
+        },
+        {
+          "rank": 4,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.495,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2635,
+          "winkler_mean": 2045
+        }
+      ]
+    }
+  }
+}

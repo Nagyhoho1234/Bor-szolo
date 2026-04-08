@@ -1,0 +1,132 @@
+{
+  "borvidek": "Tolnai",
+  "name_hu": "Tolnai",
+  "name_en": "Tolna",
+  "tagline": "Loess-cloaked Pannon sibling of Szekszard: white-leaning, value-driven, anchored by Antinori's Tuzko Estate.",
+  "tagline_hu": "Lösszel borított pannon testvér Szekszárd mellett: fehérdomináns, érték-orientált borvidék, amelyet az Antinori-féle Tűzkő Birtok horgonyoz le.",
+  "elevator_pitch": "Carved out of the Szekszardi district in 1998, the Tolnai PDO spans the loess hills of southeast Tolna with extensions into Baranya and Fejer. Unusually for the Pannon region it is white-majority (around 55-60%), led by Chardonnay, Olaszrizling, Rizlingszilvani and Tramini, alongside Kekfrankos-based reds. Antinori's Tuzko Birtok at Bataapati anchors the premium tier in a district otherwise known for value wines.",
+  "elevator_pitch_hu": "Az 1998-ban a Szekszárdi borvidékből kiváló Tolnai OEM Délkelet-Tolna löszdombjait foglalja magába, Baranya és Fejér felé nyúló kitüremkedésekkel. A Pannon régióban szokatlan módon fehérdominanciás (kb. 55–60%): chardonnay, olaszrizling, rizlingszilváni és tramini vezetésével, mellette kékfrankos-alapú vörösekkel. Az Antinori bátaapáti Tűzkő Birtoka horgonyozza le a prémium szegmenst egy egyébként inkább érték-orientált borvidéken.",
+  "flagship_wines": [
+    "Chardonnay",
+    "Kekfrankos",
+    "Tuzko Domb Cuvee"
+  ],
+  "flagship_wines_hu": [
+    "Chardonnay",
+    "Kékfrankos",
+    "Tűzkő Domb cuvée"
+  ],
+  "principal_grapes_summary": "Whites dominate the planted area, led by Chardonnay, Olaszrizling, Rizlingszilvani (Muller-Thurgau), Tramini, Sauvignon Blanc and Zold Veltelini. Reds are anchored by Kekfrankos with Merlot, Cabernet Sauvignon, Cabernet Franc, Zweigelt, Kekoporto and a small remnant of Kadarka.",
+  "principal_grapes_summary_hu": "A telepített terület nagy részét fehérek adják: chardonnay, olaszrizling, rizlingszilváni (müller-thurgau), tramini, sauvignon blanc és zöld veltelíni vezetésével. A vörösek gerince a kékfrankos, mellette merlot, cabernet sauvignon, cabernet franc, zweigelt, kékoportó és kis maradék kadarka.",
+  "terroir_summary": "Tolnai sits on rolling loess hills continuous with Szekszard, with a 20-50 m thick Pleistocene aeolian loess blanket over Pannonian clay-sand sediments and a granitic basement that surfaces near Bataapati and Moragy. Brown forest soils and loess regosols dominate the slopes, with high active-lime content giving body to the wines. Vineyards favour gentle southern and southeastern slopes; in the Volgyseg basin they sit on elevated benches to escape cold-air pooling and frost risk.",
+  "terroir_summary_hu": "A Tolnai a Szekszárddal folytonos hullámzó löszdombokon fekszik, 20–50 méter vastag pleisztocén eolikus lösztakaróval pannóniai agyag-homok üledékek felett, amely alól Bátaapáti és Mórágy környékén gránit alapkőzet bukkan ki. A lejtőket barna erdőtalajok és lösz-regosolok uralják, magas aktívmész-tartalommal, ami testet ad a boroknak. A szőlőültetvények a déli és délkeleti enyhe lejtőket kedvelik; a Völgységi-medencében emelt teraszokon helyezkednek el a hidegtó és a fagykockázat elkerülésére.",
+  "climate_today": "Slightly cooler and wetter than Szekszard with around 11.4-12.0 C annual mean for 1991-2020 and roughly 590 mm precipitation, sitting in Winkler Region III with Huglin firmly in the warm class.",
+  "climate_today_hu": "Szekszárdnál enyhén hűvösebb és nedvesebb: az 1991–2020-as évi átlag 11,4–12,0 °C, a csapadék mintegy 590 mm; a Winkler III régióban, a Huglin pedig határozottan a meleg sávban.",
+  "climate_threat_headline": "Drought intensification on deep loess and acidity loss in the district's defining fresh whites are the dominant climate risks.",
+  "climate_threat_headline_hu": "A mély löszön intenzívebb aszály és a borvidék jellegadó friss fehérek savvesztesége jelenti a meghatározó klímakockázatot.",
+  "climate_winner_loser": "Cabernet franc, Cabernet sauvignon and Merlot are gaining viability; Rizlingszilvani, Irsai Oliver, Tramini and Kadarka are projected to leave their optimum first.",
+  "climate_winner_loser_hu": "A cabernet franc, cabernet sauvignon és merlot életképessége nő; a rizlingszilváni, irsai olivér, tramini és kadarka várhatóan elsőként hagyja el optimumát.",
+  "key_facts": [
+    {
+      "label": "Vineyard area",
+      "value": "~2,400-2,900 ha across three sub-districts (Tolnai, Volgysegi, Tamasi)"
+    },
+    {
+      "label": "Founded",
+      "value": "Carved out of Szekszardi borvidek in 1998, partly to insulate Szekszard's brand from Paks nuclear adjacency"
+    },
+    {
+      "label": "Varietal balance",
+      "value": "Unusually white-majority for the Pannon region, ~55-60% white"
+    },
+    {
+      "label": "Flagship estate",
+      "value": "Tuzko Birtok at Bataapati, ~150-176 ha, owned by Marchesi Antinori since 2000"
+    },
+    {
+      "label": "Heritage cellars",
+      "value": "~300 restored Swabian press-houses at Gyorkony, naturally stable at 10-12 C year-round"
+    },
+    {
+      "label": "Projected AGST rise",
+      "value": "~+2.5 to +2.7 C by 2081-2100 under RCP8.5, alongside Szekszard and Villany"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Kb. 2400–2900 ha három körzetben (Tolnai, Völgységi, Tamási)"
+    },
+    {
+      "label_hu": "Alapítás",
+      "value_hu": "1998-ban vált ki a Szekszárdi borvidékből, részben hogy elválassza Szekszárd márkáját a paksi atomerőmű közelségétől"
+    },
+    {
+      "label_hu": "Fajta-egyensúly",
+      "value_hu": "A Pannon régióhoz képest szokatlan módon fehérdomináns, ~55–60% fehér"
+    },
+    {
+      "label_hu": "Vezető birtok",
+      "value_hu": "Tűzkő Birtok Bátaapátiban, kb. 150–176 ha, 2000 óta a Marchesi Antinori tulajdonában"
+    },
+    {
+      "label_hu": "Hagyományos pincesorok",
+      "value_hu": "Györkönyben kb. 300 felújított sváb prés-ház, természetesen 10–12 °C-on egész évben"
+    },
+    {
+      "label_hu": "Projektált AGST-emelkedés",
+      "value_hu": "RCP8.5 mellett 2081–2100-ra kb. +2,5 – +2,7 °C, Szekszárddal és Villánnyal egy szinten"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Pieczka et al. 2021 — Climate Vulnerability and Adaptation in Szekszárd (MDPI Climate)",
+      "url": "https://www.mdpi.com/2225-1154/9/2/25"
+    },
+    {
+      "title": "Tolnai borvidék — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/tolnai-borvidek/"
+    },
+    {
+      "title": "Tolnai borvidék bemutatása — Borászportál.hu",
+      "url": "https://www.boraszportal.hu/magyarorszag-borvidekei/tolnai-borvidek-13"
+    },
+    {
+      "title": "Tűzkő Birtok (Bátaapáti, Tolna) — official winery website",
+      "url": "https://tuzkobirtok.hu/en/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "tolnai",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Tolnai district centroid: annual maximum 1-day precipitation rising from 23.4 mm to 24.6 mm (+1.2 mm, a proxy for severe-storm intensity); longest annual dry spell from 19.8 to 23.4 days (+3.6); frost days from 78 to 28 days/year (-50); annual coldest night from -19.0 °C to -9.2 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Tolnai borvidék centroidjára: az éves maximális egynapos csapadék 23,4 mm-ről 24,6 mm-re nő (+1,2 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 19,8-ról 23,4 napra (+3,6); a fagyos napok száma 78-ról 28-ra (-50); az év leghidegebb éjszakája -19,0 °C-ról -9,2 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 23.38,
+      "rx1day_mm_ssp585_2080_2099": 24.57,
+      "rx5day_mm_hist_1995_2014": 52.63,
+      "rx5day_mm_ssp585_2080_2099": 51.4,
+      "cdd_days_hist_1995_2014": 19.75,
+      "cdd_days_ssp585_2080_2099": 23.4,
+      "cwd_days_hist_1995_2014": 9.65,
+      "cwd_days_ssp585_2080_2099": 8.4,
+      "frost_days_hist_1995_2014": 77.8,
+      "frost_days_ssp585_2080_2099": 28,
+      "tnn_c_hist_1995_2014": -18.97,
+      "tnn_c_ssp585_2080_2099": -9.16,
+      "growing_season_length_days_hist_1995_2014": 272.8,
+      "growing_season_length_days_ssp585_2080_2099": 329.2
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "districts": [
+    {
+      "borvidek": "Badacsonyi",
+      "borregio": "Balaton",
+      "slug": "badacsonyi",
+      "file": "badacsonyi.json"
+    },
+    {
+      "borvidek": "Balatonboglári",
+      "borregio": "Balaton",
+      "slug": "balatonboglari",
+      "file": "balatonboglari.json"
+    },
+    {
+      "borvidek": "Balatonfelvidéki",
+      "borregio": "Balaton",
+      "slug": "balatonfelvideki",
+      "file": "balatonfelvideki.json"
+    },
+    {
+      "borvidek": "Balatonfüred-Csopaki",
+      "borregio": "Balaton",
+      "slug": "balatonfured-csopaki",
+      "file": "balatonfured-csopaki.json"
+    },
+    {
+      "borvidek": "Bükki",
+      "borregio": "Felső-Magyarországi",
+      "slug": "bukki",
+      "file": "bukki.json"
+    },
+    {
+      "borvidek": "Csongrádi",
+      "borregio": "Duna",
+      "slug": "csongradi",
+      "file": "csongradi.json"
+    },
+    {
+      "borvidek": "Egri",
+      "borregio": "Felső-Magyarországi",
+      "slug": "egri",
+      "file": "egri.json"
+    },
+    {
+      "borvidek": "Etyek-Budai",
+      "borregio": "Felső-Pannon",
+      "slug": "etyek-budai",
+      "file": "etyek-budai.json"
+    },
+    {
+      "borvidek": "Hajós-Bajai",
+      "borregio": "Duna",
+      "slug": "hajos-bajai",
+      "file": "hajos-bajai.json"
+    },
+    {
+      "borvidek": "Kunsági",
+      "borregio": "Duna",
+      "slug": "kunsagi",
+      "file": "kunsagi.json"
+    },
+    {
+      "borvidek": "Mátrai",
+      "borregio": "Felső-Magyarországi",
+      "slug": "matrai",
+      "file": "matrai.json"
+    },
+    {
+      "borvidek": "Móri",
+      "borregio": "Felső-Pannon",
+      "slug": "mori",
+      "file": "mori.json"
+    },
+    {
+      "borvidek": "Nagy-Somlói",
+      "borregio": "Balaton",
+      "slug": "nagy-somloi",
+      "file": "nagy-somloi.json"
+    },
+    {
+      "borvidek": "Neszmélyi",
+      "borregio": "Felső-Pannon",
+      "slug": "neszmelyi",
+      "file": "neszmelyi.json"
+    },
+    {
+      "borvidek": "Pannonhalmi",
+      "borregio": "Felső-Pannon",
+      "slug": "pannonhalmi",
+      "file": "pannonhalmi.json"
+    },
+    {
+      "borvidek": "Pécsi",
+      "borregio": "Pannon",
+      "slug": "pecsi",
+      "file": "pecsi.json"
+    },
+    {
+      "borvidek": "Soproni",
+      "borregio": "Felső-Pannon",
+      "slug": "soproni",
+      "file": "soproni.json"
+    },
+    {
+      "borvidek": "Szekszárdi",
+      "borregio": "Pannon",
+      "slug": "szekszardi",
+      "file": "szekszardi.json"
+    },
+    {
+      "borvidek": "Tokaji",
+      "borregio": "Tokaj",
+      "slug": "tokaji",
+      "file": "tokaji.json"
+    },
+    {
+      "borvidek": "Tolnai",
+      "borregio": "Pannon",
+      "slug": "tolnai",
+      "file": "tolnai.json"
+    },
+    {
+      "borvidek": "Villányi",
+      "borregio": "Pannon",
+      "slug": "villanyi",
+      "file": "villanyi.json"
+    },
+    {
+      "borvidek": "Zalai",
+      "borregio": "Balaton",
+      "slug": "zalai",
+      "file": "zalai.json"
+    }
+  ],
+  "baseline_period": "1991-2020",
+  "future_periods": [
+    "2021-2040",
+    "2041-2060",
+    "2061-2080",
+    "2081-2100"
+  ],
+  "scenarios": [
+    "rcp45",
+    "rcp85"
+  ]
+}

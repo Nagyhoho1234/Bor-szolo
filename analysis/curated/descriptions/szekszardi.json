@@ -1,0 +1,132 @@
+{
+  "borvidek": "Szekszárdi",
+  "name_hu": "Szekszárdi",
+  "name_en": "Szekszárd",
+  "tagline": "Sub-Mediterranean loess hills above the Danube, home of Kékfrankos-led Szekszárdi Bikavér and revived Kadarka.",
+  "tagline_hu": "Szubmediterrán löszdombok a Duna fölött – a kékfrankos-vezérelte Szekszárdi Bikavér és az újraéledő kadarka otthona.",
+  "elevator_pitch": "On the eastern spur of the Transdanubian Hills in Tolna County, Szekszárd is a warm, sub-Mediterranean red-wine district built on exceptionally deep loess (locally up to 30 m) with high active carbonate and terra rossa enclaves. Its identity rests on Kékfrankos-led Szekszárdi Bikavér, revived heritage Kadarka and Bordeaux varieties. Roughly 15 communes and ~2,100 ha of vineyards fan out from Szekszárd on south-facing slopes above the Danube.",
+  "elevator_pitch_hu": "A Tolna megyei Szekszárd a Dunántúli-dombság keleti nyúlványán fekvő, meleg, szubmediterrán vörösbor-borvidék, amelyet rendkívül mély lösz (helyenként akár 30 méter) magas aktívmész-tartalommal és terra rossa enklávékkal jellemez. Identitását a kékfrankos-vezérelte Szekszárdi Bikavér, az újraéledő kadarka és a bordeaux-i fajták adják. Mintegy 15 település és ~2100 hektár szőlő bontakozik ki Szekszárdról déli kitettségű lejtőkön a Duna fölé.",
+  "flagship_wines": [
+    "Szekszárdi Bikavér (Kékfrankos-led PDO blend)",
+    "Revived Kadarka - 'Hungary's Pinot Noir'",
+    "Bordeaux-style reds (Cabernet Franc, Cabernet Sauvignon, Merlot)"
+  ],
+  "flagship_wines_hu": [
+    "Szekszárdi Bikavér (kékfrankos-vezérelte OEM cuvée)",
+    "Újraéledő kadarka – „Magyarország pinot noirja”",
+    "Bordeaux-i stílusú vörösek (cabernet franc, cabernet sauvignon, merlot)"
+  ],
+  "principal_grapes_summary": "Red-dominated, led by Kékfrankos (the modern backbone and lead grape of Szekszárdi Bikavér), revived Kadarka, and Bordeaux varieties Merlot, Cabernet Franc and Cabernet Sauvignon, plus minor Pinot Noir, Syrah, Zweigelt, Kékoportó and Turán. Whites (~15-20%) include Chardonnay, Hárslevelű, Olaszrizling, Tramini and Sauvignon Blanc.",
+  "principal_grapes_summary_hu": "Vörös dominancia: kékfrankos (a modern gerinc és a Szekszárdi Bikavér vezérfajtája), újraéledő kadarka, valamint bordeaux-i fajták – merlot, cabernet franc, cabernet sauvignon –, mellettük kis arányban pinot noir, syrah, zweigelt, kékoportó és turán. A fehérek (~15–20%) közé chardonnay, hárslevelű, olaszrizling, tramini és sauvignon blanc tartozik.",
+  "terroir_summary": "The district sits on the eastern Transdanubian Hills, topping around 280 m, under an exceptionally deep quaternary loess blanket - typically a few metres thick but up to 30 m locally, with 5-7% active lime baseline and horizons of 10-30% active CaCO3. Iron-rich terra rossa subsoils emerge in premium sectors (Porkoláb-völgy, Iván-völgy, Remete, Baranya-völgy). South- and south-east-facing slopes with 5-20% gradient in narrow, deeply incised valleys create strong aspect-driven mesoclimates above the Danube and Sió floodplains.",
+  "terroir_summary_hu": "A borvidék a keleti Dunántúli-dombság ~280 méter magas hátján fekszik, kivételesen vastag negyedkori lösztakaró alatt – jellemzően néhány méter, helyenként akár 30 méter is, 5–7 százalékos aktívmész-alapszinttel és 10–30 százalékos aktív CaCO₃-szintekkel. A prémium szektorokban (Porkoláb-völgy, Iván-völgy, Remete, Baranya-völgy) vasban gazdag terra rossa altalaj kerül felszínre. Déli és délkeleti kitettségű, 5–20 százalékos lejtésű oldalak, keskeny, mélyen bevágódott völgyek erős kitettség-vezérelte mezoklímákat hoznak létre a Duna és a Sió árterei felett.",
+  "climate_today": "Transitional temperate with strong sub-Mediterranean and Atlantic influences; 1991-2020 annual mean T ~11.6-12.0 °C, growing-season mean ~17.5-18.2 °C, and 25-35 hot days (≥30 °C) per year - roughly double the 1961-1990 baseline.",
+  "climate_today_hu": "Átmeneti mérsékelt éghajlat erős szubmediterrán és atlanti hatásokkal; az 1991–2020-as évi átlag 11,6–12,0 °C, a vegetációs időszaki átlag 17,5–18,2 °C, és évi 25–35 hőségnap (≥30 °C) – nagyjából a duplája az 1961–1990-es alapidőszaknak.",
+  "climate_threat_headline": "Pieczka et al. identify intensifying drought as the dominant exposure signal, with Szekszárd's climate exposure rising above the Hungarian average under both RegCM and ALADIN-Climate projections.",
+  "climate_threat_headline_hu": "Pieczka és társai szerint az erősödő aszály a meghatározó kitettségi jelzés: Szekszárd klimatikus kitettsége a magyar átlag fölé emelkedik mind a RegCM, mind az ALADIN-Climate forgatókönyvek mellett.",
+  "climate_winner_loser": "Winners: Cabernet Sauvignon, Cabernet Franc, Syrah, Tempranillo, Touriga Nacional and Aglianico. Losers: thin-skinned Kadarka (heat, sunburn, mildew), Pinot Noir and Merlot; Kékfrankos holds on but loses freshness.",
+  "climate_winner_loser_hu": "Nyertesek: cabernet sauvignon, cabernet franc, syrah, tempranillo, touriga nacional és aglianico. Vesztesek: a vékony héjú kadarka (hőség, napégés, lisztharmat), a pinot noir és a merlot; a kékfrankos kitart, de frissességet veszít.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~2,100-2,187 ha of vineyards (PDO area under vine ~1,620 ha) across ~15 communes in Tolna County"
+    },
+    {
+      "label": "Loess depth",
+      "value": "Generally a few metres thick but up to 30 m locally - among the thickest loess bodies in the Carpathian Basin, with 5-7% active lime baseline"
+    },
+    {
+      "label": "Szekszárdi Bikavér rules",
+      "value": "Minimum four varieties, at least 45% Kékfrankos and 5% Kadarka (mandatory identity marker), one year oak aging"
+    },
+    {
+      "label": "Kadarka revival",
+      "value": "Heimann & Fiai narrowed a 30+ clone trial with the Pécs Research Institute (since 2005) to ~7 clones selected for smaller berries, looser clusters and thicker skins"
+    },
+    {
+      "label": "Climate position",
+      "value": "Consistently classified as one of Hungary's two warmest wine regions alongside Villány, Winkler Region III now touching IV"
+    },
+    {
+      "label": "2024 vintage",
+      "value": "District crop ~10-20% below normal after drought and extreme heat compressed ripening so that all varieties matured simultaneously"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 2100–2187 ha szőlő (OEM-területen ~1620 ha) Tolna megye mintegy 15 településén"
+    },
+    {
+      "label_hu": "Lösz vastagsága",
+      "value_hu": "Általában néhány méter, helyenként akár 30 méter is – a Kárpát-medence egyik legvastagabb lösztömege, 5–7 százalékos aktívmész-alapszinttel"
+    },
+    {
+      "label_hu": "Szekszárdi Bikavér szabályok",
+      "value_hu": "Minimum négy fajta, legalább 45% kékfrankos és 5% kadarka (kötelező identitásjelző), egyéves hordós érlelés"
+    },
+    {
+      "label_hu": "Kadarka újjáéledése",
+      "value_hu": "Heimann és Fiai a Pécsi Kutatóintézettel közösen (2005 óta) több mint 30 klónt szűkített le ~7 klónra, kisebb bogyó, lazább fürt és vastagabb héj alapján"
+    },
+    {
+      "label_hu": "Klimatikus pozíció",
+      "value_hu": "Villánnyal együtt rendre a két legmelegebb magyar borvidék közé sorolják; a Winkler III ma már a IV-es zónát súrolja"
+    },
+    {
+      "label_hu": "2024-es évjárat",
+      "value_hu": "A borvidék termése az aszály és a szélsőséges hőség miatt kb. 10–20 százalékkal a normál alá esett, mert minden fajta egyszerre érett be"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Pieczka et al. 2021 — Climate Vulnerability and Adaptation in Szekszárd (MDPI Climate)",
+      "url": "https://www.mdpi.com/2225-1154/9/2/25"
+    },
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Szekszárd PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/szekszard-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Szekszárdi Bikavér regulation — Hungarianwines.eu",
+      "url": "https://hungarianwines.eu/szekszardi-bikaver-regulation/"
+    },
+    {
+      "title": "Enhancing Kékfrankos grapes for climate-resistant wine production in Hungary — EU CAP Network",
+      "url": "https://eu-cap-network.ec.europa.eu/good-practice/enhancing-kekfrankos-grape-varieties-climate-resistant-wine-production-hungary_en"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "szekszardi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Szekszárdi district centroid: annual maximum 1-day precipitation rising from 22.2 mm to 23.9 mm (+1.7 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.2 to 23.5 days (+3.3); frost days from 78 to 29 days/year (-49); annual coldest night from -19.1 °C to -9.0 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Szekszárdi borvidék centroidjára: az éves maximális egynapos csapadék 22,2 mm-ről 23,9 mm-re nő (+1,7 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,2-ről 23,5 napra (+3,3); a fagyos napok száma 78-ról 29-re (-49); az év leghidegebb éjszakája -19,1 °C-ról -9,0 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.16,
+      "rx1day_mm_ssp585_2080_2099": 23.9,
+      "rx5day_mm_hist_1995_2014": 50.22,
+      "rx5day_mm_ssp585_2080_2099": 52.48,
+      "cdd_days_hist_1995_2014": 20.2,
+      "cdd_days_ssp585_2080_2099": 23.55,
+      "cwd_days_hist_1995_2014": 10,
+      "cwd_days_ssp585_2080_2099": 8.4,
+      "frost_days_hist_1995_2014": 78,
+      "frost_days_ssp585_2080_2099": 29.3,
+      "tnn_c_hist_1995_2014": -19.11,
+      "tnn_c_ssp585_2080_2099": -9.05,
+      "growing_season_length_days_hist_1995_2014": 275.5,
+      "growing_season_length_days_ssp585_2080_2099": 328.4
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

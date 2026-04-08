@@ -1,0 +1,132 @@
+{
+  "borvidek": "Balatonboglári",
+  "name_hu": "Balatonboglári",
+  "name_en": "Balatonboglár",
+  "tagline": "Lake Balaton's warm, loess-covered south shore — Hungary's sparkling-wine heartland.",
+  "tagline_hu": "A Balaton meleg, lösszel borított déli partja – a magyar pezsgő szülőföldje.",
+  "elevator_pitch": "Balatonboglári is the largest Balaton PDO, covering the sunny south-facing loess ramp above the lake and the rolling Külső-Somogy hills. It is a dual-purpose district of fresh aromatic whites, barrel-fermented Chardonnay and soft fruit-driven reds, and the national home of méthode traditionnelle sparkling wine led by Garamvári.",
+  "elevator_pitch_hu": "A Balatonboglári a Balaton legnagyobb OEM-je: a tó fölötti napsütötte, déli kitettségű löszrámpát és a Külső-Somogy lankás dombjait foglalja magába. Kettős profilú borvidék: friss, illatos fehérek, hordós erjesztésű chardonnay és lágy, gyümölcsközpontú vörösek mellett a Garamvári vezette hagyományos módszeres pezsgőkészítés országos központja.",
+  "flagship_wines": [
+    "Traditional-method sparkling (Chardonnay / Pinot Noir base)",
+    "Barrel-fermented Chardonnay",
+    "Aromatic whites (Irsai Olivér, Cserszegi fűszeres, Királyleányka)"
+  ],
+  "flagship_wines_hu": [
+    "Hagyományos módszerű pezsgő (chardonnay / pinot noir alapon)",
+    "Hordós erjesztésű chardonnay",
+    "Illatos fehérek (irsai olivér, cserszegi fűszeres, királyleányka)"
+  ],
+  "principal_grapes_summary": "About two-thirds white (Chardonnay, Sauvignon Blanc, Olaszrizling, Királyleányka, Irsai Olivér, Cserszegi fűszeres, Rajnai rizling, Szürkebarát) and one-third red (Merlot, Cabernet Sauvignon, Pinot Noir, Kékfrankos, Zweigelt). Chardonnay and Pinot Noir also supply the country's leading sparkling-wine base.",
+  "principal_grapes_summary_hu": "Nagyjából kétharmad fehér (chardonnay, sauvignon blanc, olaszrizling, királyleányka, irsai olivér, cserszegi fűszeres, rajnai rizling, szürkebarát) és egyharmad vörös (merlot, cabernet sauvignon, pinot noir, kékfrankos, zweigelt). A chardonnay és a pinot noir egyben az ország vezető pezsgőalapját is adja.",
+  "terroir_summary": "The district sits on the Külső-Somogy hill country, a sedimentary landscape with no basalt or dolomite. Pannonian clays and sands are overlain by a thick Pleistocene loess mantle producing calcareous brown forest soils with deep water reserves. The unbroken south-facing ramp above the lake is the largest well-exposed slope area in Transdanubia.",
+  "terroir_summary_hu": "A borvidék a Külső-Somogy dombvidékén fekszik, üledékes tájon, ahol bazalt és dolomit nem fordul elő. A pannóniai agyagokra és homokokra vastag pleisztocén lösztakaró rakódott, ezen mélyrétegű, jó vízgazdálkodású, mésztartalmú barna erdőtalajok alakultak ki. A tó fölötti, megszakítatlan déli rámpa Dunántúl legnagyobb egybefüggő, jól tájolt lejtős területe.",
+  "climate_today": "Growing-season mean ~17.4-18.0 C with ~1,950-2,050 sunshine hours. The shallow southern lake shelf warms faster than the north, giving Balatonboglári growing-season temperatures ~0.3-0.5 C higher than equivalent north-shore parcels.",
+  "climate_today_hu": "A vegetációs időszak átlaghőmérséklete 17,4–18,0 °C, a napsütéses órák száma kb. 1950–2050. A sekély déli tóöböl gyorsabban melegszik, mint az északi part, így Balatonbogláron a vegetációs időszak átlaga 0,3–0,5 °C-kal magasabb az északi parti megfelelő dűlőknél.",
+  "climate_threat_headline": "Rising heat is closing the harvest window for high-acid sparkling base wine and eroding the aromatic freshness of Muscat-family whites.",
+  "climate_threat_headline_hu": "Az emelkedő hőmérséklet szűkíti a magas savú pezsgőalap szüreti ablakát, és felőrli a muskotályrokon fehérek illatos frissességét.",
+  "climate_winner_loser": "Barrel-fermented Chardonnay and Bordeaux reds (Merlot, Cabernet Sauvignon, Syrah) benefit; aromatic whites, Pinot Noir and traditional sparkling base are under pressure.",
+  "climate_winner_loser_hu": "A hordós erjesztésű chardonnay és a bordeaux-i vörösek (merlot, cabernet sauvignon, syrah) nyertesei a változásnak; az illatos fehérek, a pinot noir és a hagyományos pezsgőalap viszont nyomás alá kerül.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~2,800-3,250 ha — largest of the six Balaton PDOs"
+    },
+    {
+      "label": "Status",
+      "value": "PDO (OEM), the only wine district in Somogy County"
+    },
+    {
+      "label": "Signature substrate",
+      "value": "Thick Pleistocene loess over Pannonian clays and sands"
+    },
+    {
+      "label": "Specialty",
+      "value": "Hungary's leading méthode traditionnelle sparkling-wine district"
+    },
+    {
+      "label": "Reach",
+      "value": "37 municipalities along the south shore and into Külső-Somogy"
+    },
+    {
+      "label": "Flagship producers",
+      "value": "Garamvári, Konyári, Légli, Ikon, Balatonboglári Borgazdaság"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 2800–3250 ha – a hat balatoni OEM közül a legnagyobb"
+    },
+    {
+      "label_hu": "Státusz",
+      "value_hu": "OEM, Somogy megye egyetlen borvidéke"
+    },
+    {
+      "label_hu": "Jellegzetes alapkőzet",
+      "value_hu": "Vastag pleisztocén lösz pannóniai agyagokon és homokon"
+    },
+    {
+      "label_hu": "Specialitás",
+      "value_hu": "Magyarország vezető hagyományos módszerű pezsgőborvidéke"
+    },
+    {
+      "label_hu": "Kiterjedés",
+      "value_hu": "37 település a déli part mentén és Külső-Somogyban"
+    },
+    {
+      "label_hu": "Meghatározó termelők",
+      "value_hu": "Garamvári, Konyári, Légli, Ikon, Balatonboglári Borgazdaság"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Balatonboglár Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-tourism/balatonboglar-wine-district"
+    },
+    {
+      "title": "Balatonboglár wine region — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Balatonbogl%C3%A1r_wine_region"
+    },
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Wine Region Balatonboglár — Falstaff",
+      "url": "https://www.falstaff.com/en/regions/hungary-balatonboglar"
+    },
+    {
+      "title": "Lake Balaton PGI: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/lake-balaton-pgi-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "balatonboglari",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Balatonboglári district centroid: annual maximum 1-day precipitation rising from 23.0 mm to 26.8 mm (+3.7 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.1 to 23.6 days (+3.5); frost days from 68 to 21 days/year (-47); annual coldest night from -18.3 °C to -8.8 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Balatonboglári borvidék centroidjára: az éves maximális egynapos csapadék 23,0 mm-ről 26,8 mm-re nő (+3,7 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,1-ről 23,6 napra (+3,5); a fagyos napok száma 68-ról 21-re (-47); az év leghidegebb éjszakája -18,3 °C-ról -8,8 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 23.04,
+      "rx1day_mm_ssp585_2080_2099": 26.76,
+      "rx5day_mm_hist_1995_2014": 50.27,
+      "rx5day_mm_ssp585_2080_2099": 51.09,
+      "cdd_days_hist_1995_2014": 20.1,
+      "cdd_days_ssp585_2080_2099": 23.6,
+      "cwd_days_hist_1995_2014": 9.15,
+      "cwd_days_ssp585_2080_2099": 8.05,
+      "frost_days_hist_1995_2014": 68.4,
+      "frost_days_ssp585_2080_2099": 21.4,
+      "tnn_c_hist_1995_2014": -18.26,
+      "tnn_c_ssp585_2080_2099": -8.85,
+      "growing_season_length_days_hist_1995_2014": 273.6,
+      "growing_season_length_days_ssp585_2080_2099": 327.9
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

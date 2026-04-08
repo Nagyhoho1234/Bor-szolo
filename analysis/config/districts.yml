@@ -1,0 +1,261 @@
+# Hungarian wine districts (borvidék) — 22 official districts in 6 regions (borrégió)
+# Compiled 2026-04-07. Web access was unavailable when this file was drafted, so the
+# variety lists rely on Claude's training data (Wikipedia, Hungarian Wine Marketing
+# Agency descriptions, regional council pages). User review strongly recommended,
+# especially for the smaller Duna-region districts.
+#
+# Each entry:
+#   borregio              parent wine region
+#   name_en               English-friendly display name
+#   name_hu               Hungarian name (with diacritics)
+#   principal_varieties   3–8 principal grapes (Hungarian primary spelling)
+#   flagship_wine_styles  1–3 short tags
+#   notes                 1–2 sentences on identity
+#   sources               URLs / references
+
+# ============================================================
+# BALATON region
+# ============================================================
+
+Badacsonyi:
+  borregio: Balaton
+  name_en: Badacsony
+  name_hu: Badacsonyi
+  principal_varieties: [Olaszrizling, Kéknyelű, Szürkebarát, Rajnai rizling, Rizlingszilváni, Budai zöld, Furmint]
+  flagship_wine_styles: [mineral white, Kéknyelű, volcanic Olaszrizling]
+  notes: Volcanic basalt hills on the north shore of Lake Balaton; the historic home of Kéknyelű and powerful, mineral whites.
+  sources:
+    - https://en.wikipedia.org/wiki/Badacsony_wine_region
+    - https://hungarianwines.eu/grapes/
+
+Balatonboglári:
+  borregio: Balaton
+  name_en: Balatonboglar
+  name_hu: Balatonboglári
+  principal_varieties: [Chardonnay, Királyleányka, Olaszrizling, Cabernet sauvignon, Merlot, Kékfrankos, Pinot noir]
+  flagship_wine_styles: [fresh white, Chardonnay, light red]
+  notes: South-shore district with gentler slopes; broad mix of international whites and lighter reds, much of it from cooperatives.
+  sources:
+    - https://en.wikipedia.org/wiki/Balatonboglár_wine_region
+
+Balatonfüred-Csopaki:
+  borregio: Balaton
+  name_en: Balatonfured-Csopak
+  name_hu: Balatonfüred-Csopaki
+  principal_varieties: [Olaszrizling, Rajnai rizling, Furmint, Szürkebarát, Tramini, Sauvignon blanc]
+  flagship_wine_styles: [Csopak Olaszrizling, mineral white]
+  notes: North-shore Balaton district famous for tightly-defined, terroir-driven Olaszrizling under the Csopak Kódex appellation rules.
+  sources:
+    - https://en.wikipedia.org/wiki/Balatonfüred-Csopak_wine_region
+    - https://csopakikodex.hu/
+
+Balaton-felvidéki:
+  borregio: Balaton
+  name_en: Balaton Uplands
+  name_hu: Balaton-felvidéki
+  principal_varieties: [Olaszrizling, Szürkebarát, Tramini, Rajnai rizling, Sauvignon blanc, Chardonnay, Muscat ottonel]
+  flagship_wine_styles: [aromatic white, Olaszrizling]
+  notes: Cool, hilly district north-west of Lake Balaton with mixed volcanic and limestone soils; primarily white wines.
+  sources:
+    - https://en.wikipedia.org/wiki/Balaton-felvidék_wine_region
+
+Nagy-Somlói:
+  borregio: Balaton
+  name_en: Somlo
+  name_hu: Nagy-Somlói
+  principal_varieties: [Juhfark, Olaszrizling, Furmint, Hárslevelű, Tramini]
+  flagship_wine_styles: [Juhfark, volcanic mineral white]
+  notes: Tiny volcanic single-hill district; the historic home of Juhfark and famously long-lived, austere mineral whites.
+  sources:
+    - https://en.wikipedia.org/wiki/Somló_wine_region
+
+Zalai:
+  borregio: Balaton
+  name_en: Zala
+  name_hu: Zalai
+  principal_varieties: [Olaszrizling, Cserszegi fűszeres, Királyleányka, Tramini, Chardonnay]
+  flagship_wine_styles: [aromatic white, Cserszegi fűszeres]
+  notes: Cool, wet south-western district producing mostly aromatic whites; partially overlaps the Balaton-felvidék hills.
+  sources:
+    - https://en.wikipedia.org/wiki/Zala_wine_region
+
+# ============================================================
+# FELSŐ-PANNON region
+# ============================================================
+
+Etyek-Budai:
+  borregio: Felső-Pannon
+  name_en: Etyek-Buda
+  name_hu: Etyek-Budai
+  principal_varieties: [Chardonnay, Sauvignon blanc, Királyleányka, Olaszrizling, Pinot noir, Zöld veltelíni]
+  flagship_wine_styles: [sparkling base, fresh Chardonnay]
+  notes: Cool limestone district close to Budapest; the principal source of base wine for Hungarian sparkling (pezsgő) and crisp Chardonnay.
+  sources:
+    - https://en.wikipedia.org/wiki/Etyek-Buda_wine_region
+
+Móri:
+  borregio: Felső-Pannon
+  name_en: Mor
+  name_hu: Móri
+  principal_varieties: [Ezerjó, Tramini, Rajnai rizling, Chardonnay, Leányka]
+  flagship_wine_styles: [Móri Ezerjó, aromatic white]
+  notes: Small cool district between the Vértes and Bakony hills; historic home of Ezerjó.
+  sources:
+    - https://en.wikipedia.org/wiki/Mór_wine_region
+
+Neszmélyi:
+  borregio: Felső-Pannon
+  name_en: Neszmely
+  name_hu: Neszmélyi
+  principal_varieties: [Olaszrizling, Cserszegi fűszeres, Sauvignon blanc, Chardonnay, Irsai Olivér, Királyleányka]
+  flagship_wine_styles: [fresh aromatic white]
+  notes: Danube-side district producing fresh, fruity whites, heavily focused on aromatic and modern international varieties.
+  sources:
+    - https://en.wikipedia.org/wiki/Neszmély_wine_region
+
+Pannonhalmi:
+  borregio: Felső-Pannon
+  name_en: Pannonhalma
+  name_hu: Pannonhalmi
+  principal_varieties: [Olaszrizling, Rajnai rizling, Tramini, Sauvignon blanc, Királyleányka, Chardonnay]
+  flagship_wine_styles: [monastic white blend, Riesling]
+  notes: Small district centred on the millennium-old Benedictine abbey; almost exclusively whites in a cool, fresh style.
+  sources:
+    - https://en.wikipedia.org/wiki/Pannonhalma_wine_region
+
+Soproni:
+  borregio: Felső-Pannon
+  name_en: Sopron
+  name_hu: Soproni
+  principal_varieties: [Kékfrankos, Zweigelt, Cabernet sauvignon, Merlot, Zöld veltelíni, Sauvignon blanc]
+  flagship_wine_styles: [Soproni Kékfrankos, light red]
+  notes: Western border district sharing terroir with Austria's Burgenland; the spiritual home of Hungarian Kékfrankos (Blaufränkisch).
+  sources:
+    - https://en.wikipedia.org/wiki/Sopron_wine_region
+
+# ============================================================
+# DUNA region
+# ============================================================
+
+Csongrádi:
+  borregio: Duna
+  name_en: Csongrad
+  name_hu: Csongrádi
+  principal_varieties: [Kékfrankos, Kadarka, Olaszrizling, Cserszegi fűszeres, Generosa]
+  flagship_wine_styles: [light red, sandy-soil white]
+  notes: Hot, sandy district along the Tisza in the south-east; phylloxera-free sands grow light reds and easy-drinking whites.
+  sources:
+    - https://en.wikipedia.org/wiki/Csongrád_wine_region
+
+Hajós-Bajai:
+  borregio: Duna
+  name_en: Hajos-Baja
+  name_hu: Hajós-Bajai
+  principal_varieties: [Kadarka, Kékfrankos, Cabernet sauvignon, Olaszrizling, Chardonnay]
+  flagship_wine_styles: [Hajós red, sandy red]
+  notes: Loess and sandy district between the Danube and the Bács hills; traditional Kadarka and crisp whites from cellar villages.
+  sources:
+    - https://en.wikipedia.org/wiki/Hajós-Baja_wine_region
+
+Kunsági:
+  borregio: Duna
+  name_en: Kunsag
+  name_hu: Kunsági
+  principal_varieties: [Kékfrankos, Kadarka, Cserszegi fűszeres, Olaszrizling, Generosa, Arany sárfehér, Bianca]
+  flagship_wine_styles: [bulk white, light red]
+  notes: Hungary's largest wine district by area; sandy Great Plain producing high volumes, with a focus on light, fruity wines and resistant new varieties.
+  sources:
+    - https://en.wikipedia.org/wiki/Kunság_wine_region
+
+# ============================================================
+# FELSŐ-MAGYARORSZÁGI region
+# ============================================================
+
+Bükki:
+  borregio: Felső-Magyarországi
+  name_en: Bukk
+  name_hu: Bükki
+  principal_varieties: [Olaszrizling, Leányka, Királyleányka, Chardonnay, Müller-Thurgau, Cserszegi fűszeres]
+  flagship_wine_styles: [fresh white]
+  notes: Small cool district on the southern flank of the Bükk mountains; crisp whites in an Egri-adjacent style.
+  sources:
+    - https://en.wikipedia.org/wiki/Bükk_wine_region
+
+Egri:
+  borregio: Felső-Magyarországi
+  name_en: Eger
+  name_hu: Egri
+  principal_varieties: [Kékfrankos, Kadarka, Cabernet franc, Cabernet sauvignon, Merlot, Pinot noir, Olaszrizling, Leányka, Hárslevelű]
+  flagship_wine_styles: [Egri Bikavér, Egri Csillag, Pinot noir]
+  notes: Famous for Egri Bikavér (Bull's Blood) red blend and the white Egri Csillag blend; volcanic tuff soils, cool nights, long aging in tuff cellars.
+  sources:
+    - https://en.wikipedia.org/wiki/Eger_wine_region
+
+Mátrai:
+  borregio: Felső-Magyarországi
+  name_en: Matra
+  name_hu: Mátrai
+  principal_varieties: [Olaszrizling, Rizlingszilváni, Hárslevelű, Tramini, Chardonnay, Sauvignon blanc, Cserszegi fűszeres]
+  flagship_wine_styles: [aromatic white, fresh Olaszrizling]
+  notes: Hungary's second-largest district, on the southern slopes of the Mátra; predominantly whites at moderate altitude.
+  sources:
+    - https://en.wikipedia.org/wiki/Mátra_wine_region
+
+# ============================================================
+# PANNON region
+# ============================================================
+
+Pécsi:
+  borregio: Pannon
+  name_en: Pecs
+  name_hu: Pécsi
+  principal_varieties: [Cirfandli, Olaszrizling, Chardonnay, Pinot blanc, Cabernet sauvignon, Kékfrankos]
+  flagship_wine_styles: [Cirfandli, fresh white]
+  notes: South-western Pannon district on the slopes of the Mecsek; rare home of Cirfandli (Zierfandler) and a mix of whites and reds.
+  sources:
+    - https://en.wikipedia.org/wiki/Pécs_wine_region
+
+Szekszárdi:
+  borregio: Pannon
+  name_en: Szekszard
+  name_hu: Szekszárdi
+  principal_varieties: [Kadarka, Kékfrankos, Cabernet franc, Cabernet sauvignon, Merlot, Syrah]
+  flagship_wine_styles: [Szekszárdi Bikavér, Kadarka, Bordeaux-style red]
+  notes: Loess-soil southern district producing the other classic Bikavér style and Hungary's finest Kadarka; warm, dry summers.
+  sources:
+    - https://en.wikipedia.org/wiki/Szekszárd_wine_region
+
+Tolnai:
+  borregio: Pannon
+  name_en: Tolna
+  name_hu: Tolnai
+  principal_varieties: [Kékfrankos, Cabernet sauvignon, Merlot, Chardonnay, Olaszrizling, Rajnai rizling]
+  flagship_wine_styles: [structured red, fresh white]
+  notes: Lesser-known Pannon district to the north of Szekszárd, with similar loess soils; producing increasing volumes of varietal reds and whites.
+  sources:
+    - https://en.wikipedia.org/wiki/Tolna_wine_region
+
+Villányi:
+  borregio: Pannon
+  name_en: Villany
+  name_hu: Villányi
+  principal_varieties: [Cabernet franc, Cabernet sauvignon, Merlot, Kékfrankos, Portugieser, Pinot noir]
+  flagship_wine_styles: [Villányi Franc, Bordeaux-style red]
+  notes: Hungary's warmest district, on the south-facing slopes of the Villány hills; internationally known for Cabernet Franc (Villányi Franc DHC) and powerful Bordeaux-style reds.
+  sources:
+    - https://en.wikipedia.org/wiki/Villány_wine_region
+
+# ============================================================
+# TOKAJ region
+# ============================================================
+
+Tokaji:
+  borregio: Tokaj
+  name_en: Tokaj
+  name_hu: Tokaji
+  principal_varieties: [Furmint, Hárslevelű, Sárgamuskotály, Kabar, Zéta, Kövérszőlő]
+  flagship_wine_styles: [aszú, late harvest, dry Furmint, szamorodni]
+  notes: UNESCO World Heritage region on volcanic soils at the confluence of the Tisza and Bodrog; world-famous for botrytised aszú dessert wines and increasingly for dry Furmint.
+  sources:
+    - https://en.wikipedia.org/wiki/Tokaj_wine_region
+    - https://hungarianwines.eu/grapes/

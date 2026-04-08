@@ -1,0 +1,132 @@
+{
+  "borvidek": "Balatonfelvidéki",
+  "name_hu": "Balatonfelvidéki",
+  "name_en": "Balaton Uplands",
+  "tagline": "A mosaic of basalt, dolomite and red sandstone on Balaton's north shore — the Káli Basin heartland.",
+  "tagline_hu": "Bazalt, dolomit és vörös homokkő mozaikja a Balaton északi partján – a Káli-medence szívében.",
+  "elevator_pitch": "The Balaton-felvidéki PDO covers a dramatic volcanic and dolomitic upland landscape between Badacsony and Balatonfüred-Csopak, with the Káli Basin as its prestige sub-appellation. Crisp, mineral Olaszrizling leads a white-dominated portfolio that now also includes serious single-vineyard Rieslings and the endemic Kéknyelű. The cultural landscape is on the UNESCO tentative list.",
+  "elevator_pitch_hu": "A Balaton-felvidéki OEM Badacsony és Balatonfüred-Csopak között húzódó látványos vulkáni-dolomitos tájat foglalja magába, prémium részterülete a Káli-medence. A borvidék fehér dominanciájú palettáját a karcos, ásványos olaszrizling vezeti, mellette komoly egyes dűlős rajnai rizlingek és az endemikus kéknyelű kapnak helyet. Kultúrtája az UNESCO Világörökség várományosi listáján szerepel.",
+  "flagship_wines": [
+    "Olaszrizling (dry, mineral)",
+    "Rajnai rizling (Riesling)",
+    "Kéknyelű"
+  ],
+  "flagship_wines_hu": [
+    "Olaszrizling (száraz, ásványos)",
+    "Rajnai rizling",
+    "Kéknyelű"
+  ],
+  "principal_grapes_summary": "Whites make up over 85% of plantings, led by Olaszrizling (35-45%), with Szürkebarát, Rajnai rizling, Zöld veltelíni, Rizlingszilváni and small but symbolic plots of Kéknyelű. Red varieties (Pinot Noir, Kékfrankos, Cabernet Sauvignon) are expanding on warmer red-sandstone slopes.",
+  "principal_grapes_summary_hu": "A telepítések több mint 85 százaléka fehér; az olaszrizling (35–45%) mellett szürkebarát, rajnai rizling, zöld veltelíni, rizlingszilváni és szimbolikus kéknyelű-parcellák szerepelnek. A vörösek (pinot noir, kékfrankos, cabernet sauvignon) a melegebb vörös homokkő lejtőkön terjeszkednek.",
+  "terroir_summary": "Within a 40 km strip, basalt and basalt tuff witness-hills alternate with Permian red sandstone, Triassic dolomite and limestone, and Pannonian marl, clay and loess — one of the most complex geological mosaics of any European PDO of its size. Shallow stony rendzinas dominate the prestigious basalt and dolomite sites; nocturnal drainage off the Bakony preserves acidity.",
+  "terroir_summary_hu": "Egy 40 km-es sávon belül bazalt és bazalttufa tanúhegyek váltakoznak permi vörös homokkővel, triász dolomittal és mészkővel, valamint pannóniai márgával, agyaggal és lösszel – ez Európa egyik legbonyolultabb földtani mozaikja egy ilyen méretű OEM-en belül. A presztízsdűlőket sekély, köves rendzinák uralják a bazalton és a dolomiton; a Bakonyról leereszkedő hűvös éjszakai légáramlás megőrzi a savakat.",
+  "climate_today": "Recent 1991-2020 normals show annual mean ~11.3-11.9 C, 2,000-2,100 sunshine hours and ~650-700 mm annual precipitation. Lake Balaton reflects light onto south-facing slopes and surface water has warmed ~0.32 C per decade in recent decades.",
+  "climate_today_hu": "Az 1991–2020-as normálértékek 11,3–11,9 °C-os évi átlagot, 2000–2100 napsütéses órát és kb. 650–700 mm évi csapadékot mutatnak. A Balaton fényt tükröz a déli kitettségű lejtőkre, a tó vize pedig évtizedenként mintegy 0,32 °C-kal melegedett az utóbbi időszakokban.",
+  "climate_threat_headline": "Freshness risk — the crisp, high-acid Olaszrizling signature is eroding under earlier harvest, higher sugars and falling malic acid.",
+  "climate_threat_headline_hu": "Frissességkockázat: a karcos, magas savú olaszrizling karaktere erodálódik a korábbi szüret, a magasabb cukortartalom és a csökkenő almasav nyomására.",
+  "climate_winner_loser": "Late-ripening Kéknyelű and red varieties on red-sandstone slopes are climate winners; Szürkebarát suffers raisining and pH drift in drought years.",
+  "climate_winner_loser_hu": "A későn érő kéknyelű és a vörös homokkő lejtők vörös fajtái a klímaváltozás nyertesei; a szürkebarát viszont száraz évjáratokban aszúsodásra és pH-eltolódásra hajlamos.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~940 ha (MBSZ/HNT, early 2020s)"
+    },
+    {
+      "label": "Status",
+      "value": "PDO; UNESCO tentative list — 'Balaton Uplands Cultural Landscape'"
+    },
+    {
+      "label": "Signature substrates",
+      "value": "Basalt witness-hills, Triassic dolomite, Permian red sandstone"
+    },
+    {
+      "label": "Sub-appellation",
+      "value": "Káli medence (Káli Basin) PDO"
+    },
+    {
+      "label": "White dominance",
+      "value": ">85% of plantings, led by Olaszrizling (35-45%)"
+    },
+    {
+      "label": "Heritage grape",
+      "value": "Kéknyelű — Hungarikum (2025), ~46 ha nationally, shared with Badacsony"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 940 ha (MBSZ/HNT, 2020-as évek eleje)"
+    },
+    {
+      "label_hu": "Státusz",
+      "value_hu": "OEM; UNESCO várományosi lista – „Balaton-felvidék kultúrtáj”"
+    },
+    {
+      "label_hu": "Jellegzetes alapkőzetek",
+      "value_hu": "Bazalt tanúhegyek, triász dolomit, permi vörös homokkő"
+    },
+    {
+      "label_hu": "Részterület",
+      "value_hu": "Káli-medence OEM"
+    },
+    {
+      "label_hu": "Fehér dominancia",
+      "value_hu": "A telepítések több mint 85 százaléka, az olaszrizling vezetésével (35–45%)"
+    },
+    {
+      "label_hu": "Hagyományos fajta",
+      "value_hu": "Kéknyelű – hungarikum (2025), országosan ~46 ha, Badacsonnyal megosztva"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Balaton-felvidék PDO — Wines of Hungary (Országkóstoló)",
+      "url": "https://orszagkostolo.gov.hu/regiosvedetteredet/balaton-felvidek/?lang=en"
+    },
+    {
+      "title": "Kál Basin (Káli Medence) PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/kal-basin-kali-medence-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Balaton Uplands Cultural Landscape — UNESCO World Heritage Tentative List",
+      "url": "https://whc.unesco.org/en/tentativelists/6269/"
+    },
+    {
+      "title": "Land of Fire and Salt: Hungary's Volcanic Wine Regions — Taste Hungary",
+      "url": "https://tastehungary.com/journal/land-of-fire-and-salt-hungarys-volcanic-wine-regions/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "balatonfelvideki",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Balatonfelvidéki district centroid: annual maximum 1-day precipitation rising from 24.5 mm to 27.3 mm (+2.9 mm, a proxy for severe-storm intensity); longest annual dry spell from 19.6 to 22.8 days (+3.1); frost days from 73 to 23 days/year (-50); annual coldest night from -18.4 °C to -9.0 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Balatonfelvidéki borvidék centroidjára: az éves maximális egynapos csapadék 24,5 mm-ről 27,3 mm-re nő (+2,9 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 19,6-ról 22,8 napra (+3,1); a fagyos napok száma 73-ról 23-ra (-50); az év leghidegebb éjszakája -18,4 °C-ról -9,0 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 24.47,
+      "rx1day_mm_ssp585_2080_2099": 27.34,
+      "rx5day_mm_hist_1995_2014": 52.73,
+      "rx5day_mm_ssp585_2080_2099": 53.79,
+      "cdd_days_hist_1995_2014": 19.65,
+      "cdd_days_ssp585_2080_2099": 22.8,
+      "cwd_days_hist_1995_2014": 9.75,
+      "cwd_days_ssp585_2080_2099": 8.25,
+      "frost_days_hist_1995_2014": 73.4,
+      "frost_days_ssp585_2080_2099": 22.9,
+      "tnn_c_hist_1995_2014": -18.36,
+      "tnn_c_ssp585_2080_2099": -9.03,
+      "growing_season_length_days_hist_1995_2014": 267.2,
+      "growing_season_length_days_ssp585_2080_2099": 324.9
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

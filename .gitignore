@@ -1,0 +1,129 @@
+# ============================================================================
+# Hungarian Wine Climate Atlas — gitignore
+# ============================================================================
+# Keep the repo focused on:
+#   - site/         (Next.js source + curated data mirror)
+#   - analysis/src/ + analysis/config/ + analysis/curated/  (pipeline + outputs)
+#   - research/districts/*.md + research/synthesis/*.md     (long-form content)
+#   - LICENSE / README.md / CITATION.cff / .zenodo.json / DEPLOYMENT.md
+#   - CLAUDE.md
+#
+# Everything below is excluded for size, copyright, or noise reasons.
+# ============================================================================
+
+# ---- Operating system / editor noise --------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ---- Secrets and Claude session memory ------------------------------------
+.env
+.env.*
+!.env.example
+.claude/
+claude_session.json
+
+# ---- Node / Next.js build artefacts ---------------------------------------
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+.vercel/
+
+# ---- Python intermediate / cache ------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- Pipeline intermediates (regenerable from analysis/src/) --------------
+analysis/interim/
+analysis/logs/
+analysis/reports/figures/_*.png
+analysis/reports/figures/*_align_*.png
+# Keep curated outputs (analysis/curated/) — that IS the publishable bundle.
+# Keep src + config — those are the pipeline source.
+
+# ---- Curated CCKP cache (downloaded NetCDF chunks) ------------------------
+analysis/curated/cckp/_cache/
+analysis/interim/cckp_cache/
+analysis/interim/odpmethu_cache/
+
+# ---- Research source raw + converted markdown ------------------------------
+# 190 MB of fetched HTML / 20 MB of converted markdown. Copyright on the
+# fetched pages belongs to the original publishers; we don't redistribute.
+# The INDEX.md, index.json, README.md, and fetch_sources.py inside
+# research/sources/ ARE kept (they document what we fetched, where, and how).
+research/sources/raw/
+research/sources/md/
+research/sources/failures.log
+research/sources/run.log
+
+# ---- ArcGIS Pro project + lock files --------------------------------------
+borosProjekt/
+*.shp.lock
+*.shp.*.lock
+*.shp.ZZ.*
+*.lock.lock
+*.tmp
+.arcgis/
+
+# ---- Original wine-region reference images (unclear redistribution rights)
+Borvidekterkep.png
+magyar-borvidekek-regionkent-terkep-1.jpg
+magyarorszag-borregioi-es-borvidekei_kep-1.jpg
+
+# ---- Georeferencing intermediates (developed before the canonical pipeline)
+wine_map_cropped.jpg
+wine_map_cropped.jgw
+wine_map_cropped.prj
+wine_map_georef.tif
+wine_map_georef.tif.aux.xml
+wine_map_georef_v2.tif
+wine_map_georef_v2.tif.aux.xml
+wine_map_georef_v2.tfwx
+_affine_params.npy
+_borvidek_palette.json
+
+# ---- Debug / scratch images and HTML caches -------------------------------
+_align_*.png
+_legend_*.png
+_legrow_*.png
+_map_area.png
+_ne_corner.png
+_preview_*.png
+_result_preview.png
+_tmp_*.html
+_tmp_*.txt
+_frontiers_lines.txt
+
+# ---- Superseded experimental scripts --------------------------------------
+extract_districts.py
+legend_colors.json
+
+# ---- ArcGIS shapefile sidecars to skip (keep .shp/.shx/.dbf/.prj/.cpg) ----
+*.sbn
+*.sbx
+*.shp.xml
+
+# ---- Temporary directories sometimes created by parallel agents -----------
+analysis/_tmp/
+site/_tmp/
+research/_tmp/
+**/_tmp/
+
+# ---- Local notes (not meant for publication) -------------------------------
+NOTES.md
+TODO.md
+SCRATCH.md
+
+# ---- macOS Finder ---------------------------------------------------------
+.DS_Store

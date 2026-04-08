@@ -1,0 +1,132 @@
+{
+  "borvidek": "Badacsonyi",
+  "name_hu": "Badacsonyi",
+  "name_en": "Badacsony",
+  "tagline": "Volcanic basalt buttes on Balaton's north shore, home of the endemic Kéknyelű grape.",
+  "tagline_hu": "Vulkáni bazalt tanúhegyek a Balaton északi partján, az endemikus kéknyelű otthona.",
+  "elevator_pitch": "Badacsony is a tiny, prestige-driven PDO built on Pliocene basalt witness-hills rising straight out of Lake Balaton. Dark volcanic soils, lake-reflected sunlight and a sub-Mediterranean mesoclimate yield mineral, saline dry whites dominated by Olaszrizling, Szürkebarát and the endemic Kéknyelű, declared a Hungarikum in 2025.",
+  "elevator_pitch_hu": "A Badacsonyi borvidék egy kicsi, presztízsorientált OEM, amelyet a Balatonból kiemelkedő pliocén bazalt tanúhegyek határoznak meg. A sötét vulkáni talajok, a tó tükrözött napfénye és a szubmediterrán mezoklíma ásványos, sós-friss száraz fehéreket ad: az olaszrizling, a szürkebarát és az endemikus, 2025-ben hungarikummá nyilvánított kéknyelű uralja a területet.",
+  "flagship_wines": [
+    "Olaszrizling",
+    "Szürkebarát (Pinot Gris)",
+    "Kéknyelű"
+  ],
+  "flagship_wines_hu": [
+    "Olaszrizling",
+    "Szürkebarát",
+    "Kéknyelű"
+  ],
+  "principal_grapes_summary": "White varieties account for over 95% of plantings. Olaszrizling is the mineral workhorse, Szürkebarát the premium volume leader, and the endemic Kéknyelű (~45-47 ha, ~3% of the district) is the flagship identity grape.",
+  "principal_grapes_summary_hu": "A telepítések több mint 95 százalékát fehér fajták adják. Az olaszrizling az ásványos „munkás”, a szürkebarát a prémium volumenvezető, az endemikus kéknyelű (~45–47 ha, a borvidék kb. 3 százaléka) pedig az identitás zászlóshajója.",
+  "terroir_summary": "The landscape is defined by Pliocene basalt witness-mountains (tanúhegyek) whose hard volcanic caps protected underlying Pannonian sediments. A typical slope stacks basalt scree, basalt tuff, red Mediterranean-type clays, Pannonian sand and loess. Dark basalt gives powerful heat retention and mineral release; premium parcels face S-SW at 10-25 degrees, boosted by lake-reflected radiation.",
+  "terroir_summary_hu": "A tájképet pliocén bazalt tanúhegyek határozzák meg, amelyek kemény vulkáni sapkája megőrizte az alattuk fekvő pannóniai üledékeket. Egy tipikus lejtő bazalttörmeléket, bazalttufát, mediterrán típusú vörös agyagot, pannóniai homokot és löszt rétegez egymásra. A sötét bazalt erőteljes hőtárolást és ásványkibocsátást biztosít; a prémium parcellák 10–25 fokos déli–délnyugati lejtésűek, és a tóról visszaverődő napsugárzás tovább erősíti őket.",
+  "climate_today": "Recent 1991-2020 normals show mean annual temperature above 11 degrees C and around 2,000 sunshine hours. The lake cools summer days by ~1-1.5 C and warms autumn nights by 1.5-2 C relative to inland Veszprém County.",
+  "climate_today_hu": "Az 1991–2020-as friss normálértékek 11 °C feletti évi középhőmérsékletet és nagyjából 2000 napsütéses órát mutatnak. A tó nyáron kb. 1–1,5 °C-kal hűti a nappalokat, ősszel pedig 1,5–2 °C-kal melegebben tartja az éjszakákat a Veszprém megyei belső területekhez képest.",
+  "climate_threat_headline": "Heatwaves and sunburn on dark basalt scree, combined with Lake Balaton water-budget decline, threaten the mesoclimate underpinning the district.",
+  "climate_threat_headline_hu": "A hőhullámok és a sötét bazalttörmeléken jelentkező napégés a Balaton vízháztartásának romlásával együtt veszélyezteti a borvidék mezoklímáját.",
+  "climate_winner_loser": "Late-ripening Kéknyelű and Rajnai rizling currently benefit from warmer seasons; classical lean Olaszrizling and high-sugar Szürkebarát lose freshness and gain alcohol.",
+  "climate_winner_loser_hu": "A későn érő kéknyelű és rajnai rizling a melegedő évjáratoknak ma még profitálója; a klasszikus, karcsú olaszrizling és a magas cukortartalmú szürkebarát viszont frissességet veszít és alkoholban gyarapszik.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~1,430 ha under PDO"
+    },
+    {
+      "label": "Status",
+      "value": "PDO (OEM), Balaton region"
+    },
+    {
+      "label": "Signature substrate",
+      "value": "Pliocene basalt witness-hills (Badacsony, Szent György-hegy, Csobánc, Gulács)"
+    },
+    {
+      "label": "Flagship grape",
+      "value": "Kéknyelű — endemic, female-flowered, declared a Hungarikum in 2025"
+    },
+    {
+      "label": "White-grape dominance",
+      "value": ">95% of plantings"
+    },
+    {
+      "label": "Kéknyelű area",
+      "value": "~45-47 ha, up from ~1 ha in the mid-1990s"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "OEM keretében kb. 1430 ha"
+    },
+    {
+      "label_hu": "Státusz",
+      "value_hu": "OEM, Balaton borrégió"
+    },
+    {
+      "label_hu": "Jellegzetes alapkőzet",
+      "value_hu": "Pliocén bazalt tanúhegyek (Badacsony, Szent György-hegy, Csobánc, Gulács)"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Kéknyelű – endemikus, nővirágú, 2025-ben hungarikummá nyilvánítva"
+    },
+    {
+      "label_hu": "Fehérbor-dominancia",
+      "value_hu": "A telepítések több mint 95 százaléka"
+    },
+    {
+      "label_hu": "Kéknyelű-terület",
+      "value_hu": "Kb. 45–47 ha, az 1990-es évek közepi ~1 hektárról nőtt fel"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Badacsony wine region — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Badacsony_wine_region"
+    },
+    {
+      "title": "Badacsony PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/badacsony-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Kéknyelű grape variety — Wines of Hungary",
+      "url": "https://winesofhungary.hu/grape-varieties/white-grape-varieties-white-wine-styles/keknyelu"
+    },
+    {
+      "title": "Kéknyelű: A late Lake Balaton comeback — World of Fine Wine",
+      "url": "https://worldoffinewine.com/news-features/wine-hungary-keknyelu"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "badacsonyi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Badacsonyi district centroid: annual maximum 1-day precipitation rising from 23.8 mm to 26.6 mm (+2.8 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.0 to 23.5 days (+3.5); frost days from 66 to 20 days/year (-46); annual coldest night from -17.9 °C to -8.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Badacsonyi borvidék centroidjára: az éves maximális egynapos csapadék 23,8 mm-ről 26,6 mm-re nő (+2,8 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,0-ról 23,5 napra (+3,5); a fagyos napok száma 66-ról 20-ra (-46); az év leghidegebb éjszakája -17,9 °C-ról -8,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 23.85,
+      "rx1day_mm_ssp585_2080_2099": 26.64,
+      "rx5day_mm_hist_1995_2014": 51.97,
+      "rx5day_mm_ssp585_2080_2099": 52.76,
+      "cdd_days_hist_1995_2014": 20,
+      "cdd_days_ssp585_2080_2099": 23.5,
+      "cwd_days_hist_1995_2014": 9.45,
+      "cwd_days_ssp585_2080_2099": 8.3,
+      "frost_days_hist_1995_2014": 66.3,
+      "frost_days_ssp585_2080_2099": 19.8,
+      "tnn_c_hist_1995_2014": -17.87,
+      "tnn_c_ssp585_2080_2099": -8.86,
+      "growing_season_length_days_hist_1995_2014": 273.5,
+      "growing_season_length_days_ssp585_2080_2099": 328.6
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

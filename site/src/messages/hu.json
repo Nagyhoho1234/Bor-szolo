@@ -1,0 +1,523 @@
+{
+  "nav": {
+    "home": "Kezdőlap",
+    "brand": "Bor & Klíma",
+    "regions": "Borrégiók",
+    "districts": "Borvidékek",
+    "compare": "Összehasonlítás",
+    "varieties": "Szőlőfajták",
+    "threats": "Veszélyek",
+    "methods": "Módszertan",
+    "synthesis": "Szintézis",
+    "about": "Az atlaszról",
+    "downloads": "Letöltések"
+  },
+  "synthesis": {
+    "hub": {
+      "title": "Szintézis-tanulmányok",
+      "intro": "Két hosszabb tanulmány foglalja össze a projekt klímahatás-eredményeit, két különböző olvasóközönség számára. Válaszd azt, amelyik a számodra kívánt mélységnek megfelel.",
+      "englishOnly": "csak angolul",
+      "scientific": {
+        "kicker": "Kutatóknak",
+        "title": "Tudományos szintézis",
+        "description": "Kéziratszintű áttekintés a megfigyelt és előrejelzett klímaváltozási hatásokról mind a 22 magyar borvidéken, Lakatos & Nagy (2025) és a 22 borvidék-szintű háttéranyag alapján.",
+        "meta": "≈ 7 000 szó · 14 fejezet"
+      },
+      "policy": {
+        "kicker": "Termelőknek, döntéshozóknak, befektetőknek",
+        "title": "Döntéstámogató összefoglaló",
+        "description": "Cselekvésorientált anyag termelőknek, pincészetvezetőknek, a HNT-nek, az Agrárminisztériumnak és KAP-tanácsadóknak. Közérthető kockázati besorolás, alkalmazkodási menük és ajánlások.",
+        "meta": "≈ 10 000 szó · 11 fejezet"
+      },
+      "caveat": "Mindkét tanulmány a projekt {date}-i állapotát tükrözi. A számok kis mértékben eltérhetnek az oldalon szereplő élő ábráktól, ahogy az elemzési csővezeték tovább frissül."
+    },
+    "page": {
+      "back": "← Vissza a szintézis-tanulmányokhoz",
+      "references": "Hivatkozások",
+      "missing": "Ez a tanulmány jelenleg nem elérhető."
+    }
+  },
+  "home": {
+    "title": "Magyar borvidékek és a változó éghajlat",
+    "subtitle": "Interaktív atlasz Magyarország 22 borvidékének éghajlati érzékenységéről.",
+    "intro": "Borvidékről borvidékre haladó elemzés arról, hogyan alakítja át a klímaváltozás Magyarország 22 borvidékének szőlő- és borkultúráját – Tokaj-Hegyalja melegedő őszétől Villány hőstressz-horizontjáig. A FORESEE regionális klímaadatbázisra épül, a Világbank CMIP6 modell-ensemble-jével validálva, és 38 szőlőfajta klímaigény-adatbázisával összekapcsolva.",
+    "mapTitle": "Országos térkép",
+    "mapSubtitle": "A 22 borvidék a hozzájuk tartozó borrégió színével. Kattints egy borvidékre a teljes klímaprofilért.",
+    "browseTitle": "Böngéssz mind a 22 borvidék között",
+    "browseSubtitle": "Kattints bármelyik borvidékre a teljes klímaprofilért, a szőlészeti mutatók műszerfaláért, a fajta-alkalmasságért és a kutatói dossziéért.",
+    "draftNotice": "<strong>Vázlat.</strong> A veszélyek adatbázisa (aranyszínű sárgaság idővonala, törzsbetegségek, EU-s növényvédőszer-szabályozás) jelenleg kurált kezdő változat, közlés előtt forrásellenőrzést igényel. A fajták klímaigény-adatai bevezetésként képzési tudásból származnak, szakmai felülvizsgálatot kívánnak. Az ismert korlátokról a <methodsLink>módszertani</methodsLink> oldalon olvashatsz.",
+    "headlines": {
+      "fd": {
+        "big": "21 / 22",
+        "label": "magyar borvidéken igazolták 2025-re az aranyszínű sárgaság (Flavescence dorée) jelenlétét"
+      },
+      "tokaj": {
+        "big": "+5,2 °C",
+        "label": "várható melegedés Tokaj-Hegyalján 2080–2099-re SSP5-8.5 alatt (CCKP CMIP6 ensemble)"
+      },
+      "villany": {
+        "big": "Ib → IV",
+        "label": "Villányi: a legnagyobb Winkler-osztályváltás a magyar borvidékek között (RCP8.5 2081–2100)"
+      },
+      "coverage": {
+        "big": "9 × 22 × 130 év",
+        "label": "szőlészeti index × borvidék × évek (1971–2100)"
+      }
+    }
+  },
+  "districts": {
+    "indexTitle": "Borvidékek",
+    "indexSubtitle": "Magyarország 22 hivatalos borvidéke. Minden kártya egy rövid, egymondatos bemutatkozást hoz. Kattints a teljes klímaprofilért, szőlészeti indexekért, fajta-alkalmasságért és kutatói dossziéért.",
+    "settlements": "település",
+    "area": "terület",
+    "region": "Borrégió",
+    "flagshipLabel": "Jellegzetes borok",
+    "detail": {
+      "headline": {
+        "tempDelta": "Átlaghőmérséklet-változás",
+        "gddDelta": "Winkler-GDD változás",
+        "flagshipDelta": "Vezérfajta alkalmassága"
+      },
+      "headlineSubtitle": "2071–2100 RCP8.5 vs. 1991–2020",
+      "settlements": "település",
+      "flagshipLabel": "Jellegzetes borok",
+      "principalLabel": "Fő fajták",
+      "grapesAndWines": "Szőlő és bor",
+      "terroir": "Terroir",
+      "climateToday": "Mai éghajlat",
+      "climateThreat": "Klímakockázat",
+      "varietyWinnersLosers": "Nyertes és vesztes szőlőfajták",
+      "keyFacts": "Kulcsadatok",
+      "topSources": "Kiemelt források",
+      "extremeOutlook": "Szélsőséges időjárási kilátások",
+      "extremeMetrics": {
+        "rx1day": "Max. 1 napi csapadék",
+        "rx5day": "Max. 5 napi csapadék",
+        "cdd": "Leghosszabb száraz időszak",
+        "cwd": "Leghosszabb csapadékos időszak",
+        "frost": "Fagyos napok / év",
+        "tnn": "Leghidegebb éjszakai minimum",
+        "gsl": "Tenyészidőszak hossza"
+      },
+      "source": "Forrás",
+      "hungaromet": {
+        "title": "Mit mért valójában a legközelebbi meteorológiai állomás",
+        "subtitle": "{station} — {distance} km a borvidék középpontjától · {yearMin}–{yearMax} · HungaroMet nyílt adatok",
+        "cols": {
+          "year": "Év",
+          "tmean": "Évi középhőmérséklet",
+          "precip": "Évi csapadékösszeg"
+        },
+        "meanLabel": "5 éves átlag",
+        "caption": "Ezek valós állomási mérések. Használd őket a fenti FORESEE-előrejelzések ellenőrzésére.",
+        "source": "Forrás",
+        "license": "CC-BY-SA"
+      },
+      "whatsGrown": "Mit termesztenek itt",
+      "principalVarieties": "Fő fajták",
+      "climateTraj": "Klímatrend",
+      "indicesDashboard": "Szőlészeti indexek műszerfala",
+      "indicesDashboardSubtitle": "Minden kártya az 1991–2020-as alapidőszak → 2071–2100 RCP8.5 jövőbeli átlagát és egy 130 éves mini-idősort mutat. Kattints bármelyik kártyára az interaktív idősorért, ahol mindkét RCP-forgatókönyv és a megfigyelt múlt is látszik.",
+      "variety": "Fajta-alkalmasság",
+      "biggestWinner": "Legnagyobb nyertes",
+      "biggestLoser": "Legnagyobb vesztes",
+      "replacements": {
+        "title": "Klímaadaptált telepítési javaslatok",
+        "caption": "Ha a klímapálya beigazolódik és a borvidék hagyományos fajtái szorulni kezdenek, a modell ezeket a fajtákat javasolná helyettesítésként. Iránymutatásnak szánjuk, nem konkrét telepítési receptnek.",
+        "inlineHeader": "A modell 4 legjobb választása",
+        "suitabilityShort": "alk.",
+        "noData": "Ehhez az időszakhoz egyetlen jelölt sem érte el az alkalmassági küszöböt.",
+        "expanderLabel": "Mind a 8 időszak megjelenítése",
+        "caveat": "Mielőtt bármelyik javaslatra építenél, vesd össze az alábbi kutatói dosszié 12. szakaszának kvalitatív bizonyítékaival.",
+        "noteExisting": "már most is fő fajta itt",
+        "noteLimit": "korlátozó tényező: {factor}",
+        "cols": {
+          "variety": "Fajta",
+          "suitability": "Alk.",
+          "delta": "Δ az alaphoz",
+          "note": "Megjegyzés"
+        }
+      },
+      "threats": "Veszélyek",
+      "threatFdDescription": "2025-re 22 magyar borvidékből 21-ben igazolták az aranyszínű sárgaság (FD) megjelenését; vektora, a Scaphoideus titanus kabóca a melegebb teleknek kedvez.",
+      "threatFdDraftWarning": "A threats/flavescence_doree_timeline.csv a csomag-manifesztben VÁZLATOS jelöléssel szerepel.",
+      "threatFrostDescription": "A 2071–2100 RCP8.5 normálértékekben kockázati jelzés aktiválódott: {flag}",
+      "threatDroughtDescription": "Várható P−PET 2071–2100 RCP8.5 alatt: {value} mm.",
+      "threatHeatDescription": "Várható hőségnapok (Tmax ≥ 35 °C): {value} nap/év.",
+      "peers": "Összehasonlítás a szomszédos borvidékekkel",
+      "peerCols": {
+        "district": "Borvidék",
+        "winklerNow": "Winkler most",
+        "winklerFuture": "Winkler 2071–2100",
+        "delta": "Δ"
+      },
+      "researchTitle": "Kutatói dosszié",
+      "researchSubtitle": "Borvidékre szabott klímaváltozási szintézis a terroirról, a szőlészet történetéről és a várható hatásokról. A számozott hivatkozások az oldal alján található összevont bibliográfiára mutatnak.",
+      "references": "Hivatkozások",
+      "sources": "Források és adatok",
+      "baseline": "Alapidőszak 1991–2020",
+      "future": "Jövő 2071–2100 RCP8.5",
+      "downloadAll": "Teljes kurált adatcsomag letöltése",
+      "citation": "Kérjük, hivatkozz a FORESEE v1.1, a World Bank CCKP CMIP6 és a Lakatos & Nagy (Frontiers in Plant Science 2025) forrásokra."
+    }
+  },
+  "regions": {
+    "indexTitle": "Borrégiók",
+    "indexSubtitle": "Magyarországnak 6 borrégiója van, amelyek a 22 borvidéket foglalják magukba.",
+    "districtsInRegion": "A régió borvidékei"
+  },
+  "compare": {
+    "title": "Borvidékek összehasonlítása",
+    "subtitle": "Mind a 22 borvidék a klímaváltozási kitettség szerint rangsorolva. Rendezd bármelyik oszlop szerint, keress névre, kattints egy borvidékre a teljes profilért. Jövő = 2081–2100 RCP8.5 alatt.",
+    "searchPlaceholder": "Keresés…",
+    "risk": {
+      "title": "Összevont klímakockázati rangsor",
+      "subtitle": "A borvidékek a kiváltott kockázati jelzések száma szerint (fagy, hőség, aszály, Winkler-osztályváltás) 2071–2100 RCP8.5 alatt."
+    },
+    "suitability": {
+      "title": "Fajta × borvidék alkalmassági hőtérkép",
+      "subtitle": "Cella = modellezett alkalmasság (0–1) 2071–2100 RCP8.5-re."
+    },
+    "columns": {
+      "borvidek": "Borvidék",
+      "borregio": "Borrégió",
+      "winklerNow": "Winkler most (1991–2020)",
+      "winklerFuture": "Winkler jövő",
+      "winklerDelta": "Δ Winkler",
+      "heatDaysFuture": "Hőségnapok jövő",
+      "droughtFuture": "P−PET jövő (mm)",
+      "winner": "Legnagyobb nyertes fajta",
+      "loser": "Legnagyobb vesztes fajta"
+    },
+    "picker": {
+      "heading": "Vagy válassz kettőt egymás melletti összevetésre",
+      "subtitle": "Válassz ki bármelyik két borvidéket, és nézd meg minden klímaindexet és fajta-alkalmassági pontszámot egymás mellett.",
+      "districtA": "A borvidék",
+      "districtB": "B borvidék",
+      "submit": "Összehasonlítás",
+      "sameWarning": "Két különböző borvidéket válassz."
+    }
+  },
+  "comparePair": {
+    "title": "{a} vs {b}",
+    "subtitle": "Két borvidék egymás mellett: alapidőszak (1991–2020) és század végi állapot (2081–2100, RCP8.5) minden klímaindexre, valamint a fő fajták uniójának alkalmassági pontszámai.",
+    "backToCompare": "Vissza az összes borvidékhez",
+    "stat": {
+      "winklerNow": "Winkler most",
+      "winklerFuture": "Winkler 2081–2100",
+      "winklerDelta": "Δ Winkler",
+      "heatDaysFuture": "Hőségnapok ≥35 °C (jövő)"
+    },
+    "unit": {
+      "days": "nap"
+    },
+    "indices": {
+      "heading": "Klímaindexek egymás mellett",
+      "subtitle": "Alapidőszak = 1991–2020 megfigyelt. Jövő = 2081–2100 RCP8.5 alatt. A jobb oldali oszlop a jövő időszak abszolút különbségét emeli ki (A − B).",
+      "index": "Index",
+      "baseline": "Alap 1991–2020",
+      "future": "Jövő 2081–2100 (RCP8.5)",
+      "diff": "Eltérés (A − B)"
+    },
+    "varieties": {
+      "heading": "Fajta-alkalmasság összehasonlítás",
+      "subtitle": "Modellezett alkalmassági pontszám (0–1) mindkét borvidék fő fajtáira, alapidőszakban és század végi RCP8.5 alatt.",
+      "variety": "Fajta",
+      "baseline": "Alap 1991–2020",
+      "future": "Jövő 2081–2100 (RCP8.5)",
+      "bothPrincipal": "Mindkettőben fő fajta",
+      "onlyA": "Csak a {a} borvidéken fő",
+      "onlyB": "Csak a {b} borvidéken fő",
+      "scale": "Pontszám: ≥0,75 erős illeszkedés, 0,5–0,74 jó, 0,25–0,49 marginális, <0,25 gyenge."
+    },
+    "footnote": {
+      "before": "Ezeket a számokat relatív összehasonlításként olvasd; mindkét borvidék ugyanazokat az adatforrásokat és módszertant használja — lásd ",
+      "methodsLink": "Módszertan",
+      "after": " a teljes adatfolyamért."
+    }
+  },
+  "varieties": {
+    "indexTitle": "Szőlőfajták",
+    "indexSubtitle": "{count} szőlőfajta, amelyek fő fajtaként szerepelnek Magyarország 22 borvidékén. A borvidékek száma szerint rendezve.",
+    "tableHeader": {
+      "variety": "Fajta",
+      "nDistricts": "Borvidékek száma",
+      "districts": "Borvidékek"
+    },
+    "colourRed": "Vörös",
+    "colourWhite": "Fehér",
+    "grownIn": "Fő fajta itt",
+    "detail": {
+      "kicker": "Szőlőfajta",
+      "principalIn": "Fő fajta 22 magyar borvidékből {count}-en",
+      "grownAsPrincipal": "Fő fajtaként termesztik a következő borvidékeken",
+      "envelopeNote": "A klímaigény-adatok (Huglin/Winkler-tartományok, fagy- és hőtűrés) az <code>analysis/config/grape_envelopes.csv</code> fájlban vannak, és ezek alapján számoljuk a borvidék × fajta alkalmassági pontszámokat az egyes klímaforgatókönyvekre. Az illesztő algoritmust a <methodsLink>módszertani oldal</methodsLink> ismerteti.",
+      "notFound": "A fajta nem található",
+      "backToAll": "← Vissza a fajtákhoz",
+      "current": "Jelenlegi alkalmasság (1991–2020)",
+      "future": "Jövőbeli alkalmasság (2071–2100 RCP8.5)",
+      "delta": "Változás"
+    }
+  },
+  "threats": {
+    "indexTitle": "Veszélyek a magyar szőlészetre",
+    "indexSubtitle": "Azok a kockázatok, amelyek átalakítják Magyarország 22 borvidékét – a 2025-ös aktív aranyszínű sárgaság (Flavescence dorée) járványtól a klímaváltozás hajtotta hőség-, aszály- és fagykockázatokig. Minden oldal rangsorolja mind a 22 borvidéket a releváns mutató szerint, és lehetővé teszi a FORESEE egymodelles regionális projekció és a Világbank CMIP6 multi-modell ensemble összevetését.",
+    "draftWarning": "<strong>Megjegyzés:</strong> A /data/threats/ mappa kártevő-, betegség- és szabályozási CSV-i még kurált vázlatok. Az aranyszínű sárgaság oldal szövegét önállóan ellenőriztük; a sorszintű adattáblák közlés előtt forrásellenőrzést igényelnek.",
+    "severity": {
+      "catastrophic": "katasztrofális",
+      "high": "magas",
+      "medium": "közepes"
+    },
+    "cards": {
+      "fd": {
+        "title": "Aranyszínű sárgaság (Flavescence dorée)",
+        "summary": "A Scaphoideus titanus kabóca által terjesztett fitoplazmás betegség, amelyet 2025-ben 22 magyar borvidékből 21-ben igazoltak. A teljes, évi 270 millió literes borágazatot fenyegeti.",
+        "flag": "Aktív járvány"
+      },
+      "heat": {
+        "title": "Hőstressz",
+        "summary": "A 35 °C feletti nyári napok leállítják a fotoszintézist, aszalódást és aromavesztést okoznak. A FORESEE és a CCKP projekciók alapján Csongrád-Bácska a legkitettebb.",
+        "flag": "Éghajlat · várható"
+      },
+      "drought": {
+        "title": "Aszály",
+        "summary": "Tenyészidőszaki csapadék mínusz PET. A déli magyarországi borvidékek többsége a század végére súlyos vízhiány felé tart, különösen RCP8.5 alatt.",
+        "flag": "Éghajlat · várható"
+      },
+      "frost": {
+        "title": "Tavaszi fagy",
+        "summary": "Március–májusi Tmin <0 °C események. A fagyos napok száma a melegedéssel csökken, de a korábbi rügyfakadás áthelyezi a sérülékeny ablakot, és ki is olthatja a nyereséget.",
+        "flag": "Éghajlat · időjárási szélsőség"
+      }
+    },
+    "fd": {
+      "kicker": "Aktív járvány · katasztrofális",
+      "title": "Aranyszínű sárgaság (Flavescence dorée)",
+      "lede": "A szőlő fitoplazmás betegsége, amelyet a <em>Scaphoideus titanus</em> amerikai szőlőkabóca terjeszt. Jelenleg szinte minden magyar borvidéken terjed, és egy 270 millió literes borágazatot veszélyeztet.",
+      "h2Status": "Állapot 2025-ben",
+      "statusBody": "A Nemzeti Élelmiszerlánc-biztonsági Hivatal (NÉBIH) 22 magyar borvidékből <strong>21-ben</strong> – többek között Tokajban, Egerben, Zalában és Pannonhalmán – igazolta az aranyszínű sárgaság jelenlétét. Országosan több mint 200 felderítő csoport dolgozik; a magyar kormány mintegy 3,8 milliárd forintot (~11 millió USD) különített el rendkívüli növényvédelmi felderítésre, vektorirtó növényvédőszer-programokra és termelői kártalanításra. Szakmai hangok már a fertőzött ültetvények tömeges kivágásának elkerülhetetlenségére figyelmeztetnek.",
+      "h2Background": "Háttér",
+      "backgroundBody1": "Az aranyszínű sárgaság (FD) az Európai Unióban zárlati károsító. A kórokozó egy fitoplazma – egy sejtfal nélküli, a háncsban élő baktérium – amelyet a <em>Scaphoideus titanus</em> amerikai szőlőkabóca terjeszt. A vektor a 20. század második felében honosodott meg a kontinentális Európában. Tünetei közé tartozik a levelek besodródása, a koraőszi elszíneződés és a bogyók aszalódása; a fertőzött tőkék már nem hoznak értékesíthető termést, és jellemzően ki kell vágni őket.",
+      "backgroundBody2": "Magyarországon először <strong>2013 augusztusában</strong>, az ország délnyugati részén (Zala környékén) észlelték. Több mint egy évtizeden át lassan terjedt, és nagyrészt kívül maradt a termelők és a szélesebb közvélemény figyelmén; az, hogy 2025-ben már 22 borvidékből 21-be eljutott, nagyságrendi ugrás.",
+      "h2Climate": "Klímakapcsolat",
+      "climateBody": "A melegebb telek kedveznek a <em>Scaphoideus titanus</em> tojásainak áttelelésének, a hosszabb tenyészidőszak pedig kitolja azt az időablakot, amikor a kabóca a fitoplazmát átadhatja. Az FD 2020-as évek eleji gyorsuló terjedése egybeesik a FORESEE projekciók szerinti rohamos téli felmelegedés időszakával – a hőmérsékleti trendekért lásd a borvidékenkénti <indicesLink>klímaindex-oldalakat</indicesLink>, a melegedési kitettség szerinti rangsorért pedig az <compareLink>összehasonlító nézetet</compareLink>.",
+      "h2Sources": "Források",
+      "draftNote": "<strong>Megjegyzés:</strong> A <code>/data/threats/flavescence_doree_timeline.csv</code> alapján készült idővonal még kurált vázlat, soronkénti forrásellenőrzésre vár. A fenti szöveget a felsorolt források alapján ellenőriztük."
+    },
+    "heat": {
+      "kicker": "Klímakockázat · nyári hőség",
+      "title": "Hőstressz",
+      "lede": "Azon nyári napok száma (június–augusztus), amikor a maximumhőmérséklet 35 °C fölé emelkedik. E küszöb felett leáll a fotoszintézis, a bogyók aszalódnak és az aromafejlődés megakad. A grafikon a FORESEE egymodelles regionális projekciót a Világbank CCKP CMIP6 multi-modell ensemble-jével veti össze – ahol mindkét forrás meredek emelkedést mutat, ott a legnagyobb bizonyosságú hőségkockázati gócpontok találhatók.",
+      "chartTitleShort": "Hőségnapok (>35 °C) magyar borvidékenként",
+      "chartTitleFull": "Hőségnapok (>35 °C, jún.–aug.) magyar borvidékenként",
+      "units": "nap/év"
+    },
+    "drought": {
+      "kicker": "Klímakockázat · nyári vízhiány",
+      "title": "Aszály",
+      "subtitle": "A borvidékek a várható tenyészidőszaki vízhiány szerint 2071–2100 RCP8.5 alatt.",
+      "lede": "A tenyészidőszak (április–október) vízmérlege: csapadék mínusz potenciális evapotranspiráció (Hargreaves-módszer). Negatív = vízhiány. A FORESEE oszlopok közvetlenül a P−PET mérleget mutatják. A CCKP oszlopok a Világbank multi-modell ensemble éves összegű csapadékát, független csapadék-referenciaként. Ahol a FORESEE éles P−PET-zuhanást jelez és a CCKP is csökkenő csapadékot, ott robusztus aszályjel van.",
+      "chartTitleShort": "Tenyészidőszaki vízmérleg",
+      "chartTitleFull": "Tenyészidőszaki vízmérleg magyar borvidékenként",
+      "units": "mm"
+    },
+    "frost": {
+      "kicker": "Klímakockázat · késő tavaszi fagy",
+      "title": "Tavaszi fagy",
+      "subtitle": "A borvidékek a várható tavaszi fagyos napok száma szerint 2071–2100 RCP8.5 alatt.",
+      "lede": "Azon március–májusi napok száma, amikor a minimumhőmérséklet 0 °C alá esik. A késő tavaszi fagy a magyar szőlészet legsúlyosabb időjárási kockázata: egyetlen áprilisi éjszaka kiolthatja egy év rügyeit. A FORESEE oszlopok forgatókönyvenként mutatják a fagyos napok számát; a CCKP oszlopok éves átlagos Tmin-t mutatnak (alacsonyabb = nagyobb fagykockázat) független ensemble-ellenőrzésként. A fagyos napok száma a melegedéssel általában csökken, de a korábbi rügyfakadás áthelyezi a sérülékeny ablakot – ezt a trendet ezzel a fenntartással olvasd.",
+      "chartTitleShort": "Tavaszi fagyos napok magyar borvidékenként",
+      "chartTitleFull": "Tavaszi fagyos napok (márc.–máj.) magyar borvidékenként",
+      "units": "nap/év"
+    }
+  },
+  "methods": {
+    "title": "Az atlaszról",
+    "subtitle": "Hogyan készülnek a számítások.",
+    "indicesTitle": "A 9 szőlészeti index",
+    "sourcesTitle": "Adatforrások",
+    "uncertaintyTitle": "Bizonytalanság és ismert korlátok",
+    "backToOverview": "← Vissza az áttekintéshez",
+    "overview": {
+      "intro": "Magyarország 22 hivatalos borvidéken termel bort, Badacsony vulkanikus lankáitól a tokaji löszteraszokig. Mindegyiknek megvan a maga klímaujjlenyomata – és ez az ujjlenyomat most gyorsabban változik, mint bármikor a magyar szőlészet írott történelme során. Ez az oldal egyetlen helyen mutatja meg, hol tart ma minden egyes borvidék, merre tartanak szerinte a klímamodellek, mely szőlőfajták évszázadok óta otthon vannak ott, és milyen veszélyeket figyelnek a helyi termelők.",
+      "h2Find": "Mit találsz az oldalon",
+      "findBody": "Minden borvidéknek van <strong>profiloldala</strong> a jelenlegi és várható éghajlatával, az ott termesztett fajtákkal, a lokálisan releváns veszélyekkel és egy rövid értelmező leírással. Egy <strong>országos térkép</strong> vizuálisan köti össze a borvidékeket. Az <strong>Összehasonlítás</strong> oldal lehetővé teszi két-három borvidék egymás melletti vizsgálatát: ki melegszik a leggyorsabban, ki szárad ki, kinek maradnak még hűvösek a szeptemberi éjszakái. A <strong>Szőlőfajták</strong> rovat végigvezet a jelentősebb fajtákon – nemzetközi „igáslovakon” és magyar őshonosokon egyaránt – és megmutatja, hogyan fedi egymást a fajta komfortzónája és az egyes borvidékek klímája. A <strong>Veszélyek</strong> oldal olyan aktív ügyeket követ, mint az aranyszínű sárgaság vagy a változó növényvédőszer-szabályozás.",
+      "h2Numbers": "Honnan jönnek a számok",
+      "numbersBody": "Egyetlen mérést sem végeztünk magunk. Az atlasz három nagy pillérre támaszkodik: egy magyar fejlesztésű napi klímaadatbázisra, amely több mint egy évtizede a hazai klímahatás-kutatás munkagépe; a Világbank globális multi-modell gyűjteményére, amely a nemzetközi konszenzussal való összevetést teszi lehetővé; és a magyar állami meteorológiai szolgálat által nyíltan közölt tényleges állomásmérésekre. Erre építettük saját, kézzel készített térképünket a hivatalos borvidékekről, valamint egy kurált szőlőfajta-tudásbázist, amely magyar és nemzetközi szőlészeti irodalomból származik. Az egyes forrásokat közérthetően az <dataLink>Az adatokról</dataLink> oldal mutatja be.",
+      "h2How": "Hogyan használd az oldalt",
+      "howCurious": "<strong>Nem tudod, hol kezdd?</strong> Nyisd meg az <mapLink>országos térképet</mapLink>, kattints bármelyik borvidékre, és olvasd végig a profilját.",
+      "howCompare": "<strong>Két borvidéket hasonlítanál össze?</strong> Használd az <compareLink>Összehasonlítás</compareLink> oldalt, hogy egymás mellé tegyed a számaikat.",
+      "howNumber": "<strong>Kíváncsi vagy, mit jelent egy adott szám?</strong> A <indicesLink>Mit jelentenek a számok?</indicesLink> oldal közérthetően magyarázza el minden klímaindexet – mit mér, miért érdekli a borfogyasztót, mit tekintünk melegnek és mit száraznak.",
+      "howSure": "<strong>Mennyire vagyunk biztosak?</strong> Az <uncertaintyLink>Mennyire biztos?</uncertaintyLink> oldal adja meg az őszinte választ.",
+      "h2Limits": "Az őszinte korlátok",
+      "limitsBody": "A klímamodellek <em>projektálnak</em>, nem <em>előrejeleznek</em>. Amit a borvidékoldalakon látsz, az két politikai forgatókönyv (egy, amelyben a világ visszafogja a kibocsátásokat, és egy, amelyben nem) szerinti elfogadható jövők tartománya – nem időjárás-előrejelzés 2070-re. Jégesőt, kártevőket, talajminőséget, egyes ültetvény-szintű gyakorlatokat és borárakat nem modellezünk. A cél a klímajel és annak szőlőre gyakorolt hatása, nem pedig annak teljes képe, milyen lesz 2050-ben egy pincészetet vezetni. Olvasd a számokat úgy, mint „íme, ezekkel a trendekkel és kockázatokkal érdemes tervezni”, és úgy használod az oldalt, ahogy szántuk.",
+      "h2Depth": "Mélyebben?",
+      "depthData": "<link>Az adatokról</link> – barátságos bevezető a három adatbázisba, amelyre támaszkodunk.",
+      "depthIndices": "<link>Mit jelentenek a számok?</link> – minden klímaindex, szakzsargon nélkül.",
+      "depthUncertainty": "<link>Mennyire biztos?</link> – őszinte lista a fenntartásokról és arról, hogyan súlyozd, amit olvasol."
+    },
+    "data": {
+      "title": "Az adatokról",
+      "intro": "Nem állítottunk fel hőmérőket, nem fúrtunk talajgödröt, és nem futtattunk saját klímamodellt. Minden, amit ezen az oldalon látsz, három világszínvonalú, nyílt adatbázisra és egy kézzel kurált borászati tudásrétegre épül. Íme egy barátságos bejárás, hogy honnan is jönnek valójában a számok.",
+      "h2Foresee": "FORESEE – a magyar klímagépezet",
+      "foreseeBody": "A FORESEE egy napi felbontású klímaadatbázis, amelyet az ELTE és a Soproni Egyetem magyar kutatói építettek. Képzelj el egy hatalmas táblázatot, minden napra egy sorral 1971-től 2100-ig, Közép-Európa teljes területét lefedve, nagyjából tízkilométeres rácson. Minden rácscella elárulja az adott nap legmelegebb és leghidegebb hőmérsékletét, valamint a lehullott csapadék mennyiségét. A múltra vonatkozó rész tényleges mérésekből, a jövőre vonatkozó egy gondosan kalibrált regionális klímamodellből származik, amelyet úgy hangoltak, hogy a múltja egyezzen a ténylegesen megtörténtekkel. A FORESEE több mint egy évtizede a magyar klímahatás-kutatás gerince, és ezen atlasz minden idősoros grafikonjának és borvidékszintű számának fő forrása.",
+      "foreseeLink": "FORESEE honlap →",
+      "h2WB": "A Világbank klímaportálja – a második vélemény",
+      "wbBody": "A FORESEE egyetlen részletes trajektóriát ad. Hogy ne ragadjunk bent egyetlen modell jövőképében, a <link>Világbank Climate Change Knowledge Portal</link>-jával ellenőrizzük, amely mintegy harminc különböző klímamodell eredményeit gyűjti össze világszerte kutatóközpontokból. Minden borvidéknél megkérdezzük a portált: „mit mond a nemzetközi konszenzus az itteni jövőbeli hőmérsékletről és csapadékról, és mennyire nem értenek egyet a modellek?” Ez a szórás, őszintén szólva, az egyik leghasznosabb szám az egész oldalon – megmondja, mennyi bizalmat érdemes egyetlen projekcióba vetni. Két forgatókönyvet követünk: egy olyant, amelyben a világ érdemben csökkenti a kibocsátásokat (SSP2-4.5), és egy olyant, amelyben nem (SSP5-8.5).",
+      "h2HungaroMet": "HungaroMet – a tényleges időjárási állomások",
+      "hungaroMetBody": "Magyarország állami meteorológiai szolgálata nyíltan közli napi állomás-adatait a <link>HungaroMet nyílt adat-portál</link> keresztül. Minden borvidéknél kiválasztjuk a legközelebbi aktív automata állomást, és lehúzzuk az elmúlt öt év napi hőmérsékleti és csapadékadatait. Ezeket mai valóság-ellenőrzésként használjuk a FORESEE számokkal szemben: ha a modell és a valódi hőmérő egyetért az általunk összehasonlítható évekre, az megerősíti, hogy a történelmi alapérték a helyén van. A magyar időjárási állomások Közép-Európa legmegbízhatóbbjai közé tartoznak, és a nyílt licenc egyáltalán lehetővé teszi ezt a fajta kereszt-ellenőrzést.",
+      "h2BuiltOn": "Amit mi építettünk rá",
+      "builtOnBody": "Két további réteget magunk állítottunk össze kézzel a projekthez. Az első a <strong>borvidéktérkép</strong>: Magyarország 22 hivatalos PDO borvidéke nem létezik előre csomagolt, tiszta digitális körvonalként, ezért mi építettünk egyet OpenStreetMap-település határokból, kézzel hozzárendelve a hivatalos magyar borkatalógusban közzétett PDO-besorolásokat. A második a <strong>szőlőfajta-tudásbázis</strong>: kurált táblázat, amely minden fajtához rögzíti, milyen klímát kedvel, milyet tűr és milyen klíma töri meg. Ezt nemzetközi szőlészeti tankönyvekből, magyar nyelvű fajtaismertetőkből és a Wines of Hungary őshonos fajtákkal kapcsolatos munkájából állítottuk össze. A magyar őshonos fajták – Furmint, Hárslevelű, Kadarka – szakmai felülvizsgálatot igényelnek, ezt minden fajtaoldalon jelezzük is.",
+      "h2NotDo": "Amit nem csinálunk az adatokkal",
+      "notDoBody": "Nem közöljük újra a nyers klímamodell-fájlokat – ezek az eredeti projekteké, és közvetlenül a fenti linkekről tölthetők le. Amit közlünk, az a fenti forrásokból általunk számított <em>borvidékszintű összegzés</em>: átlagok, trendek, indexek, alkalmassági pontszámok. Ha a feldolgozott csomagot szeretnéd saját elemzésedhez, irány a <link>Letöltések oldal</link>.",
+      "furtherReading": "További olvasnivaló"
+    },
+    "indices": {
+      "title": "Mit jelentenek a számok?",
+      "intro": "Nyiss meg bármelyik borvidék-profilt ezen az oldalon, és rövid számfelvonulás fogad: Winkler-GDD, Huglin-index, fagyos napok, hőségnapok, tenyészidőszaki csapadék, szárazság-mérleg. Mindegyikük olyasmit mér, ami miatt a szőlőtermesztők évezredek óta aggódnak – csak a modern klimatológia nyelvére öltöztetve. Nézzük, mit mond valójában mindegyikük.",
+      "h2Winkler": "A szőlő által kapott hő – Winkler-GDD",
+      "winklerBody": "Képzelj el egy sütőt, amely csak a 10 °C feletti meleget számolja – 10 °C alatt a szőlő alig növekszik. Április elejétől október végéig minden nap hozzáadjuk, hogy a napi átlag mennyivel volt melegebb 10 °C-nál, és a szezon végén egyetlen számot kapunk: a Winkler-féle hasznosuló hőösszeget (Growing Degree Days). <strong>Miért érdekes:</strong> ez a legjobb egyetlen összegzés arról, hogy egy hely elég hűvös-e elegáns Rajnai rizling készítéséhez, elég meleg-e a Cabernet Sauvignon beéréséhez, vagy valahol a kettő között van. A magyar borvidékek ma nagyjából 1500 és 2200 °C·nap között szóródnak; a melegebb helyszínek, mint Villány vagy Szekszárd, a melegedéssel egyre közelebb kerülnek a „déli mediterrán vöröshöz elég meleg” sávhoz. A növekvő Winkler-szám korábbi szüretet, érettebb gyümölcsöt, magasabb alkoholt jelent – és végül azt, hogy a helyet korábban meghatározó fajták küzdeni kezdenek.",
+      "h2Huglin": "Napfény a beéréshez – a Huglin-index",
+      "huglinBody": "A Huglin-index a szőlő napórája. A Winklerhez hasonlóan működik, de extra figyelmet fordít a nappali melegre (amikor a fotoszintézis tényleg zajlik), és korrigál a szélességi foknak megfelelő napszélesség szerint. <strong>Miért érdekes:</strong> a Huglin-szám megmondja, milyen típusú fajta érhet be egyáltalán megfelelően. Kb. 1500 alatt a szezon túl rövid a legtöbb vöröshöz; 1800 és 2400 között a klasszikus európai fajták komfortzónájában vagy; 2700 felett már csak a hőkedvelő fajták boldogulnak. A legtöbb magyar borvidék ma kényelmesen a mérsékelt és mérsékelten meleg sávokban helyezkedik el, de többük az évszázad végére a „meleg” vagy akár „nagyon meleg” kategóriába csúszhat – ami azt jelenti, hogy a helyüket egykor meghatározó fajták már nem feltétlenül a megfelelőek.",
+      "h2Frost": "A késő tavaszi fagy szerencsejátéka",
+      "frostBody": "Amint a rügyek áprilisban kifakadnak, minden fagyos éjszaka pénzfeldobás, amit a szőlő elveszíthet. Egyetlen −2 °C-os hajnal kiolthat egy teljes termést, mielőtt létrejöhetne. Borvidékenként számoljuk, hány március–májusi nap esett 0 °C alá – ezt nevezzük „tavaszi fagyos napok”-nak a borvidékoldalakon. <strong>Miért érdekes:</strong> egyes fajták korán ébrednek és különösen kitettek (Kadarka, Merlot, Juhfark); mások később fakadnak és elkerülik a veszély nagy részét. Ellenintuitív módon a melegedő éghajlat nem szünteti meg ezt a gondot – inkább súlyosbíthatja, mert a melegebb februárok korábbra tolják a rügyfakadást egy naptárban, amely még mindig alkalmanként sarkvidéki hidegfrontot küld. Azok a borvidékek, ahol a fagyos napok száma makacsul öt felett marad, szélgépeket, füstölő gyertyákat vagy későn fakadó fajtákat igényelnek.",
+      "h2Heat": "Nyári hőstressznapok",
+      "heatBody": "Nagyjából 35 °C felett a szőlő fotoszintézise gyakorlatilag leáll – a levelek bezárják a sztómáikat a víz megőrzéséhez, és a bogyók abbahagyják az érést. 38 °C felett maguk a bogyók is leéghetnek és aromavegyületeket veszítenek. Mi mindkettőt számoljuk: hány június–augusztusi napon haladta meg a Tmax a 35 és a 38 °C-ot. <strong>Miért érdekes:</strong> az illatos fehérek (Rajnai rizling, Tramini, Sauvignon blanc) már évi kb. tizenöt 35 °C-os nap felett kezdik elveszíteni karakterüket; a robusztus vörösek többet tűrnek. A 38 °C-os szám a kanárimadár – egy-két szélsőséges nap is maradandó nyomot hagyhat egy évjáraton. Ez az index emelkedik a leggyorsabban a magas kibocsátású forgatókönyvek alatt, és ez a fő oka annak, hogy a „csak ültess mediterrán fajtákat” nem az a könnyű válasz a magyar klímaváltozásra, aminek elsőre tűnhet.",
+      "h2Rain": "Csapadék a tenyészidőszakban",
+      "rainBody": "Az, hogy április és október között mennyi csapadék esik, eldönti, a szőlőnek a vízért vagy a lisztharmat ellen kell-e küzdenie. Nagyjából 400 mm alatt a legtöbb fajta Magyarországon öntözést igényel száraz években ahhoz, hogy tisztességes termést hozzon; nagyjából 700 mm felett a gombabetegségek (peronoszpóra, lisztharmat, botritisz) nyomása kezdi diktálni a permetezési naptárat. <strong>Miért érdekes:</strong> a trend többet számít, mint maga a szám. Egy lassan száradó borvidéknek más alanyokra, mélyebben gyökerező művelésmódokra és olyan takarónövényekre van szüksége, amelyek nem versengenek a vízért. Egy nedvesedő és viharosabbá váló borvidéknek pedig betegségtűrő fajtákra és nagyobb permetezőre.",
+      "h2Dryness": "Elfogyott a víz a talajból? – a szárazság-mérleg",
+      "drynessBody": "Önmagában a csapadék nem a teljes történet – az számít, mennyi eső esett szemben azzal, mennyit próbált kiszívni a forró, napsütéses levegő a talajból. A szárazság-mérleg levonja az atmoszféra szomjúságát az esésből. A negatív számok azt jelentik, hogy a levegő többet vitt el, mint amennyit az ég adott; a pozitív számok azt, hogy a talaj később felhasználható vizet raktározott. <strong>Miért érdekes:</strong> a magyar borvidékek nagyjából egyre negatívabb mérleg felé tartanak, ami technikailag a „több aszálystressz” kifejezést jelenti. Hogy ez baj-e, a talajon múlik – a mély lösz óriási tartalékokat tud raktározni, a bazalton vagy pala vékony lejtői nem. Azokat a borvidékeket, ahol a szárazság-mérleg átlagos évben −300 mm alá esik, aszálykockázati figyelési területként jelöljük.",
+      "h2CoolNights": "Hűvös szeptemberi éjszakák",
+      "coolNightsBody": "Forró nyári nap után az éjszaka hűvöse hozza ki a szőlő héjából a színt és az ízeket. A Cool Night Index egyszerűen a szeptemberi napi Tmin átlaga. 14 °C alatt „hűvös éjszakákról” beszélünk – ez a hagyományos titok az illatos tokaji borok, a parfümös egri vörösek és a friss soproni fehérek mögött. <strong>Miért érdekes:</strong> ahogy az éjszakák is melegszenek, ugyanazon borvidék borai lassan veszítenek aromatikus összetettségükből akkor is, ha a nappali érettség papíron rendben van. Ez az oldal egyik csendesebb, de aggasztóbb jelzése, mert egy álmatlan szőlőre nincs könnyű szőlészeti gyógyír.",
+      "h2Suitability": "Hogyan működik a fajta-alkalmassági pontszám",
+      "suitabilityBody1": "Minden borvidék-oldalon láthatod a fajtákat „kitűnő illeszkedéstől” a „küzdő” kategóriáig rangsorolva. A mögötte álló pontszám egyszerű: vesszük, milyennek ígérkezik a borvidék klímája, összevetjük azzal a komfortzónával, amelyet az adott fajtához tárolunk (kedvelt meleg, fagytűrés, hőtűrés), és előállítunk egy 0 és 1 közötti számot arra, mennyire fedi egymást a kettő. A tökéletes 1 azt jelenti, hogy a borvidék minden vizsgált tényezőben pontosan a fajta édes pontjában ül. A 0 közeli pontszám azt, hogy legalább egy tényező – többnyire a hőstressz vagy a hideg – kitolta a fajtát az életképes tartományon kívülre.",
+      "suitabilityBody2": "Ez iránytű, nem jóslat. Tapasztalt borász a megfelelő alannyal, talajjal és művelésmóddal észrevehetően kiterjesztheti egy fajta használható tartományát, és egy emlékezetes évjárat egy határhelyzetű klímán fontosabb lehet, mint egy biztonságos évjárat egy kényelmes klímán. A pontszámot olvasd úgy: „itt teszi a klíma könnyűvé vagy nehézzé az adott fajtát”, nem pedig ítéletként.",
+      "formulasSummary": "Kíváncsi a képletekre?",
+      "formulasIntro": "A technikai részletekre kíváncsiaknak: az egyes indexek számszerű definíciói a standard, publikált hivatkozásokat követik:",
+      "formulaWinkler": "<strong>Winkler-GDD</strong> – a napi ((Tmax + Tmin)/2 − 10 °C) összege, 0-ra vágva, április 1. – október 31. között. Winkler et al. (1974), <em>General Viticulture</em>, UC Press.",
+      "formulaHuglin": "<strong>Huglin-index</strong> – a ((Tmean − 10) + (Tmax − 10))/2 összege április 1. – szeptember 30. között, kis szélességi korrekcióval szorozva (~1,04 Magyarországra). Huglin (1978).",
+      "formulaFrost": "<strong>Fagyos napok</strong> – azon napok száma, amikor Tmin < 0 °C március 1. és május 31. között.",
+      "formulaHot": "<strong>Hőség- / szélsőséges napok</strong> – azon június–augusztusi napok száma, amikor Tmax meghaladja a 35 °C-ot, illetve a 38 °C-ot.",
+      "formulaPrecip": "<strong>Tenyészidőszaki csapadék</strong> – összes csapadék április 1. – október 31. között.",
+      "formulaDryness": "<strong>Szárazság-mérleg</strong> – tenyészidőszaki csapadék mínusz tenyészidőszaki referencia-evapotranspiráció, a <faoLink>FAO Irrigation and Drainage Paper 56</faoLink> által ajánlott Hargreaves–Samani hőmérséklet-alapú képlettel számítva.",
+      "formulaCoolNight": "<strong>Cool Night Index</strong> – a szeptemberi napi Tmin átlaga. Tonietto & Carbonneau (2004).",
+      "etccdiBody": "Az atlasz követi az ETCCDI szélsőérték-indexeket is (éves hőségnapok, éves maximális 1 és 5 napi csapadék, egymást követő száraz napok, tenyészidőszak hossza), közvetlenül a Világbank multi-modell gyűjteményéből. A standard definíciók itt találhatók: <link>climdex.org</link>.",
+      "suitabilityFormula": "A fajta-alkalmassági pontszám négy részpontszám (Huglin-illeszkedés, Winkler-illeszkedés, fagybüntetés, hőbüntetés) szorzata, egy kurált komfortzóna-táblával minden fajtára. A szorzás azt jelenti, hogy egyetlen kemény határ összeomlasztja az összpontszámot – ami helyes viselkedés: egyetlen szélsőséges hőséghullám akkor is számít, ha minden más rendben van. Minden (borvidék, fajta) sorban megjelöljük a korlátozó tényezőt, így látod, <em>miért</em> alacsony egy pontszám."
+    },
+    "uncertainty": {
+      "title": "Mennyire biztos?",
+      "intro": "Íme az őszinte válasz. A klímamodellek nem előrejeleznek – projektálnak. Fogják a légkör fizikáját, egy feltételezést arról, mennyi szenet fog még kibocsátani az emberiség, és előrefuttatják, mi jön ki belőle. Minél messzebb mész a jövőbe, annál szélesebb a lehetőségek kúpja. Ez az oldal elmondja, hogyan súlyozd azokat a számokat, amelyeket minden borvidék-oldalon látsz.",
+      "h2Models": "Különböző modellek, különböző történetek",
+      "modelsBody": "Körülbelül harminc komoly klímamodell létezik a világon, amelyeket európai, észak-amerikai, japán és egyéb laborokban futtatnak. Valamennyi egyetért abban, hogy Magyarország melegszik. <em>Nem értenek egyet</em> viszont abban, milyen gyorsan, szárazabbak lesznek-e a nyarak vagy csak viharosabbak, és mennyit tolódnak el a viharpályák. A fő trajektóriánk egy magyarra hangolt modellből, a FORESEE-ből jön, amely részletes, fizikailag konzisztens és megadja a szükséges napi hőmérsékleteket. Hogy ne ragadjunk bent egyetlen modell jövőképében, a FORESEE-t a Világbank kb. harminc modellből álló ensemble-jével ellenőrizzük – és ahol a kettő erősen eltér egy adott borvidéken, ott jelzés, hogy az ottani jövőbeli számokat fokozott óvatossággal kell olvasni.",
+      "h2Emissions": "Különböző kibocsátási pályák, különböző jövők",
+      "emissionsBody": "Minden projekciót két forgatókönyv alatt mutatunk: az egyikben a világ a következő évtizedekben érdemben visszafogja az üvegházhatású gázok kibocsátását (ez az RCP4.5 vagy SSP2-4.5), a másikban nem (RCP8.5 vagy SSP5-8.5). A kettő közötti különbség nagyjából egy fok extra tenyészidőszaki melegedés és egy érezhető többlet-szárazodás az évszázad végére – a nagyságrendje hasonló a modellek közötti eltéréshez egy-egy forgatókönyvön belül. Az őszinte tanulság, hogy <em>mindkét</em> jövő érdemi melegedést jelent a magyar borvidékeknek; a forgatókönyv megválasztása azt dönti el, hogy ez a melegedés kihívást jelentő vagy destabilizáló lesz-e.",
+      "h2Coarse": "Durva térképek vs. a konkrét dűlő",
+      "coarseBody": "A klímarács, amelyen dolgozunk, körülbelül 10 kilométer széles – a Világbank rácsa kb. 25 kilométer. Ez jóval nagyobb egyetlen tokaji domboldalnál vagy egy badacsonyi déli fekvésű bazaltkúpnál. Bármely egy borvidéken belül mindig lesznek olyan helyek, amelyek melegebbek, hűvösebbek, szárazabbak vagy csapadékosabbak, mint az általunk közölt borvidékszintű szám. Minden értéket ezen az oldalon <strong>borvidékátlagként</strong> kezelj, nem pedig előrejelzésként a saját sorodra. Minél kisebb a borvidék, annál zajosabb az átlag – Móri, Pannonhalmi és Nagy-Somlói mindössze néhány rácscellán ül, és ezek számai évről évre jobban ingadoznak emiatt.",
+      "h2Grape": "A szőlő oldala az egyenletnek",
+      "grapeBody": "Minden fajtához komfortzónát tartunk nyilván – kedvelt meleg, tűrt meleg, hány fagyos napot visel, hány extrém hőségnap árt neki. A nemzetközi fajtáknál (Cabernet, Merlot, Rajnai rizling, Chardonnay és társaik) ezek a számok évtizedes világméretű kutatásból jól meghatározottak. A magyar őshonos fajtáknál – Furmint, Hárslevelű, Kadarka, Juhfark, Kéknyelű, Olaszrizling és a többiek – a határok „legjobb tudásunk szerinti” értékek, amelyeket regionális magyar forrásokból és analóg nemzetközi fajtákból vezettünk le, és kifejezetten szakértői felülvizsgálatot igényelnek. Minden fajtaoldalon megbízhatósági jelzés van; az őshonos alkalmassági pontszámokat kezeld tapasztalt helyi borászokkal folytatott beszélgetés kiindulópontjaként, ne pedig evangéliumként.",
+      "h2Validation": "Összevetettük-e a fajtaajánlásokat a valós telepítésekkel?",
+      "validationBody1": "Igen, részben. Borvidékről borvidékre összehasonlítottuk azt, amit a modellünk telepítésre javasol, azzal, amit a helyi borászok valójában már próbálgatnak – ahogyan azt a háttérdokumentációk „folyamatban lévő alkalmazkodás” fejezetei rögzítik, vagyis azok az oldalak, ahol a borvidék gazdái leírják, milyen új fajtákat ültettek el ténylegesen.",
+      "validationBody2": "A számok kijózanítóak. A szigorú átfedés – ahol egy modellajánlás <strong>pontosan</strong> egy olyan fajtára esik, amelyet a borvidéken már kísérleti jelleggel telepítettek – mindössze nagyjából <strong>5%</strong>. A megengedőbb átfedés – ahol akár csak egyetlen közös fajta van a modell rövid listája és a dosszié között – körülbelül <strong>20%</strong>. Más szóval: a modell ajánlásainak négyötöde olyan szőlő, amelyet még egyetlen magyar gazda sem ültetett el az adott borvidéken.",
+      "validationBody3": "Mit jelent ez? Azt, hogy a modell egyelőre <strong>klímatűrő lehetőségek széles körű feltérképezése</strong>, nem pedig előrejelzés arról, mit fognak a borászok ténylegesen választani. Vidáman ajánl Souvignier Grist, Aglianicót vagy Touriga Nacionalt olyan borvidékekre, ahol a gazdák csendesen inkább Furminttal, Vermentinóval vagy Syrah-val kísérleteznek. A modell fajtalistáját úgy kezeld, mint egy listát hihető vakrandi-jelöltekről – érdekes lehetőségek, amelyeket érdemes megvizsgálni, nem pedig telepítési terv, amellyel bankba mehetsz.",
+      "validationFooter": "A teljes, borvidékenkénti bontásért lásd a <briefLink>szakpolitikai összefoglalót</briefLink>.",
+      "h2NotModel": "Amit ez az oldal nem próbál modellezni",
+      "notModelBody": "Nem modellezünk jégesőt (a klímamodellek nem tudják felbontani az azt létrehozó nyári zivatarfajtát), kártevőket vagy betegségeket (ezeket külön követjük a <threatsLink>Veszélyek</threatsLink> oldalon hivatalos forrásokból, nem itt modellezzük), talaj vízmegtartó képességet (egy mély löszlejtő sokkal jobban tűri az aszályt, mint egy vékony pala), egyes ültetvény-gyakorlatokat (alanyok, művelésmód, lombkezelés egész klímaosztálynyit mozdíthat egy fajta használható tartományán) vagy a borárakat és PDO-szabályozást (ami végső soron eldönti, mi kerül ténylegesen telepítésre). Az oldal célja a klímajel és annak szőlőre gyakorolt jelentése – nem a teljes kép arról, milyen lesz 2050-ben egy pincészetet vezetni.",
+      "h2OneSentence": "Hogyan olvasd a számokat, egy mondatban",
+      "oneSentenceBody": "Amit itt látsz, olvasd úgy, mint „íme, ezekkel a trendekkel és kockázatokkal érdemes tervezni” – nem pedig úgy, mint „pontosan ez fog történni a saját dűlődön 2070-ben”. Ha így használod, az atlasz azt teszi, amire szántuk: segít látni, merre tart a klíma minden magyar borvidéken, és mely fajták fogják meghálálni, ha most telepíted őket."
+    }
+  },
+  "about": {
+    "title": "Az atlaszról",
+    "intro": "A <strong>Magyar Borvidékek Klímaatlasza</strong> nyílt, forrás-alapú tudományos weboldal, amely dokumentálja minden magyar borvidék jelenlegi és várható éghajlatát, és ezeket a klímatrajektóriákat szőlőfajtákhoz és feltörekvő szőlészeti veszélyekhez köti. Lektorált adatbázisokra és nyíltan licencelt forrásokra épül – nincs kitalált szám, nincs hivatkozás nélküli állítás.",
+    "h2What": "Mit csinálhatsz itt",
+    "whatBrowse": "<link>Böngészd a 22 borvidéket</link> ellenőrzött PDO-leírásokkal, klíma-normálokkal és projekciós trajektóriákkal.",
+    "whatCompare": "<link>Hasonlítsd össze a borvidékeket egymás mellett</link> hőmérsékletre, hasznosuló hőösszegre, fagykockázatra és vízmérlegre.",
+    "whatVarieties": "<link>Vizsgáld a fajta-alkalmasságot</link> borvidékeken és klímaforgatókönyveken át.",
+    "whatThreats": "<link>Kövesd a szőlészeti veszélyeket</link>, többek között a folyamatban lévő <fdLink>Flavescence dorée</fdLink> járványt.",
+    "whatDownloads": "<link>Töltsd le a kurált adatcsomagot</link> borvidékszintű parquet, CSV és JSON fájlokkal.",
+    "h2Methodology": "Adatok és módszertan",
+    "methodologyBody": "A teljes feldolgozási láncért lásd a <methodsLink>Módszertan</methodsLink> rovatot, minden használt adatbázisért az <sourcesLink>Adatforrások</sourcesLink> oldalt, a képletekért a <indicesLink>Klímaindexek</indicesLink> oldalt, a fenntartásokért pedig a <uncertaintyLink>Bizonytalanság</uncertaintyLink> oldalt.",
+    "h2Sources": "Fő előzményforrások",
+    "h2License": "Licenc és hivatkozás",
+    "licenseBody": "Az oldalon közölt származtatott adatokat CC-BY-SA alatt tesszük közzé. A nyers előzményadatokat <em>nem</em> terjesztjük újra – ezeket az eredeti szolgáltatóktól kell beszerezni a saját licencük alatt. Amikor ezen atlasz anyagát újra felhasználod, kérjük, hivatkozz egyszerre erre az oldalra és az eredeti előzményadatbázisokra is.",
+    "h2Repro": "Reprodukálhatóság",
+    "reproBody": "A nyilvános csomag minden fájljához SHA-256 ellenőrző összeg tartozik, és verziózott manifesztben szerepel. Bárki ellenőrizheti a csomag integritását és újraszámolhatja az oldal minden grafikonját. A teljes fájllista, a letöltési linkek és az ellenőrző összegek a <link>Letöltések</link> oldalon találhatók."
+  },
+  "downloads": {
+    "title": "Letöltések",
+    "intro": "Ez az atlasz egyetlen, verziózott, kurált adatcsomagból épül. Bármelyik fájlt letöltheted közvetlenül, vagy fogd a manifesztet és a SHA-256 ellenőrző összegeket, és húzd le, majd ellenőrizd a teljes csomagot programszerűen.",
+    "h2Entry": "A csomag belépési pontjai",
+    "entryManifest": "<a href=\"/data/manifest.json\">manifest.json</a> – teljes fájllista, sorszámok, oszlopnevek, méretek, SHA-256 ellenőrző összegek.",
+    "entryChecksums": "<a href=\"/data/SHA256SUMS.txt\">SHA256SUMS.txt</a> – ellenőrző összegek szabványos <code>sha256sum</code> formátumban.",
+    "entryReadme": "<a href=\"/data/README.md\">README.md</a> – csomag-README.",
+    "entryGeoJson": "<a href=\"/data/wine_districts.geojson\">wine_districts.geojson</a> – borvidék-poligonok (EPSG:4326).",
+    "bundleHeading": "Csomag",
+    "generatedAt": "Generálva {date}. {count} fájl.",
+    "citationRequired": "Hivatkozás kötelező",
+    "filesCount": "{count} fájl",
+    "rows": "sor",
+    "draftFlags": "Vázlat-jelzések",
+    "manifestMissing": "A csomag-manifesztet nem sikerült betölteni a build során. Böngészd közvetlenül: <a href=\"/data/\">/data/</a>.",
+    "h2Verify": "Hogyan ellenőrizd",
+    "verifyHint": "A csomag előállításáról lásd a <methodsLink>Módszertan</methodsLink>, az újrafelhasználás előtti fenntartásokról pedig a <uncertaintyLink>Bizonytalanság</uncertaintyLink> oldalt.",
+    "subtitle": "44 kurált fájl, összesen ~1,1 MB, CC-BY újrafelhasználással.",
+    "column": {
+      "path": "Fájl",
+      "size": "Méret",
+      "description": "Leírás"
+    }
+  },
+  "footer": {
+    "climateData": "Klímaadatok",
+    "wineRefs": "Borászati hivatkozások",
+    "threatsPesticides": "Veszélyek és növényvédőszerek",
+    "thisSite": "Erről az oldalról",
+    "foreseeDesc": "napi megfigyelt + torzítás-korrigált RCM mezők, Közép-Európa, 1951–2100. Itt a v1.1 verzió van használva (CNRM-ALADIN53, RCP4.5/8.5);",
+    "foreseeAuthor": "Dobor et al. 2015, Geosci. Data J.",
+    "wbDesc": "CMIP6 0,25° projekciós klímaadatbázis, SSP2-4.5 / SSP5-8.5 multi-modell ensemble.",
+    "hungaroMetDesc": "Magyar állami meteorológiai szolgálat állomás-megfigyelések, homogenizált sorozatok és rácsos HuClim adatok, CC-BY-SA.",
+    "lakatosDesc": "lektorált referencia, amelyet a fajta-alkalmasság kereszt-ellenőrzésére használunk.",
+    "winesOfHungary": "Wines of Hungary – Magyar Bormarketing Ügynökség (HWMA)",
+    "hungarianWinesEu": "Hungarianwines.eu – független borújságírói portál",
+    "tasteHungary": "Taste Hungary – bormagazin (PDO régiós kalauzok)",
+    "wikipedia": "Magyar bor – Wikipédia",
+    "nebih": "NÉBIH (Nemzeti Élelmiszerlánc-biztonsági Hivatal)",
+    "euPesticides": "EU Pesticides Database (DG SANTE)",
+    "efsa": "EFSA (Európai Élelmiszerbiztonsági Hatóság)",
+    "eppo": "EPPO (Európai és Mediterrán Növényvédelmi Szervezet)",
+    "methodsLink": "Módszertan és bizonytalanság",
+    "downloadsLink": "Kurált adatok és ellenőrző összegek letöltése",
+    "aboutLink": "Az atlaszról",
+    "manifestLink": "Csomag-manifeszt (JSON)",
+    "checksumsLink": "SHA256 ellenőrző összegek",
+    "copyright": "© {year} Fehér Zsolt Zoltán · Magyar Borvidékek Klímaatlasza. Származtatott adatok forrása: <foreseeLink>FORESEE v1.1</foreseeLink> (CNRM-ALADIN53 RCP futások) és a <wbLink>World Bank CCKP CMIP6</wbLink> ensemble. A nyers klímaadatokat nem terjesztjük újra. Az oldal forráskódja MIT-licenc alatt; újrafelhasználáskor hivatkozás kötelező – lásd a <methodsLink>Módszertan</methodsLink> oldalt.",
+    "foreseeShort": "FORESEE v1.1",
+    "wbShort": "World Bank CCKP CMIP6",
+    "methodsShort": "Módszertan"
+  },
+  "common": {
+    "loading": "Betöltés…",
+    "language": "Nyelv",
+    "switchTo": "English",
+    "currentValue": "Most",
+    "futureValue": "Jövő",
+    "delta": "Δ",
+    "viewDetail": "Részletek",
+    "expand": "Kibont",
+    "collapse": "Összecsuk",
+    "clickToEnlarge": "Kattints a nagyításhoz",
+    "close": "Bezárás",
+    "moreDetail": "További részletek",
+    "less": "Kevesebb",
+    "units": {
+      "km2": "km²",
+      "days": "nap",
+      "mm": "mm",
+      "celsius": "°C",
+      "gdd": "°C·nap"
+    }
+  },
+  "downloadPdf": {
+    "button": "PDF letöltése"
+  }
+}

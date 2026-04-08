@@ -1,0 +1,132 @@
+{
+  "borvidek": "Hajós-Bajai",
+  "name_hu": "Hajós-Bajai",
+  "name_en": "Hajós-Baja",
+  "tagline": "Swabian loess-ridge reds and Europe's largest cellar village on Hungary's sunniest plain.",
+  "tagline_hu": "Sváb löszhátas vörösborok és Európa legnagyobb pincefaluja Magyarország legnaposabb síkságán.",
+  "elevator_pitch": "Perched on the Bácska loess ridge between the Danube floodplain and the Kunság sand sea, Hajós-Baja is Hungary's warmest and sunniest corner, built on calcareous loess-chernozem soils. Its identity rests on full-bodied Cabernet Sauvignon, Kékfrankos and heritage Kadarka, framed by the Hajósi Pincefalu — around 1,200 loess-carved cellars dating to 1728 Swabian resettlement.",
+  "elevator_pitch_hu": "A Bácskai-löszhát tetején, a Duna ártere és a kunsági homoktenger között fekvő Hajós-Baja Magyarország legmelegebb és legnaposabb sarka, mésztartalmú lösz-csernozjom talajokra építve. Identitását a testes cabernet sauvignon, a kékfrankos és a hagyományos kadarka adja, mindezt a Hajósi Pincefalu keretezi: kb. 1200 löszbe vájt pince, amelyek a Duna menti svábok 1728-as betelepülésére nyúlnak vissza.",
+  "flagship_wines": [
+    "Full-bodied Cabernet Sauvignon and 'Hajósi Cabernet' red blends",
+    "Kékfrankos and Kadarka reds and dark siller rosés",
+    "Cserszegi fűszeres and Olaszrizling aromatic whites"
+  ],
+  "flagship_wines_hu": [
+    "Testes cabernet sauvignon és „Hajósi Cabernet” vörös cuvée-k",
+    "Kékfrankos és kadarka vörösek és sötét sillerek",
+    "Cserszegi fűszeres és olaszrizling illatos fehérek"
+  ],
+  "principal_grapes_summary": "Whites outnumber reds roughly 2:1, led by Olaszrizling, Chardonnay, Rajnai Rizling, Cserszegi fűszeres and Irsai Olivér. The district's reputation rests on reds: Kékfrankos, Cabernet Sauvignon, Cabernet Franc, Merlot, heritage Kadarka, Kékoportó and Zweigelt.",
+  "principal_grapes_summary_hu": "A fehérek és vörösek aránya nagyjából 2:1; a fehéreket az olaszrizling, chardonnay, rajnai rizling, cserszegi fűszeres és irsai olivér vezeti. A borvidék hírnevét azonban a vörösek adják: kékfrankos, cabernet sauvignon, cabernet franc, merlot, hagyományos kadarka, kékoportó és zweigelt.",
+  "terroir_summary": "Hajós-Baja occupies the western spur of the Bácska loess ridge, with a 1–3 m calcareous loess blanket over Danube alluvial gravels. Dominant soils are mészlepedékes chernozem ('bácskai feketeföld') grading into loess-brown forest soils and sandy transitions eastward. At 150–180 m elevation the ridge sits 30–50 m above the Kunság, draining cold air off the plateau and materially reducing spring-frost damage. Loess cellars tunnel 20–50 m into the substrate at Hajós.",
+  "terroir_summary_hu": "Hajós-Baja a Bácskai-löszhát nyugati nyúlványán fekszik, 1–3 méter vastag mésztartalmú lösztakaróval a Duna alluviális kavicsai felett. A meghatározó talaj a mészlepedékes csernozjom („bácskai feketeföld”), amely fokozatosan löszbarna erdőtalajba és kelet felé homokos átmenetekbe megy át. A 150–180 méteres lösz hát 30–50 méterrel magasodik a Kunság fölé, leereszti a hideg levegőt és érdemben csökkenti a tavaszi fagykárt. A hajósi löszpincék 20–50 méter mélyen futnak a löszbe.",
+  "climate_today": "Warm continental with marked sub-Mediterranean influence: ~10.5–11.8 °C annual mean, ~2,076 sunshine hours, ~599 mm precipitation — the driest corner of Hungary alongside Kunság, with Winkler III heat sums edging into Winkler IV.",
+  "climate_today_hu": "Meleg kontinentális, markáns szubmediterrán hatással: ~10,5–11,8 °C évi átlag, ~2076 napsütéses óra, ~599 mm csapadék – Kunsággal együtt Magyarország legszárazabb sarka, Winkler III hőösszeggel, amely már a IV-es zónába hajlik.",
+  "climate_threat_headline": "Intensifying drought and heat on the Homokhátság rim, with hot days roughly doubled since 1961–1990 and groundwater tables falling 2–5 m since the 1970s.",
+  "climate_threat_headline_hu": "A Homokhátság peremén egyre erősödő aszály és hőség: a hőség napjainak száma az 1961–1990-es alaphoz képest nagyjából megduplázódott, a talajvíz pedig a hetvenes évek óta 2–5 méterrel lejjebb került.",
+  "climate_winner_loser": "Winners: Cabernet Sauvignon, Cabernet Franc, Cserszegi fűszeres, siller rosé. Losers: Kadarka colour stability, delicate aromatic whites, and the district's historic ice-wine tradition.",
+  "climate_winner_loser_hu": "Nyertesek: cabernet sauvignon, cabernet franc, cserszegi fűszeres, siller. Vesztesek: a kadarka színstabilitása, a finom illatos fehérek és a borvidék történelmi jégbor-hagyománya.",
+  "key_facts": [
+    {
+      "label": "Planted vineyard area",
+      "value": "~1,500–1,800 ha currently cultivated (down from >2,500 ha in the 1990s)"
+    },
+    {
+      "label": "Hajósi Pincefalu",
+      "value": "~1,200 loess-carved cellars along 24 streets, tunneling 20–50 m into the ridge"
+    },
+    {
+      "label": "Swabian viticulture heritage",
+      "value": "Documented from 1728 Danube Swabian resettlement; Orbán-napi Borünnep annually in late May"
+    },
+    {
+      "label": "Elevation advantage",
+      "value": "150–180 m a.s.l., 30–50 m above the adjacent Kunság — reduces radiation-frost risk"
+    },
+    {
+      "label": "Signature red blend",
+      "value": "PDO-recognised 'Hajósi Cabernet' house-style red"
+    },
+    {
+      "label": "Largest producer",
+      "value": "Koch Borászat (Borota) — among Hungary's largest privately owned wineries and an ice-wine pioneer"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített szőlőterület",
+      "value_hu": "Jelenleg kb. 1500–1800 ha művelt (a kilencvenes évekbeli >2500 hektárról csökkent)"
+    },
+    {
+      "label_hu": "Hajósi Pincefalu",
+      "value_hu": "Mintegy 1200 löszbe vájt pince 24 utca mentén, 20–50 méter mélyen a hátban"
+    },
+    {
+      "label_hu": "Sváb szőlészeti örökség",
+      "value_hu": "1728-as Duna menti sváb betelepítés óta dokumentált; az Orbán-napi Borünnep évente május végén"
+    },
+    {
+      "label_hu": "Magassági előny",
+      "value_hu": "150–180 m tszf., 30–50 méterrel a szomszédos Kunság fölött – csökkenti a sugárzási fagy kockázatát"
+    },
+    {
+      "label_hu": "Jellegzetes vörös cuvée",
+      "value_hu": "OEM-ben elismert „Hajósi Cabernet” házi stílusú vörös"
+    },
+    {
+      "label_hu": "Legnagyobb termelő",
+      "value_hu": "Koch Borászat (Borota) – Magyarország egyik legnagyobb magánpincészete és jégbor-úttörője"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Hajós-Baja PDO product specification — boraszat.kormany.hu",
+      "url": "https://boraszat.kormany.hu/hajos-baja"
+    },
+    {
+      "title": "Hajós-Baja Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-tourism/hajos-baja-wine-district"
+    },
+    {
+      "title": "Hajós-Bajai borvidék bemutatása — Borászportál.hu",
+      "url": "https://www.boraszportal.hu/magyarorszag-borvidekei/hajos-bajai-borvidek-16"
+    },
+    {
+      "title": "Hajós-Bajai Borvidék — official borvidék website",
+      "url": "https://www.hajosbaja.hu/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "hajos-bajai",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Hajós-Bajai district centroid: annual maximum 1-day precipitation rising from 21.3 mm to 23.4 mm (+2.1 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.8 to 24.3 days (+3.5); frost days from 77 to 29 days/year (-48); annual coldest night from -19.0 °C to -9.2 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Hajós-Bajai borvidék centroidjára: az éves maximális egynapos csapadék 21,3 mm-ről 23,4 mm-re nő (+2,1 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,8-ról 24,3 napra (+3,5); a fagyos napok száma 77-ről 29-re (-48); az év leghidegebb éjszakája -19,0 °C-ról -9,2 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 21.28,
+      "rx1day_mm_ssp585_2080_2099": 23.4,
+      "rx5day_mm_hist_1995_2014": 48.28,
+      "rx5day_mm_ssp585_2080_2099": 50.58,
+      "cdd_days_hist_1995_2014": 20.8,
+      "cdd_days_ssp585_2080_2099": 24.3,
+      "cwd_days_hist_1995_2014": 9.85,
+      "cwd_days_ssp585_2080_2099": 8.4,
+      "frost_days_hist_1995_2014": 77,
+      "frost_days_ssp585_2080_2099": 28.8,
+      "tnn_c_hist_1995_2014": -19.04,
+      "tnn_c_ssp585_2080_2099": -9.19,
+      "growing_season_length_days_hist_1995_2014": 276.1,
+      "growing_season_length_days_ssp585_2080_2099": 328.6
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

@@ -1,0 +1,8 @@
+(root)                    0.384 MB
+cckp                      0.168 MB
+indices                   0.315 MB
+normals                   0.104 MB
+threats                   0.018 MB
+variety_match             0.137 MB
+----------------------------------
+TOTAL                     1.127 MB

@@ -1,0 +1,132 @@
+{
+  "borvidek": "Egri",
+  "name_hu": "Egri",
+  "name_en": "Eger",
+  "tagline": "Volcanic-tuff foothills of the Bükk: home of Bikavér, Egri Csillag and Hungary's highest vineyards.",
+  "tagline_hu": "A Bükk vulkáni tufás előhegyei: a Bikavér, az Egri Csillag és Magyarország legmagasabb szőlőültetvényeinek otthona.",
+  "elevator_pitch": "The Eger PDO lies on the southern foothills of the Bükk Mountains in Heves County, on a complex Miocene volcanic-sedimentary substrate of rhyolite tuff that hosts the city's historic cellars. It is the cradle of Egri Bikavér (Bull's Blood, Hungary's first DHC, 1997) and its white sibling Egri Csillag, with vineyards reaching up to 400 m on Nagy-Eged-hegy, the highest in Hungary.",
+  "elevator_pitch_hu": "Az Egri OEM a Bükk déli lábánál, Heves megyében fekszik, összetett miocén vulkáni-üledékes alapkőzeten – a város történelmi pincéit befogadó riolittufán. Itt a bölcsője az Egri Bikavérnek (Magyarország első DHC-jának, 1997) és fehér testvérének, az Egri Csillagnak. A Nagy-Eged-hegy szőlőültetvényei akár 400 méterig is felérnek – ezek Magyarország legmagasabban fekvő szőlői.",
+  "flagship_wines": [
+    "Egri Bikavér",
+    "Egri Csillag",
+    "Kekfrankos"
+  ],
+  "flagship_wines_hu": [
+    "Egri Bikavér",
+    "Egri Csillag",
+    "Kékfrankos"
+  ],
+  "principal_grapes_summary": "Kekfrankos is the regional backbone red and the mandatory dominant variety in Bikavér, blended with Cabernet franc, Cabernet sauvignon, Merlot, Syrah, Pinot noir, Kadarka and others. Whites are led by Olaszrizling, Harslevelu, Leanyka, Kiralyleanyka and aromatic crosses that fuel Egri Csillag.",
+  "principal_grapes_summary_hu": "A kékfrankos a borvidék vörös gerince és a Bikavér kötelező vezérfajtája, mellé cabernet franc, cabernet sauvignon, merlot, syrah, pinot noir, kadarka és más fajták kerülhetnek. A fehéreket az olaszrizling, hárslevelű, leányka, királyleányka és illatos keresztezések vezetik, amelyek az Egri Csillag alapját adják.",
+  "terroir_summary": "Eger sits at the contact of the Bükk uplift and the Pannonian Basin on Miocene rhyolite tuff (the famous riolittufa hosting historic cellars), with andesitic tuffs, marl, clay, loess and Triassic limestone outcrops on Nagy-Eged. Dominant soils are brown forest cambisols and luvisols on tuff weathering, leptosols on steep volcanic slopes, and calcic units on Nagy-Eged limestone. Steep S, SW and SE slopes plus Bükk shelter create strong sub-kilometre mesoclimatic differentiation.",
+  "terroir_summary_hu": "Eger a Bükk kiemelkedésének és a Pannon-medencének a találkozásánál fekszik miocén riolittufán (a történelmi pincéket befogadó híres riolittufán), andezit-tufákkal, márgával, agyaggal, lösszel és a Nagy-Egeden megjelenő triász mészkő-felbukkanásokkal. A meghatározó talajok: tufán fejlődött barna erdei kambisolok és luvisolok, a meredek vulkáni lejtőkön leptosolok, a Nagy-Eged mészkövén pedig kalciumban gazdag típusok. A meredek déli, délnyugati és délkeleti lejtők, a Bükk védelmével együtt, szubkilométeres mezoklimatikus különbségeket eredményeznek.",
+  "climate_today": "Annual mean temperature has climbed from about 9.6 C (1961-1990) to roughly 10.7-11.0 C (1991-2020), with hot days more than doubling and the district crossing from Winkler Region Ib-II into II-low III and Huglin temperate-warm.",
+  "climate_today_hu": "Az évi középhőmérséklet az 1961–1990-es kb. 9,6 °C-ról 1991–2020-ra nagyjából 10,7–11,0 °C-ra emelkedett, a hőség napjainak száma több mint duplájára nőtt, a borvidék pedig a Winkler Ib–II régióból II–alacsony III. zónába, Huglin szerint pedig a mérsékelten meleg sávba lépett.",
+  "climate_threat_headline": "Late spring frosts striking earlier-bursting vines remain the highest-variance risk, compounded by accelerating heat and drought.",
+  "climate_threat_headline_hu": "A korábban kihajtó tőkéket sújtó késő tavaszi fagyok jelentik a legnagyobb varianciájú kockázatot, amelyet a gyorsuló hőség és aszály tovább súlyosbít.",
+  "climate_winner_loser": "Cabernet franc, Cabernet sauvignon, Syrah and Merlot now ripen reliably; Pinot noir on valley slopes and aromatic Leanyka or Tramini below 250 m are increasingly at risk.",
+  "climate_winner_loser_hu": "A cabernet franc, cabernet sauvignon, syrah és merlot ma már megbízhatóan beérik; a pinot noir a völgyi lejtőkön és az illatos leányka vagy tramini 250 méter alatt egyre nagyobb veszélyben van.",
+  "key_facts": [
+    {
+      "label": "Vineyard area",
+      "value": "~5,400-5,618 ha planted (~22,000 ha total cultivable)"
+    },
+    {
+      "label": "Highest vineyard",
+      "value": "Nagy-Eged-hegy, planted to ~400 m (highest in Hungary)"
+    },
+    {
+      "label": "Bikavér DHC",
+      "value": "Hungary's first DHC, 1997; tiered Classicus / Superior / Grand Superior"
+    },
+    {
+      "label": "Egri Csillag",
+      "value": "White blend launched 2010 by Eger Vintners' Association"
+    },
+    {
+      "label": "Hail mitigation",
+      "value": "22-station silver-iodide ground-generator network deployed since 2014"
+    },
+    {
+      "label": "Projected Huglin rise",
+      "value": "+170.62 C, the largest of all 22 Hungarian wine regions"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Kb. 5400–5618 ha telepített (~22 000 ha művelhető teljes terület)"
+    },
+    {
+      "label_hu": "Legmagasabb szőlő",
+      "value_hu": "Nagy-Eged-hegy, kb. 400 méterig telepítve (Magyarország legmagasabb)"
+    },
+    {
+      "label_hu": "Bikavér DHC",
+      "value_hu": "Magyarország első DHC-je, 1997; Classicus / Superior / Grand Superior szintekkel"
+    },
+    {
+      "label_hu": "Egri Csillag",
+      "value_hu": "Fehér cuvée, amelyet az Egri Borvidék Hegyközségi Tanácsa 2010-ben vezetett be"
+    },
+    {
+      "label_hu": "Jégeső elleni védelem",
+      "value_hu": "22 állomásból álló ezüst-jodidos talajgenerátor-hálózat 2014 óta"
+    },
+    {
+      "label_hu": "Projektált Huglin-emelkedés",
+      "value_hu": "+170,62 °C – a 22 magyar borvidék közül a legnagyobb"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Misik et al. 2024 — First experience of late pruning on Kékfrankos in Eger (Horticulturae)",
+      "url": "https://www.mdpi.com/2311-7524/10/11/1223"
+    },
+    {
+      "title": "Bíró et al. — Focus on terroir studies in the Eger wine region (IVES Open Science PDF)",
+      "url": "https://ives-openscience.eu/wp-content/uploads/2020/07/B-lo-et-al_Focus-on-Terroir-Studies.pdf"
+    },
+    {
+      "title": "Eger PDO single document (EUR-Lex 52022XC0405(03))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC0405(03)"
+    },
+    {
+      "title": "Eger Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/upper-hungary/eger-wine-district"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "egri",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Egri district centroid: annual maximum 1-day precipitation rising from 25.2 mm to 27.7 mm (+2.4 mm, a proxy for severe-storm intensity); longest annual dry spell from 19.3 to 23.2 days (+3.9); frost days from 98 to 42 days/year (-55); annual coldest night from -22.1 °C to -10.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) az Egri borvidék centroidjára: az éves maximális egynapos csapadék 25,2 mm-ről 27,7 mm-re nő (+2,4 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 19,3-ról 23,2 napra (+3,9); a fagyos napok száma 98-ról 42-re (-55); az év leghidegebb éjszakája -22,1 °C-ról -10,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 25.23,
+      "rx1day_mm_ssp585_2080_2099": 27.66,
+      "rx5day_mm_hist_1995_2014": 59.14,
+      "rx5day_mm_ssp585_2080_2099": 60.69,
+      "cdd_days_hist_1995_2014": 19.3,
+      "cdd_days_ssp585_2080_2099": 23.2,
+      "cwd_days_hist_1995_2014": 12.55,
+      "cwd_days_ssp585_2080_2099": 10.1,
+      "frost_days_hist_1995_2014": 97.5,
+      "frost_days_ssp585_2080_2099": 42.1,
+      "tnn_c_hist_1995_2014": -22.1,
+      "tnn_c_ssp585_2080_2099": -10.94,
+      "growing_season_length_days_hist_1995_2014": 249.1,
+      "growing_season_length_days_ssp585_2080_2099": 307.5
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

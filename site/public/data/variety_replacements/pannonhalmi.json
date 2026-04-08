@@ -1,0 +1,666 @@
+{
+  "borvidek": "Pannonhalmi",
+  "borregio": "Felső-Pannon",
+  "slug": "pannonhalmi",
+  "current_principal_varieties": [
+    {
+      "variety": "Rajnai rizling",
+      "variety_en": "Riesling",
+      "colour": "white",
+      "suitability": 1.0
+    },
+    {
+      "variety": "Tramini",
+      "variety_en": "Gewürztraminer",
+      "colour": "white",
+      "suitability": 1.0
+    },
+    {
+      "variety": "Olaszrizling",
+      "variety_en": "Welschriesling / Olaszrizling",
+      "colour": "white",
+      "suitability": 0.974
+    },
+    {
+      "variety": "Sauvignon blanc",
+      "variety_en": "Sauvignon Blanc",
+      "colour": "white",
+      "suitability": 0.974
+    },
+    {
+      "variety": "Chardonnay",
+      "variety_en": "Chardonnay",
+      "colour": "white",
+      "suitability": 0.974
+    },
+    {
+      "variety": "Királyleányka",
+      "variety_en": "Kiralyleanyka",
+      "colour": "white",
+      "suitability": 0.974
+    }
+  ],
+  "horizons": {
+    "2021-2040_rcp45": {
+      "period": "2021-2040",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Olaszrizling",
+          "variety_en": "Welschriesling / Olaszrizling",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.026,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2246,
+          "winkler_mean": 1665
+        },
+        {
+          "rank": 2,
+          "variety": "Szürkebarát",
+          "variety_en": "Pinot gris",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.026,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2246,
+          "winkler_mean": 1665
+        },
+        {
+          "rank": 3,
+          "variety": "Sauvignon blanc",
+          "variety_en": "Sauvignon Blanc",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.026,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2246,
+          "winkler_mean": 1665
+        },
+        {
+          "rank": 4,
+          "variety": "Chardonnay",
+          "variety_en": "Chardonnay",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.026,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "expand",
+          "huglin_mean": 2246,
+          "winkler_mean": 1665
+        }
+      ]
+    },
+    "2021-2040_rcp85": {
+      "period": "2021-2040",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Merlot",
+          "variety_en": "Merlot",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2172,
+          "winkler_mean": 1608
+        },
+        {
+          "rank": 2,
+          "variety": "Furmint",
+          "variety_en": "Furmint",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2172,
+          "winkler_mean": 1608
+        },
+        {
+          "rank": 3,
+          "variety": "Hárslevelű",
+          "variety_en": "Harslevelu",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2172,
+          "winkler_mean": 1608
+        },
+        {
+          "rank": 4,
+          "variety": "Kadarka",
+          "variety_en": "Kadarka",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2172,
+          "winkler_mean": 1608
+        }
+      ]
+    },
+    "2041-2060_rcp45": {
+      "period": "2041-2060",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Rajnai rizling",
+          "variety_en": "Riesling",
+          "colour": "white",
+          "future_suitability": 0.551,
+          "delta": -0.449,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Tramini",
+          "variety_en": "Gewürztraminer",
+          "colour": "white",
+          "future_suitability": 0.551,
+          "delta": -0.449,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Touriga Nacional",
+          "variety_en": "Touriga Nacional",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2308,
+          "winkler_mean": 1756
+        },
+        {
+          "rank": 2,
+          "variety": "Aglianico",
+          "variety_en": "Aglianico",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2308,
+          "winkler_mean": 1756
+        },
+        {
+          "rank": 3,
+          "variety": "Cabernet sauvignon",
+          "variety_en": "Cabernet Sauvignon",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2308,
+          "winkler_mean": 1756
+        },
+        {
+          "rank": 4,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2308,
+          "winkler_mean": 1756
+        }
+      ]
+    },
+    "2041-2060_rcp85": {
+      "period": "2041-2060",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Merlot",
+          "variety_en": "Merlot",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2107,
+          "winkler_mean": 1612
+        },
+        {
+          "rank": 2,
+          "variety": "Furmint",
+          "variety_en": "Furmint",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2107,
+          "winkler_mean": 1612
+        },
+        {
+          "rank": 3,
+          "variety": "Hárslevelű",
+          "variety_en": "Harslevelu",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2107,
+          "winkler_mean": 1612
+        },
+        {
+          "rank": 4,
+          "variety": "Kadarka",
+          "variety_en": "Kadarka",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.306,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2107,
+          "winkler_mean": 1612
+        }
+      ]
+    },
+    "2061-2080_rcp45": {
+      "period": "2061-2080",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Rajnai rizling",
+          "variety_en": "Riesling",
+          "colour": "white",
+          "future_suitability": 0.476,
+          "delta": -0.524,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Tramini",
+          "variety_en": "Gewürztraminer",
+          "colour": "white",
+          "future_suitability": 0.476,
+          "delta": -0.524,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Touriga Nacional",
+          "variety_en": "Touriga Nacional",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2354,
+          "winkler_mean": 1817
+        },
+        {
+          "rank": 2,
+          "variety": "Aglianico",
+          "variety_en": "Aglianico",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2354,
+          "winkler_mean": 1817
+        },
+        {
+          "rank": 3,
+          "variety": "Cabernet sauvignon",
+          "variety_en": "Cabernet Sauvignon",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2354,
+          "winkler_mean": 1817
+        },
+        {
+          "rank": 4,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2354,
+          "winkler_mean": 1817
+        }
+      ]
+    },
+    "2061-2080_rcp85": {
+      "period": "2061-2080",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Rajnai rizling",
+          "variety_en": "Riesling",
+          "colour": "white",
+          "future_suitability": 0.192,
+          "delta": -0.808,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Tramini",
+          "variety_en": "Gewürztraminer",
+          "colour": "white",
+          "future_suitability": 0.192,
+          "delta": -0.808,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Sauvignon blanc",
+          "variety_en": "Sauvignon Blanc",
+          "colour": "white",
+          "future_suitability": 0.532,
+          "delta": -0.442,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Királyleányka",
+          "variety_en": "Kiralyleanyka",
+          "colour": "white",
+          "future_suitability": 0.532,
+          "delta": -0.442,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Olaszrizling",
+          "variety_en": "Welschriesling / Olaszrizling",
+          "colour": "white",
+          "future_suitability": 0.744,
+          "delta": -0.23,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Chardonnay",
+          "variety_en": "Chardonnay",
+          "colour": "white",
+          "future_suitability": 0.744,
+          "delta": -0.23,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Garnacha",
+          "variety_en": "Grenache",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 1.0,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 2007
+        },
+        {
+          "rank": 2,
+          "variety": "Mourvèdre",
+          "variety_en": "Mourvèdre / Monastrell",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 1.0,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 2007
+        },
+        {
+          "rank": 3,
+          "variety": "Nero d'Avola",
+          "variety_en": "Nero d'Avola",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 1.0,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 2007
+        },
+        {
+          "rank": 4,
+          "variety": "Assyrtiko",
+          "variety_en": "Assyrtiko",
+          "colour": "white",
+          "future_suitability": 1.0,
+          "delta": 0.911,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2506,
+          "winkler_mean": 2007
+        }
+      ]
+    },
+    "2081-2100_rcp45": {
+      "period": "2081-2100",
+      "scenario": "rcp45",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Rajnai rizling",
+          "variety_en": "Riesling",
+          "colour": "white",
+          "future_suitability": 0.532,
+          "delta": -0.468,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Tramini",
+          "variety_en": "Gewürztraminer",
+          "colour": "white",
+          "future_suitability": 0.532,
+          "delta": -0.468,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Touriga Nacional",
+          "variety_en": "Touriga Nacional",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2440,
+          "winkler_mean": 1865
+        },
+        {
+          "rank": 2,
+          "variety": "Aglianico",
+          "variety_en": "Aglianico",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.867,
+          "confidence": "medium",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2440,
+          "winkler_mean": 1865
+        },
+        {
+          "rank": 3,
+          "variety": "Cabernet sauvignon",
+          "variety_en": "Cabernet Sauvignon",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2440,
+          "winkler_mean": 1865
+        },
+        {
+          "rank": 4,
+          "variety": "Syrah",
+          "variety_en": "Syrah",
+          "colour": "red",
+          "future_suitability": 1.0,
+          "delta": 0.48,
+          "confidence": "high",
+          "limiting_factor": "huglin",
+          "status": "new",
+          "huglin_mean": 2440,
+          "winkler_mean": 1865
+        }
+      ]
+    },
+    "2081-2100_rcp85": {
+      "period": "2081-2100",
+      "scenario": "rcp85",
+      "at_risk_principal_varieties": [
+        {
+          "variety": "Rajnai rizling",
+          "variety_en": "Riesling",
+          "colour": "white",
+          "future_suitability": 0.0,
+          "delta": -1.0,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Tramini",
+          "variety_en": "Gewürztraminer",
+          "colour": "white",
+          "future_suitability": 0.0,
+          "delta": -1.0,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Sauvignon blanc",
+          "variety_en": "Sauvignon Blanc",
+          "colour": "white",
+          "future_suitability": 0.057,
+          "delta": -0.917,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Királyleányka",
+          "variety_en": "Kiralyleanyka",
+          "colour": "white",
+          "future_suitability": 0.057,
+          "delta": -0.917,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Olaszrizling",
+          "variety_en": "Welschriesling / Olaszrizling",
+          "colour": "white",
+          "future_suitability": 0.228,
+          "delta": -0.746,
+          "limiting_factor": "winkler"
+        },
+        {
+          "variety": "Chardonnay",
+          "variety_en": "Chardonnay",
+          "colour": "white",
+          "future_suitability": 0.228,
+          "delta": -0.746,
+          "limiting_factor": "winkler"
+        }
+      ],
+      "replacement_candidates": [
+        {
+          "rank": 1,
+          "variety": "Garnacha",
+          "variety_en": "Grenache",
+          "colour": "red",
+          "future_suitability": 0.969,
+          "delta": 0.969,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2731,
+          "winkler_mean": 2218
+        },
+        {
+          "rank": 2,
+          "variety": "Mourvèdre",
+          "variety_en": "Mourvèdre / Monastrell",
+          "colour": "red",
+          "future_suitability": 0.969,
+          "delta": 0.969,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2731,
+          "winkler_mean": 2218
+        },
+        {
+          "rank": 3,
+          "variety": "Nero d'Avola",
+          "variety_en": "Nero d'Avola",
+          "colour": "red",
+          "future_suitability": 0.969,
+          "delta": 0.969,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2731,
+          "winkler_mean": 2218
+        },
+        {
+          "rank": 4,
+          "variety": "Assyrtiko",
+          "variety_en": "Assyrtiko",
+          "colour": "white",
+          "future_suitability": 0.969,
+          "delta": 0.881,
+          "confidence": "medium",
+          "limiting_factor": "heat",
+          "status": "new",
+          "huglin_mean": 2731,
+          "winkler_mean": 2218
+        }
+      ]
+    }
+  }
+}

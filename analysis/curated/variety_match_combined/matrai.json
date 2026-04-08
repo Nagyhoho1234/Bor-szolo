@@ -1,0 +1,2976 @@
+{
+  "borvidek": "Mátrai",
+  "borregio": "Felső-Magyarországi",
+  "slug": "matrai",
+  "baseline_period": "1991-2020",
+  "future_periods": [
+    "2021-2040",
+    "2041-2060",
+    "2061-2080",
+    "2081-2100"
+  ],
+  "scenarios": [
+    "rcp45",
+    "rcp85"
+  ],
+  "varieties": [
+    {
+      "variety": "Rizlingszilváni",
+      "variety_en": "Müller-Thurgau",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": true,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.579,
+            "delta": -0.387,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.191,
+            "delta": -0.776,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.542,
+            "delta": -0.425,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Tramini",
+      "variety_en": "Gewürztraminer",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": true,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.586,
+            "delta": -0.381,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.206,
+            "delta": -0.761,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.558,
+            "delta": -0.409,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Olaszrizling",
+      "variety_en": "Welschriesling / Olaszrizling",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": true,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.063,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.432,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Sauvignon blanc",
+      "variety_en": "Sauvignon Blanc",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": true,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.863,
+            "delta": 0.191,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": -0.122,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.602,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Chardonnay",
+      "variety_en": "Chardonnay",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": true,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.063,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.432,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Cserszegi fűszeres",
+      "variety_en": "Cserszegi fuszeres",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": true,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.628,
+            "delta": -0.044,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.188,
+            "delta": -0.484,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Hárslevelű",
+      "variety_en": "Harslevelu",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": true,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.07,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Rajnai rizling",
+      "variety_en": "Riesling",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.586,
+            "delta": -0.381,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.206,
+            "delta": -0.761,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.558,
+            "delta": -0.409,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Müller-Thurgau",
+      "variety_en": "Müller-Thurgau",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.579,
+            "delta": -0.387,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.191,
+            "delta": -0.776,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.542,
+            "delta": -0.425,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Pinot blanc",
+      "variety_en": "Pinot Blanc",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.939,
+            "delta": -0.028,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.716,
+            "delta": -0.25,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.704,
+            "delta": -0.262,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.304,
+            "delta": -0.663,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.638,
+            "delta": -0.329,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.034,
+            "delta": -0.933,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Zöld veltelíni",
+      "variety_en": "Grüner Veltliner",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.939,
+            "delta": -0.028,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.716,
+            "delta": -0.25,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.704,
+            "delta": -0.262,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.304,
+            "delta": -0.663,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.638,
+            "delta": -0.329,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.034,
+            "delta": -0.933,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Irsai Olivér",
+      "variety_en": "Irsai Oliver",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.579,
+            "delta": -0.387,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.191,
+            "delta": -0.776,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.542,
+            "delta": -0.425,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Muscat ottonel",
+      "variety_en": "Muscat Ottonel",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.586,
+            "delta": -0.381,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.206,
+            "delta": -0.761,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.558,
+            "delta": -0.409,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Kékfrankos",
+      "variety_en": "Blaufränkisch",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.939,
+            "delta": -0.028,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": -0.232,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.727,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Pinot noir",
+      "variety_en": "Pinot Noir",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.91,
+            "delta": -0.057,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.52,
+            "delta": -0.446,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.586,
+            "delta": -0.381,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.206,
+            "delta": -0.761,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.558,
+            "delta": -0.409,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": -0.967,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Zweigelt",
+      "variety_en": "Zweigelt",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.967,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.939,
+            "delta": -0.028,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": -0.232,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.033,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.727,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Szürkebarát",
+      "variety_en": "Pinot gris",
+      "colour": "white",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.863,
+            "delta": 0.191,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": -0.122,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.602,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Leányka",
+      "variety_en": "Leanyka",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.863,
+            "delta": 0.191,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": -0.122,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.602,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Királyleányka",
+      "variety_en": "Kiralyleanyka",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.863,
+            "delta": 0.191,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": -0.122,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.602,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Generosa",
+      "variety_en": "Generosa",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.628,
+            "delta": -0.044,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.188,
+            "delta": -0.484,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Bianca",
+      "variety_en": "Bianca",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.063,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.347,
+            "delta": -0.325,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Budai zöld",
+      "variety_en": "Budai zold",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.863,
+            "delta": 0.191,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": -0.122,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.322,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.602,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Cabernet franc",
+      "variety_en": "Cabernet Franc",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.079,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.422,
+            "delta": -0.25,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Portugieser",
+      "variety_en": "Portugieser / Kékoportó",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.063,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.432,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Albariño",
+      "variety_en": "Albariño",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.671,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.636,
+            "delta": -0.036,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.796,
+            "delta": 0.125,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.232,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.329,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.453,
+            "delta": -0.218,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Sangiovese",
+      "variety_en": "Sangiovese",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.504,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.477,
+            "delta": -0.027,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.597,
+            "delta": 0.094,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.4,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.246,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.7,
+            "delta": 0.196,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Vermentino",
+      "variety_en": "Vermentino",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.504,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.477,
+            "delta": -0.027,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.597,
+            "delta": 0.094,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.4,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.246,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.7,
+            "delta": 0.196,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Verdejo",
+      "variety_en": "Verdejo",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.504,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.477,
+            "delta": -0.027,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.597,
+            "delta": 0.094,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.4,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.246,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.496,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.7,
+            "delta": 0.196,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Furmint",
+      "variety_en": "Furmint",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.441,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.474,
+            "delta": 0.165,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Sárgamuskotály",
+      "variety_en": "Yellow Muscat / Muscat Lunel",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.441,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.291,
+            "delta": -0.018,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Kabar",
+      "variety_en": "Kabar",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.07,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Zéta",
+      "variety_en": "Zeta",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.07,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Kövérszőlő",
+      "variety_en": "Koverszolo",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.07,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Kéknyelű",
+      "variety_en": "Keknyelu",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.628,
+            "delta": 0.319,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.684,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.188,
+            "delta": -0.121,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Juhfark",
+      "variety_en": "Juhfark",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.239,
+            "delta": -0.07,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Ezerjó",
+      "variety_en": "Ezerjo",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.628,
+            "delta": 0.319,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.684,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.188,
+            "delta": -0.121,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Cirfandli",
+      "variety_en": "Zierfandler",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.577,
+            "delta": 0.268,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.549,
+            "delta": 0.24,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.993,
+            "delta": 0.684,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.07,
+            "delta": -0.239,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Arany sárfehér",
+      "variety_en": "Arany sarfeher",
+      "colour": "white",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.735,
+            "delta": 0.426,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.347,
+            "delta": 0.038,
+            "limiting_factor": "winkler"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Kadarka",
+      "variety_en": "Kadarka",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.562,
+            "delta": 0.253,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Merlot",
+      "variety_en": "Merlot",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.309,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.264,
+            "delta": -0.045,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.468,
+            "delta": 0.159,
+            "limiting_factor": "frost"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.295,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.691,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.562,
+            "delta": 0.253,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Fiano",
+      "variety_en": "Fiano",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.291,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.477,
+            "delta": 0.185,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.597,
+            "delta": 0.306,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.904,
+            "delta": 0.612,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.459,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.709,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.709,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.709,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.7,
+            "delta": 0.409,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Cabernet sauvignon",
+      "variety_en": "Cabernet Sauvignon",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.232,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.198,
+            "delta": -0.034,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.351,
+            "delta": 0.119,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.373,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.518,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.662,
+            "delta": 0.431,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Syrah",
+      "variety_en": "Syrah",
+      "colour": "red",
+      "confidence": "high",
+      "in_principal": false,
+      "baseline": 0.232,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.198,
+            "delta": -0.034,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.351,
+            "delta": 0.119,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.373,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.518,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.768,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.816,
+            "delta": 0.584,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Tempranillo",
+      "variety_en": "Tempranillo",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.134,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.198,
+            "delta": 0.064,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.351,
+            "delta": 0.217,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.47,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.75,
+            "delta": 0.616,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.866,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.866,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.866,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.862,
+            "delta": 0.728,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Touriga Nacional",
+      "variety_en": "Touriga Nacional",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.018,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.198,
+            "delta": 0.179,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.254,
+            "delta": 0.236,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.586,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.437,
+            "delta": 0.419,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.971,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Aglianico",
+      "variety_en": "Aglianico",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.018,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.198,
+            "delta": 0.179,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.254,
+            "delta": 0.236,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.605,
+            "delta": 0.586,
+            "limiting_factor": "frost"
+          },
+          "rcp85": {
+            "suitability": 0.437,
+            "delta": 0.419,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 1.0,
+            "delta": 0.982,
+            "limiting_factor": "huglin"
+          },
+          "rcp85": {
+            "suitability": 0.862,
+            "delta": 0.844,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Assyrtiko",
+      "variety_en": "Assyrtiko",
+      "colour": "white",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.012,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.132,
+            "delta": 0.12,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.169,
+            "delta": 0.157,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.453,
+            "delta": 0.441,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.292,
+            "delta": 0.279,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.738,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 0.988,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.738,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.977,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Garnacha",
+      "variety_en": "Grenache",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.0,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.067,
+            "delta": 0.067,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.052,
+            "delta": 0.052,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.451,
+            "delta": 0.451,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.042,
+            "delta": 0.042,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 1.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.989,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Mourvèdre",
+      "variety_en": "Mourvèdre / Monastrell",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.0,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.001,
+            "delta": 0.001,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": 0.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.224,
+            "delta": 0.224,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": 0.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.535,
+            "delta": 0.535,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 1.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.989,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Carignan",
+      "variety_en": "Carignan / Mazuelo",
+      "colour": "red",
+      "confidence": "low",
+      "in_principal": false,
+      "baseline": 0.0,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.067,
+            "delta": 0.067,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.052,
+            "delta": 0.052,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.451,
+            "delta": 0.451,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.042,
+            "delta": 0.042,
+            "limiting_factor": "winkler"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 1.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.989,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    },
+    {
+      "variety": "Nero d'Avola",
+      "variety_en": "Nero d'Avola",
+      "colour": "red",
+      "confidence": "medium",
+      "in_principal": false,
+      "baseline": 0.0,
+      "scenarios": {
+        "2021-2040": {
+          "rcp45": {
+            "suitability": 0.001,
+            "delta": 0.001,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": 0.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2041-2060": {
+          "rcp45": {
+            "suitability": 0.224,
+            "delta": 0.224,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.0,
+            "delta": 0.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2061-2080": {
+          "rcp45": {
+            "suitability": 0.535,
+            "delta": 0.535,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 1.0,
+            "delta": 1.0,
+            "limiting_factor": "huglin"
+          }
+        },
+        "2081-2100": {
+          "rcp45": {
+            "suitability": 0.75,
+            "delta": 0.75,
+            "limiting_factor": "winkler"
+          },
+          "rcp85": {
+            "suitability": 0.989,
+            "delta": 0.989,
+            "limiting_factor": "heat"
+          }
+        }
+      }
+    }
+  ]
+}

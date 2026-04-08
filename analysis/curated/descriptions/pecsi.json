@@ -1,0 +1,132 @@
+{
+  "borvidek": "Pécsi",
+  "name_hu": "Pécsi",
+  "name_en": "Pécs",
+  "tagline": "Sub-Mediterranean Mecsek foothills and the last commercial home of the Cirfandli grape.",
+  "tagline_hu": "Szubmediterrán Mecsek-előhegyek – a cirfandli utolsó kereskedelmi otthona.",
+  "elevator_pitch": "The small Pécsi borvidék (~600-700 ha) lies on the southern slopes of the Mecsek in Baranya County, part of the Pannon wine region. A sheltered, sub-Mediterranean climate on heterogeneous limestone, Permian red sandstone and loess soils supports a white-dominated portfolio headlined by Cirfandli - a late-ripening heritage variety whose only commercial home outside Austria is Pécs. The University of Pécs hosts the world's sixth-largest vine gene bank.",
+  "elevator_pitch_hu": "A kicsiny Pécsi borvidék (~600–700 ha) a Mecsek déli lejtőin, Baranya megyében fekszik, a Pannon borrégió részeként. Védett, szubmediterrán klíma, heterogén mészkő-, permi vörös homokkő- és löszös talajokon: fehér dominanciájú palettájának zászlóshajója a cirfandli – egy későn érő, hagyományos fajta, amelynek Ausztrián kívüli egyetlen kereskedelmi otthona Pécs. A Pécsi Tudományegyetem Szőlészeti és Borászati Kutatóintézete a világ hatodik legnagyobb szőlő-génbankjának ad otthont.",
+  "flagship_wines": [
+    "Pécsi Cirfandli, dry and late-harvest",
+    "Olaszrizling and other structured whites",
+    "Bordeaux-style reds (Cabernet Franc, Cabernet Sauvignon, Merlot) and Kékfrankos"
+  ],
+  "flagship_wines_hu": [
+    "Pécsi cirfandli, szárazon és késői szüretként",
+    "Olaszrizling és más strukturált fehérek",
+    "Bordeaux-i stílusú vörösek (cabernet franc, cabernet sauvignon, merlot) és kékfrankos"
+  ],
+  "principal_grapes_summary": "Whites dominate (>75%), led by signature Cirfandli plus Olaszrizling, Hárslevelű, Chardonnay, Tramini, Rajnai Rizling, Furmint, Királyleányka and Muscat Ottonel. Reds, historically secondary but rising under warming, include Kékfrankos, Pinot Noir, Cabernet Sauvignon, Cabernet Franc, Merlot and heritage Kadarka.",
+  "principal_grapes_summary_hu": "Fehér dominancia (>75%): a jellegzetes cirfandli mellett olaszrizling, hárslevelű, chardonnay, tramini, rajnai rizling, furmint, királyleányka és Ottonel muskotály. A vörösek történelmileg másodlagosak, de a felmelegedéssel előretörnek: kékfrankos, pinot noir, cabernet sauvignon, cabernet franc, merlot és hagyományos kadarka.",
+  "terroir_summary": "Vineyards occupy south- and south-east-facing slopes of the Mecsek mainly between 110 and 300 m (with experimental plots up to 380-440 m at Hosszúhetény and Pécsvárad). The Mecsek ridge blocks cold northerly air and produces foehn-like downslope breezes that raise night minima and mitigate frost. Soils are highly heterogeneous: Permian red sandstone, Triassic limestone, iron-rich acidic brown forest soils, rendzinas, loess and clayey adobe, with Pannonian Sea sediments and clay shale patches.",
+  "terroir_summary_hu": "A szőlőültetvények főként 110 és 300 méter között foglalják el a Mecsek déli és délkeleti lejtőit (Hosszúhetény és Pécsvárad környékén kísérleti parcellák 380–440 méterig). A Mecsek gerince blokkolja a hideg északi levegőt, és föhn-jellegű leszálló szeleket gerjeszt, amelyek megemelik az éjszakai minimumokat és csökkentik a fagykárt. A talajok rendkívül változatosak: permi vörös homokkő, triász mészkő, vasban gazdag savanyú barna erdőtalajok, rendzinák, lösz és agyagos „adobe”, helyenként pannóniai tengeri üledékekkel és agyagos palafoltokkal.",
+  "climate_today": "Cfb transitioning to Cfa with sub-Mediterranean influence; annual mean T historically 10.5-10.8 °C, 500-675 mm precipitation, and 2,000-2,170 sunshine hours per year - among Hungary's highest.",
+  "climate_today_hu": "Cfb átmenettel a Cfa felé, szubmediterrán hatással; az évi átlag történelmileg 10,5–10,8 °C, csapadék 500–675 mm, és évi 2000–2170 napsütéses óra – Magyarország legmagasabbjai közé tartozik.",
+  "climate_threat_headline": "Cirfandli's planted area has fallen ~40% in five years to just 13.9 ha by 2024, even as warmer vintages have lifted its success rate from 2-in-10 to 6-in-10 years.",
+  "climate_threat_headline_hu": "A cirfandli telepített területe öt év alatt mintegy 40 százalékkal csökkent, 2024-re mindössze 13,9 hektárra – még akkor is, amikor a melegebb évjáratok 10-ből 2 helyett 6 sikeres évre emelték a fajta arányát.",
+  "climate_winner_loser": "Winners: Cabernet Franc, Cabernet Sauvignon, Merlot and Kékfrankos achieving consistent phenolic maturity. Losers: Cirfandli identity (alcohol/acid imbalance, heat damage), Pinot Noir, and freshness-driven whites such as Olaszrizling and Tramini.",
+  "climate_winner_loser_hu": "Nyertesek: cabernet franc, cabernet sauvignon, merlot és kékfrankos, amelyek ma már megbízhatóan érik el a fenolos érettséget. Vesztesek: a cirfandli identitása (alkohol-sav egyensúly, hőkár), a pinot noir, valamint a frissességre építő fehérek, mint az olaszrizling és a tramini.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~600-700 ha (roughly 1% of Hungary's vineyard area), out of ~6,998 ha of first-class suitable slope"
+    },
+    {
+      "label": "Signature grape",
+      "value": "Cirfandli (Zierfandler) - Pécs is its only commercial home in Hungary; area down ~40% over five years to 13.9 ha by 2024"
+    },
+    {
+      "label": "Sub-zones",
+      "value": "Pécsi körzet and Szigetvári körzet, covering communes including Cserkút, Hosszúhetény, Szederkény and Szigetvár"
+    },
+    {
+      "label": "Research asset",
+      "value": "University of Pécs Wine Estate hosts the world's sixth-largest vine gene bank (~1,500 accessions)"
+    },
+    {
+      "label": "Elevation",
+      "value": "Mainly 110-300 m on the Mecsek foothills, with experimental plots up to 380-440 m at Hosszúhetény and Pécsvárad"
+    },
+    {
+      "label": "Sparkling heritage",
+      "value": "Littke, founded 1859, is Hungary's first continuously operating sparkling wine producer"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 600–700 ha (Magyarország szőlőterületének mintegy 1 százaléka), ~6998 ha első osztályú alkalmas lejtőterületből"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Cirfandli (zierfandler) – Magyarországon csak Pécs a kereskedelmi otthona; területe öt év alatt ~40 százalékkal csökkent, 2024-re 13,9 ha-ra"
+    },
+    {
+      "label_hu": "Részkörzetek",
+      "value_hu": "Pécsi körzet és Szigetvári körzet, többek között Cserkút, Hosszúhetény, Szederkény és Szigetvár településekkel"
+    },
+    {
+      "label_hu": "Kutatási bázis",
+      "value_hu": "A Pécsi Tudományegyetem Szőlőbirtoka a világ hatodik legnagyobb szőlő-génbankjának (~1500 tétel) ad otthont"
+    },
+    {
+      "label_hu": "Magasság",
+      "value_hu": "Főként 110–300 m a Mecsek előhegyein, Hosszúhetény és Pécsvárad környékén kísérleti parcellák 380–440 méterig"
+    },
+    {
+      "label_hu": "Pezsgő-örökség",
+      "value_hu": "Az 1859-ben alapított Littke Magyarország legrégebbi, folyamatosan működő pezsgőkészítő háza"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Pécs PDO – A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/pecs-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Pécsi Wine District — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/en/pecsi-wine-district/"
+    },
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Cirfandli kóstolósorozat a Pécsi Kutatóintézetben — Bor és Piac (2025-06)",
+      "url": "https://borespiac.hu/2025/06/06/cirfandli-kostolosorozat-a-pecsi-kutatointezetben-tematikus-borbiralat-a-kutatasi-tetelekbol-vii/"
+    },
+    {
+      "title": "Pieczka et al. 2021 — Climate Vulnerability and Adaptation in Szekszárd (MDPI Climate)",
+      "url": "https://www.mdpi.com/2225-1154/9/2/25"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "pecsi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Pécsi district centroid: annual maximum 1-day precipitation rising from 22.6 mm to 24.5 mm (+1.9 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.4 to 24.1 days (+3.7); frost days from 77 to 28 days/year (-49); annual coldest night from -19.0 °C to -8.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Pécsi borvidék centroidjára: az éves maximális egynapos csapadék 22,6 mm-ről 24,5 mm-re nő (+1,9 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,4-ről 24,1 napra (+3,7); a fagyos napok száma 77-ről 28-ra (-49); az év leghidegebb éjszakája -19,0 °C-ról -8,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.6,
+      "rx1day_mm_ssp585_2080_2099": 24.49,
+      "rx5day_mm_hist_1995_2014": 49.57,
+      "rx5day_mm_ssp585_2080_2099": 52.13,
+      "cdd_days_hist_1995_2014": 20.4,
+      "cdd_days_ssp585_2080_2099": 24.1,
+      "cwd_days_hist_1995_2014": 10.2,
+      "cwd_days_ssp585_2080_2099": 8.7,
+      "frost_days_hist_1995_2014": 76.9,
+      "frost_days_ssp585_2080_2099": 28,
+      "tnn_c_hist_1995_2014": -19.01,
+      "tnn_c_ssp585_2080_2099": -8.85,
+      "growing_season_length_days_hist_1995_2014": 277,
+      "growing_season_length_days_ssp585_2080_2099": 329.8
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

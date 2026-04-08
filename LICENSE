@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 Fehér Zsolt Zoltán
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Notes on third-party content:
+
+* Climate datasets used as inputs (FORESEE v1.1 by Dobor et al. 2015, World
+  Bank CCKP CMIP6 0.25°, HungaroMet open data) retain their own licenses.
+  This repository does not redistribute their raw data — only district-level
+  aggregates and derived indices.
+* The variety knowledge base in `analysis/config/grape_envelopes.csv` is
+  curated from published literature (Tonietto & Carbonneau 2004, Hungarian
+  Wine Marketing Agency variety profiles, OIV variety descriptors and others).
+* The 22 wine-district polygons are dissolved from OpenStreetMap admin level 8
+  geometries (© OpenStreetMap contributors, ODbL) using a manually-labelled
+  Borvidek attribution.
+* The benchmark paper for variety-suitability cross-checks is Lakatos & Nagy
+  (2025), Frontiers in Plant Science, doi:10.3389/fpls.2025.1481431
+  (CC BY 4.0).

@@ -1,0 +1,132 @@
+{
+  "borvidek": "Móri",
+  "name_hu": "Móri",
+  "name_en": "Mór",
+  "tagline": "The windswept graben that is Ezerjo's spiritual home between the Vertes and the Bakony.",
+  "tagline_hu": "A szeles Móri-árok a Vértes és a Bakony között – az ezerjó szellemi otthona.",
+  "elevator_pitch": "The tiny Mori borvidek occupies a tectonic graben channelling the north-westerly Mori-szel between the Vertes and Bakony mountains, and is the qualitative home of Hungary's indigenous, high-acid Ezerjo grape, a listed hungarikum. Calcareous loess and rendzina soils preserve acidity in an overwhelmingly white district. Warming is eroding Ezerjo's mineral, austere identity while deepening the district's surprising water deficit.",
+  "elevator_pitch_hu": "A pici Móri borvidék egy tektonikus árokban, a Vértes és a Bakony között fekszik, ahol a Móri-szél áramlik át. Itt van Magyarország őshonos, magas savú ezerjó fajtájának – ez a hungarikum – minőségi otthona. A meszes lösz és a rendzina őrzi a savakat egy túlnyomóan fehérbor-orientált borvidéken. A felmelegedés őrli az ezerjó ásványos, szigorú karakterét, és tovább mélyíti a borvidék meglepő vízhiányát.",
+  "flagship_wines": [
+    "Mori Ezerjo (dry, mineral white)",
+    "Tramini",
+    "Late-harvest Ezerjo"
+  ],
+  "flagship_wines_hu": [
+    "Móri Ezerjó (száraz, ásványos fehér)",
+    "Tramini",
+    "Késői szüretelésű ezerjó"
+  ],
+  "principal_grapes_summary": "White-dominated (over 90 percent), defined by the indigenous Ezerjo with Tramini, Leanyka, Olaszrizling, Chardonnay, Sauvignon Blanc, Rajnai Rizling, Zold Veltelini and the Ezerjo-derived Generosa. Reds (Kekfrankos, Pinot Noir, Cabernet Franc, Syrah) are a minor sideshow.",
+  "principal_grapes_summary_hu": "Fehérdominancia (több mint 90%): a meghatározó őshonos ezerjó mellett tramini, leányka, olaszrizling, chardonnay, sauvignon blanc, rajnai rizling, zöld veltelíni és az ezerjóból nemesített Generosa szerepel. A vörösek (kékfrankos, pinot noir, cabernet franc, syrah) mindössze mellékszereplők.",
+  "terroir_summary": "Vineyards sit on the floor and south/south-west-facing lower slopes of the Mori-arok, a Pannonian tectonic graben between the Triassic dolomite-limestone Vertes and the Mesozoic carbonates of the Bakony. Dominant soils are brown forest soils with clay illuviation and loess mixed with limestone debris, plus rendzinas on upper dolomite knolls and Oligocene sand-gravel pockets on mid-slopes. Elevations run 100 to 300 m a.s.l.",
+  "terroir_summary_hu": "A szőlőültetvények a Móri-árok – egy pannóniai tektonikus árok – fenekén és déli, délnyugati alsó lejtőin helyezkednek el a triász dolomit-mészkő Vértes és a Bakony mezozoikus karbonátjai között. A meghatározó talajok agyagbemosódásos barna erdőtalajok, mészkőtörmelékkel kevert lösz, a felső dolomit hátakon rendzinák, a középső lejtőkön pedig oligocén homok-kavics betétek. A magasság 100 és 300 méter között mozog.",
+  "climate_today": "Annual mean around 10.6 to 11.2 degrees C with 580 to 640 mm precipitation, historically one of Hungary's coolest districts but now flagged by Lakatos & Nagy (2025) as having the highest water deficit of all 22 Hungarian wine regions.",
+  "climate_today_hu": "Évi átlag 10,6–11,2 °C körül, 580–640 mm csapadékkal; történelmileg Magyarország egyik leghűvösebb borvidéke, ám Lakatos–Nagy (2025) ma a 22 magyar borvidék közül a legnagyobb vízhiányúként azonosítja.",
+  "climate_threat_headline": "Rising night temperatures and deepening summer drought threaten Ezerjo's high-acid, mineral identity even as the wind still buffers disease and frost.",
+  "climate_threat_headline_hu": "Az emelkedő éjszakai hőmérséklet és a mélyülő nyári aszály még akkor is veszélyezteti az ezerjó magas savú, ásványos identitását, ha a szél továbbra is védi a tőkéket a betegségektől és a fagytól.",
+  "climate_winner_loser": "Temperature-positive but water-negative: a near-term thermal winner whose Ezerjo-defined style is under active erosion.",
+  "climate_winner_loser_hu": "Hőmérsékletre nyertes, vízre vesztes: rövid távon termikusan kedvezményezett borvidék, amelynek ezerjó-alapú stílusa épp aktívan őrlődik fel.",
+  "key_facts": [
+    {
+      "label": "Producing area",
+      "value": "Approximately 650 to 750 ha under vine across six municipalities, one of Hungary's smallest districts"
+    },
+    {
+      "label": "Flagship variety",
+      "value": "Ezerjo ('thousand-good'), a hungarikum; Mor is its universally cited spiritual home"
+    },
+    {
+      "label": "Defining climate feature",
+      "value": "The Mori-szel, a persistent north-westerly wind channelled through the Mori-arok graben"
+    },
+    {
+      "label": "Winkler shift",
+      "value": "Already crossed from Region I (~1,300 GDD) in 1961-1990 to mid-Region II (~1,500-1,600 GDD) in 1991-2020"
+    },
+    {
+      "label": "Water deficit",
+      "value": "Lakatos & Nagy (2025) identify Mori as having the highest water deficit of all 22 Hungarian wine regions"
+    },
+    {
+      "label": "2024 vintage",
+      "value": "One of only three Hungarian districts where yield exceeded the five-year average in 2024 (+7 percent)"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Termőterület",
+      "value_hu": "Hat településen kb. 650–750 ha szőlő – Magyarország egyik legkisebb borvidéke"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Ezerjó („ezer jóság”), hungarikum; Mórt általánosan szellemi otthonaként emlegetik"
+    },
+    {
+      "label_hu": "Meghatározó éghajlati elem",
+      "value_hu": "A Móri-szél – tartós északnyugati szél, amelyet a Móri-árok terel"
+    },
+    {
+      "label_hu": "Winkler-eltolódás",
+      "value_hu": "Az 1961–1990-es Winkler I (~1300 GDD) zónából 1991–2020-ra már a Winkler II közepéig (~1500–1600 GDD) jutott"
+    },
+    {
+      "label_hu": "Vízhiány",
+      "value_hu": "Lakatos–Nagy (2025) szerint a 22 magyar borvidék közül itt a legnagyobb a vízhiány"
+    },
+    {
+      "label_hu": "2024-es évjárat",
+      "value_hu": "Mór egyike annak a három magyar borvidéknek, ahol 2024-ben a hozam meghaladta az ötéves átlagot (+7%)"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Mór/Móri PDO product specification (EUR-Lex 52022XC0411(02))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC0411(02)"
+    },
+    {
+      "title": "Ezerjó: The Hungarian Wine of a Thousand Blessings — Taste Hungary",
+      "url": "https://tastehungary.com/journal/ezerjo-the-hungarian-wine-of-a-thousand-blessings/"
+    },
+    {
+      "title": "Mesterházy I. (2011) — A Móri borvidék éghajlati adottságai (ELTE BSc szakdolgozat)",
+      "url": "https://nimbus.elte.hu/tanszek/docs/BSc/2011/MesterhazyIldiko_2011.pdf"
+    },
+    {
+      "title": "Mor — Hungarian Wine Region | Wine-Searcher",
+      "url": "https://www.wine-searcher.com/regions-mor"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "mori",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Móri district centroid: annual maximum 1-day precipitation rising from 22.7 mm to 24.8 mm (+2.1 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.0 to 23.6 days (+3.6); frost days from 85 to 33 days/year (-52); annual coldest night from -20.0 °C to -9.5 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Móri borvidék centroidjára: az éves maximális egynapos csapadék 22,7 mm-ről 24,8 mm-re nő (+2,1 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,0-ról 23,6 napra (+3,6); a fagyos napok száma 85-ről 33-ra (-52); az év leghidegebb éjszakája -20,0 °C-ról -9,5 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.7,
+      "rx1day_mm_ssp585_2080_2099": 24.78,
+      "rx5day_mm_hist_1995_2014": 49.67,
+      "rx5day_mm_ssp585_2080_2099": 51,
+      "cdd_days_hist_1995_2014": 19.95,
+      "cdd_days_ssp585_2080_2099": 23.6,
+      "cwd_days_hist_1995_2014": 9.45,
+      "cwd_days_ssp585_2080_2099": 8.05,
+      "frost_days_hist_1995_2014": 85,
+      "frost_days_ssp585_2080_2099": 33,
+      "tnn_c_hist_1995_2014": -20,
+      "tnn_c_ssp585_2080_2099": -9.49,
+      "growing_season_length_days_hist_1995_2014": 259.9,
+      "growing_season_length_days_ssp585_2080_2099": 319.4
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

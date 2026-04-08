@@ -1,0 +1,132 @@
+{
+  "borvidek": "Villányi",
+  "name_hu": "Villányi",
+  "name_en": "Villány",
+  "tagline": "Hungary's southernmost and warmest district, Europe's emerging home of Cabernet Franc.",
+  "tagline_hu": "Magyarország legdélibb és legmelegebb borvidéke – Európa feltörekvő cabernet franc fellegvára.",
+  "elevator_pitch": "The Villanyi borvidek runs along the south-facing front of the Villany Hills in Baranya County, only about 10 km from the Croatian border. It is Hungary's southernmost and warmest wine district, with roughly 81% of plantings under red varieties. Anchored by Villany and Siklos and dominated by limestone, loess and red clay, it has become the nation's flagship address for Cabernet Franc and powerful Bordeaux-style blends.",
+  "elevator_pitch_hu": "A Villányi borvidék a Villányi-hegység déli homlokzata mentén húzódik Baranya megyében, alig mintegy 10 kilométerre a horvát határtól. Magyarország legdélebbi és legmelegebb borvidéke; a telepítések nagyjából 81 százaléka vörös fajta. Villány és Siklós köré szerveződve, mészkő, lösz és vörös agyag dominanciájával, mára a nemzet vezető címe lett a cabernet franc és az erőteljes bordeaux-i stílusú vörös cuvée-k számára.",
+  "flagship_wines": [
+    "Villanyi Franc",
+    "Cabernet Franc",
+    "Bordeaux-style red blends"
+  ],
+  "flagship_wines_hu": [
+    "Villányi Franc",
+    "Cabernet franc",
+    "Bordeaux-i stílusú vörös cuvée-k"
+  ],
+  "principal_grapes_summary": "Reds dominate: Cabernet Sauvignon (~420 ha), Portugieser/Kekoporto (~342 ha), Cabernet Franc (~320-333 ha), Merlot (~294-300 ha) and Kekfrankos (~280-285 ha). Cabernet Franc is the modern flagship, with smaller plantings of Syrah, Pinot noir, Kadarka and whites including Olaszrizling and Harslevelu.",
+  "principal_grapes_summary_hu": "Vörös dominancia: cabernet sauvignon (~420 ha), portugieser/kékoportó (~342 ha), cabernet franc (~320–333 ha), merlot (~294–300 ha) és kékfrankos (~280–285 ha). A modern zászlóshajó a cabernet franc, kisebb tételekben syrah, pinot noir, kadarka, valamint olaszrizling és hárslevelű fehérek szerepelnek.",
+  "terroir_summary": "The Villany Hills are a Mesozoic carbonate horst of Triassic and Jurassic limestone and dolomite, with Szarsomlyo (442-444 m) as the emblematic warm-microclimate ridge. The cover sequence runs from rendzina and chernozem brown forest soils on upper limestone slopes, through loess up to 25 m thick on mid-slopes, to red terra-rossa-like clay at the slope feet. South-facing escarpments capture 10-15% more direct radiation than flat ground at the same latitude.",
+  "terroir_summary_hu": "A Villányi-hegység mezozoikus karbonátos sasbérc, triász és jura mészkőből és dolomitból, a Szársomlyóval (442–444 m) mint emblematikus, meleg mikroklímájú gerinccel. A fedősorozat a felső mészkő lejtőkön rendzinától és csernozjom barna erdőtalajtól, a középső lejtőkön akár 25 méter vastag löszön át, a lejtőlábaknál vörös, terra rossa-szerű agyagig terjed. A déli kitettségű meredek peremek 10–15 százalékkal több közvetlen sugárzást fognak be, mint az azonos szélességi kör síkterületei.",
+  "climate_today": "Using Pecs-Pogany as proxy, annual mean has risen from ~10.5 C (1961-1990) to ~11.6-11.8 C (1991-2020); the district crossed Winkler IV/V around 2000 and Huglin entered the Warm class in the mid-1990s.",
+  "climate_today_hu": "A Pécs-Pogány állomást használva proxyként az évi átlag az 1961–1990-es ~10,5 °C-ról 1991–2020-ra 11,6–11,8 °C-ra emelkedett; a borvidék 2000 körül átlépte a Winkler IV/V határt, a Huglin pedig már a kilencvenes évek közepén belépett a meleg sávba.",
+  "climate_threat_headline": "The central risk is loss of stylistic identity rather than loss of suitability, as alcohol creep and tannin softening push wines away from the classic Bordeaux-analog profile.",
+  "climate_threat_headline_hu": "A központi kockázat nem az alkalmasság elvesztése, hanem a stílus-identitás eróziója: az alkohol kúszása és a tanninok lágyulása eltávolítja a borokat a klasszikus bordeaux-i analóg profiltól.",
+  "climate_winner_loser": "Cabernet Sauvignon, Cabernet Franc, Merlot, Syrah and Kekfrankos remain suitable; Mediterranean varieties like Grenache and Tempranillo are emerging winners while fresh classical Cabernet Franc styles are at greatest risk.",
+  "climate_winner_loser_hu": "A cabernet sauvignon, cabernet franc, merlot, syrah és kékfrankos továbbra is alkalmas; a mediterrán fajták, mint a grenache és a tempranillo feltörekvő nyertesek, miközben a friss klasszikus cabernet franc stílusok vannak a legnagyobb veszélyben.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~2,476-2,550 ha planted (~4,522 ha demarcated)"
+    },
+    {
+      "label": "Red share",
+      "value": "~81% of planted area under red varieties"
+    },
+    {
+      "label": "Highest point",
+      "value": "Szarsomlyo ridge, 442-444 m a.s.l."
+    },
+    {
+      "label": "PDO status",
+      "value": "Hungary's first comprehensive PDO (2006, restructured 2014)"
+    },
+    {
+      "label": "Villanyi Franc",
+      "value": "Super Premium category created 2014, 100% Cabernet Franc, >=24 months ageing"
+    },
+    {
+      "label": "Wine tourism",
+      "value": "~100,000 visitors per year; Villany-Siklos Wine Route founded 1994"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 2476–2550 ha telepítve (~4522 ha lehatárolt)"
+    },
+    {
+      "label_hu": "Vörös arány",
+      "value_hu": "A telepített terület mintegy 81 százaléka vörös fajta"
+    },
+    {
+      "label_hu": "Legmagasabb pont",
+      "value_hu": "Szársomlyó-gerinc, 442–444 m tszf."
+    },
+    {
+      "label_hu": "OEM-státusz",
+      "value_hu": "Magyarország első átfogó OEM-je (2006, 2014-es átstrukturálással)"
+    },
+    {
+      "label_hu": "Villányi Franc",
+      "value_hu": "2014-ben létrehozott Super Premium kategória, 100% cabernet franc, ≥24 hónap érlelés"
+    },
+    {
+      "label_hu": "Borturizmus",
+      "value_hu": "Évi kb. 100 000 látogató; a Villány-Siklósi Borút 1994-ben alakult"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Villány PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/villany-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Villány Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-tourism/villany-wine-district"
+    },
+    {
+      "title": "Is Villány the new home of Cabernet Franc? — The Drinks Business (2016)",
+      "url": "https://www.thedrinksbusiness.com/2016/12/is-villany-the-new-home-of-cabernet-franc/"
+    },
+    {
+      "title": "Villany — Hungarian Wine Region | Wine-Searcher",
+      "url": "https://www.wine-searcher.com/regions-villany"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "villanyi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Villányi district centroid: annual maximum 1-day precipitation rising from 23.4 mm to 24.5 mm (+1.1 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.2 to 23.8 days (+3.6); frost days from 78 to 28 days/year (-49); annual coldest night from -19.0 °C to -8.6 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Villányi borvidék centroidjára: az éves maximális egynapos csapadék 23,4 mm-ről 24,5 mm-re nő (+1,1 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,2-ről 23,8 napra (+3,6); a fagyos napok száma 78-ról 28-ra (-49); az év leghidegebb éjszakája -19,0 °C-ról -8,6 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 23.36,
+      "rx1day_mm_ssp585_2080_2099": 24.47,
+      "rx5day_mm_hist_1995_2014": 51.27,
+      "rx5day_mm_ssp585_2080_2099": 53.97,
+      "cdd_days_hist_1995_2014": 20.2,
+      "cdd_days_ssp585_2080_2099": 23.8,
+      "cwd_days_hist_1995_2014": 10.3,
+      "cwd_days_ssp585_2080_2099": 8.65,
+      "frost_days_hist_1995_2014": 77.6,
+      "frost_days_ssp585_2080_2099": 28.2,
+      "tnn_c_hist_1995_2014": -18.97,
+      "tnn_c_ssp585_2080_2099": -8.65,
+      "growing_season_length_days_hist_1995_2014": 275.4,
+      "growing_season_length_days_ssp585_2080_2099": 329
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

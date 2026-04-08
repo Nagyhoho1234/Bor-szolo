@@ -1,0 +1,132 @@
+{
+  "borvidek": "Etyek-Budai",
+  "name_hu": "Etyek-Budai",
+  "name_en": "Etyek-Buda",
+  "tagline": "Hungary's sparkling heartland on cool, windswept limestone west of Budapest.",
+  "tagline_hu": "Budapesttől nyugatra, hűvös, szeles mészkövön – a magyar pezsgő szülőföldje.",
+  "elevator_pitch": "Etyek-Buda is the base-wine heartland of Hungarian pezsgő, a cool calcareous plateau just west of Budapest where Champagne-like Chardonnay and Pinot Noir thrive at 47 degrees north. Torley and a dozen traditional-method houses rely on Etyek fruit, underpinned by the Etyeki Pezsgo PDO codified in 2017. Climate warming is eroding the very coolness that defines the district.",
+  "elevator_pitch_hu": "Az Etyek-Budai a magyar pezsgő alapborának szülőföldje: Budapesttől nyugatra fekvő hűvös, meszes fennsík, ahol a champagne-i jellegű chardonnay és pinot noir a 47. szélességi körön is otthon érzi magát. A Törley és egy tucatnyi hagyományos módszerű pincészet etyeki szőlőre épít; mindezt a 2017-ben kodifikált Etyeki Pezsgő OEM keretezi. A klímaváltozás épp azt a hűvösséget őrli fel, amely a borvidék lényegét adja.",
+  "flagship_wines": [
+    "Traditional-method sparkling (Etyeki Pezsgo)",
+    "Chardonnay",
+    "Pinot Noir"
+  ],
+  "flagship_wines_hu": [
+    "Hagyományos módszerű pezsgő (Etyeki Pezsgő)",
+    "Chardonnay",
+    "Pinot noir"
+  ],
+  "principal_grapes_summary": "Roughly 82 percent white, led by Chardonnay, Irsai Oliver, Zoldveltelini, Sauvignon Blanc, Kiralyleanyka and Pinot Blanc. Pinot Noir is the leading red alongside Kekfrankos and Cabernet Franc.",
+  "principal_grapes_summary_hu": "A telepítések mintegy 82 százaléka fehér: chardonnay, irsai olivér, zöld veltelíni, sauvignon blanc, királyleányka és pinot blanc vezeti a sort. A vörösek között a pinot noir az első, mellette kékfrankos és cabernet franc szerepel.",
+  "terroir_summary": "A rolling 150 to 310 m limestone and dolomite plateau dissected by shallow valleys, with loess and loess-derived loams over Eocene to Miocene limestone and marl in the Etyek core, chernozem and brown forest soils on the Buda (Nyakas) flank, and weathered granite with loess on the Velence Hills. High active-lime loams give the district its classic calcareous character, while persistent north-westerly wind dries canopies and limits fungal pressure.",
+  "terroir_summary_hu": "150–310 méter magasan elterülő, sekély völgyekkel feltagolt mészkő- és dolomitfennsík, ahol az etyeki magban eocén–miocén mészkövön és márgán lösz és löszös vályog terül el; a budai (nyakasi) oldalon csernozjom és barna erdőtalajok, a Velencei-hegységben pedig mállott gránit lösszel. A magas aktívmész-tartalmú vályog adja a borvidék klasszikus meszes karakterét, miközben az állandó északnyugati szél kiszárítja a lombozatot és csökkenti a gombabetegségek nyomását.",
+  "climate_today": "Annual mean temperature around 10.5 to 11 degrees C with roughly 600 to 650 mm precipitation, making Etyek-Buda among the coolest, breeziest and wettest of Hungary's 22 wine districts.",
+  "climate_today_hu": "Az évi középhőmérséklet 10,5–11,0 °C körül alakul, mintegy 600–650 mm csapadékkal – ezzel az Etyek-Budai a 22 magyar borvidék közül az egyik leghűvösebb, legszelesebb és legcsapadékosabb.",
+  "climate_threat_headline": "Warming erodes the low-alcohol, high-acid base wine that defines Etyeki Pezsgo, with Chardonnay picks already advancing from late September to mid August.",
+  "climate_threat_headline_hu": "A felmelegedés felőrli az alacsony alkoholú, magas savú alapbort, amely az Etyeki Pezsgő lényegét adja; a chardonnay-szüret már szeptember végéről augusztus közepére csúszott.",
+  "climate_winner_loser": "Pure downside exposure: unlike Eger or Tokaj, Etyek-Buda has no thermal upside, because its entire raison d'etre is coolness.",
+  "climate_winner_loser_hu": "Tisztán lefelé mutató kitettség: Egerrel vagy Tokajjal ellentétben az Etyek-Budainak nincs termikus felfelé íve, mert teljes létalapja a hűvösség.",
+  "key_facts": [
+    {
+      "label": "Total district area",
+      "value": "5,632 ha, of which roughly 1,652 to 1,695 ha are currently planted"
+    },
+    {
+      "label": "Grape mix",
+      "value": "About 82 percent white, dominated by Chardonnay, Irsai Oliver and Zoldveltelini"
+    },
+    {
+      "label": "Sparkling PDO",
+      "value": "Etyeki Pezsgo PDO (2017) requires traditional method, minimum 24 months sur lie, four permitted varieties"
+    },
+    {
+      "label": "Market share",
+      "value": "Torley alone produces 13 to 14 million bottles per year, about 65 to 70 percent of Hungary's sparkling market"
+    },
+    {
+      "label": "Baseline climate",
+      "value": "Annual mean 9.5 to 10.5 degrees C historically, precipitation 600 to 650 mm, strong north-westerly wind"
+    },
+    {
+      "label": "Observed harvest shift",
+      "value": "Chardonnay base-wine picks have moved from late September in the 1990s to mid-to-late August by the early 2020s"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Borvidék összterülete",
+      "value_hu": "5632 ha, amelyből jelenleg kb. 1652–1695 ha telepített"
+    },
+    {
+      "label_hu": "Fajtaösszetétel",
+      "value_hu": "Mintegy 82% fehér, a chardonnay, irsai olivér és zöld veltelíni dominanciájával"
+    },
+    {
+      "label_hu": "Pezsgő OEM",
+      "value_hu": "Etyeki Pezsgő OEM (2017): hagyományos módszer, minimum 24 hónap seprőn érlelés, négy engedélyezett fajta"
+    },
+    {
+      "label_hu": "Piaci részesedés",
+      "value_hu": "Egyedül a Törley évi 13–14 millió palackot készít, ami a magyar pezsgőpiac mintegy 65–70 százaléka"
+    },
+    {
+      "label_hu": "Történelmi klíma",
+      "value_hu": "Évi átlag történelmileg 9,5–10,5 °C, csapadék 600–650 mm, erős északnyugati széllel"
+    },
+    {
+      "label_hu": "Megfigyelt szüreti elcsúszás",
+      "value_hu": "A chardonnay alapbor szüret a kilencvenes évek végi szeptember végéről a 2020-as évek elejére augusztus közepe-vége időszakra került"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Etyek-Buda PDO — Wines of Hungary (Országkóstoló)",
+      "url": "https://orszagkostolo.gov.hu/regiosvedetteredet/etyek-buda/?lang=en"
+    },
+    {
+      "title": "Etyek wines: A sparkling wine revolution is bubbling over in Hungary — Club Oenologique",
+      "url": "https://cluboenologique.com/story/etyek-sparkling-wine-rise-hungary/"
+    },
+    {
+      "title": "Etyek Wine Region: Where Limestone and Cool Weather Equal Bubbles — Taste Hungary",
+      "url": "https://tastehungary.com/journal/etyek-limestone-and-bubbles/"
+    },
+    {
+      "title": "Etyek-Buda Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/upper-pannon/etyek-buda-wine-district"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "etyek-budai",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Etyek-Budai district centroid: annual maximum 1-day precipitation rising from 21.0 mm to 24.5 mm (+3.5 mm, a proxy for severe-storm intensity); longest annual dry spell from 21.1 to 24.6 days (+3.5); frost days from 80 to 28 days/year (-51); annual coldest night from -19.2 °C to -9.0 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) az Etyek-Budai borvidék centroidjára: az éves maximális egynapos csapadék 21,0 mm-ről 24,5 mm-re nő (+3,5 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 21,1-ről 24,6 napra (+3,5); a fagyos napok száma 80-ról 28-ra (-51); az év leghidegebb éjszakája -19,2 °C-ról -9,0 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 21.04,
+      "rx1day_mm_ssp585_2080_2099": 24.55,
+      "rx5day_mm_hist_1995_2014": 46.28,
+      "rx5day_mm_ssp585_2080_2099": 49.63,
+      "cdd_days_hist_1995_2014": 21.1,
+      "cdd_days_ssp585_2080_2099": 24.6,
+      "cwd_days_hist_1995_2014": 9.55,
+      "cwd_days_ssp585_2080_2099": 8.15,
+      "frost_days_hist_1995_2014": 79.5,
+      "frost_days_ssp585_2080_2099": 28.4,
+      "tnn_c_hist_1995_2014": -19.16,
+      "tnn_c_ssp585_2080_2099": -9.03,
+      "growing_season_length_days_hist_1995_2014": 266.3,
+      "growing_season_length_days_ssp585_2080_2099": 324
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

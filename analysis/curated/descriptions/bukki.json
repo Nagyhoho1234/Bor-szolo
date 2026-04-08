@@ -1,0 +1,132 @@
+{
+  "borvidek": "Bükki",
+  "name_hu": "Bükki",
+  "name_en": "Bükk",
+  "tagline": "Hungary's least-known volcanic-tuff district, a cool foothill ribbon between Eger and Miskolc.",
+  "tagline_hu": "Magyarország legkevésbé ismert vulkáni tufás borvidéke: hűvös előhegyi sáv Eger és Miskolc között.",
+  "elevator_pitch": "The Bükkalja is a narrow rhyolite-tuff foothill belt south of the Bükk Mountains, long overshadowed by neighbouring Eger. Around 1,000 ha of vines on iconic pincesor cellar villages produce brisk, mineral whites (Olaszrizling, Leányka, Tramini) and increasingly serious Kékfrankos. Lakatos & Nagy 2025 identify Bükk as the Hungarian district with the largest projected BEDD increase - the most thermally sensitive of all, precisely because it started coolest.",
+  "elevator_pitch_hu": "A Bükkalja egy keskeny, riolittufás előhegyi öv a Bükk déli lábánál, amelyet sokáig elnyomott szomszédja, Eger. Mintegy 1000 hektár szőlő terül el az ikonikus pincesoros falvak körül; friss, ásványos fehérek (olaszrizling, leányka, tramini) és egyre komolyabb kékfrankosok teremnek itt. Lakatos és Nagy 2025-ös tanulmánya a Bükköt azonosítja a legnagyobb projektált BEDD-növekedéssel rendelkező magyar borvidékként – éppen azért a leghőérzékenyebb, mert eredetileg a leghűvösebb volt.",
+  "flagship_wines": [
+    "Olaszrizling",
+    "Leányka",
+    "Kékfrankos"
+  ],
+  "flagship_wines_hu": [
+    "Olaszrizling",
+    "Leányka",
+    "Kékfrankos"
+  ],
+  "principal_grapes_summary": "Whites dominate (~70-80%), led by Olaszrizling, Leányka, Müller-Thurgau, Tramini, Chardonnay, Cserszegi fűszeres and Hárslevelű; reds (~20-30%) are headed by Kékfrankos with Cabernet Sauvignon, Cabernet Franc, Merlot, Zweigelt and Pinot Noir.",
+  "principal_grapes_summary_hu": "Fehér dominancia (~70–80%): olaszrizling, leányka, rizlingszilváni, tramini, chardonnay, cserszegi fűszeres és hárslevelű; a vörösek (~20–30%) közül a kékfrankos vezet, mellette cabernet sauvignon, cabernet franc, merlot, zweigelt és pinot noir.",
+  "terroir_summary": "A 60-70 km long ribbon of dissected Miocene rhyolite and dacite ignimbrite tuff hills along the southern foothills of the Bükk Mountains, vineyards at 150-300 m on south- and southwest-facing terraces. Surface soils are a mosaic of loess on tuff, erubáz black volcanic clay, brown forest soils and luvisols, with locally rendzina-like profiles. The 800-950 m Bükk plateau acts as a wind shield against northerly flows but also as a cold-air reservoir that drains down valleys at night.",
+  "terroir_summary_hu": "Egy 60–70 km hosszú, feltagolt miocén riolit- és dácit-ignimbrit tufás dombsáv a Bükk déli előterében; a szőlők 150–300 m között, déli–délnyugati teraszokon helyezkednek el. A felszíni talajok mozaikosak: tufán fekvő lösz, fekete vulkáni agyag (erubáz), barna erdőtalajok és luvisolok, helyenként rendzina-jellegű szelvényekkel. A 800–950 m magas Bükk-fennsík szélárnyékként véd az északi áramlásoktól, ugyanakkor hidegtárolóként éjszakánként hideg levegőt enged le a völgyekön.",
+  "climate_today": "Köppen Dfb (humid continental), the most clearly continental of Hungary's wine districts: ~9.5-10.5 C annual mean, only 500-550 mm rainfall, and historically Winkler Region I-II at the northern climatic limit of viticulture.",
+  "climate_today_hu": "Köppen Dfb (nedves kontinentális), Magyarország legegyértelműbben kontinentális borvidéke: ~9,5–10,5 °C évi átlag, mindössze 500–550 mm csapadék, történelmileg Winkler I–II régió, a szőlőtermesztés északi klímahatárán.",
+  "climate_threat_headline": "Severe spring radiation frost from Bükk-plateau cold-air drainage devastated the 2020 and 2024 vintages on lower terraces.",
+  "climate_threat_headline_hu": "A Bükk-fennsíkról leszálló hideg levegő által kiváltott súlyos tavaszi sugárzási fagyok a 2020-as és 2024-es évjáratot is megtizedelték az alsóbb teraszokon.",
+  "climate_winner_loser": "Largest projected BEDD increase of any Hungarian district (+258 C); Kékfrankos and Bordeaux varieties now reliably ripen but the cool-climate identity that distinguishes Bükk from Eger is eroding.",
+  "climate_winner_loser_hu": "A magyar borvidékek közül a legnagyobb projektált BEDD-növekedés (+258 °C); a kékfrankos és a bordeaux-i fajták ma már megbízhatóan beérnek, ám a Bükköt Egertől elválasztó hűvös klímás identitás eltűnőben van.",
+  "key_facts": [
+    {
+      "label": "Area under vine",
+      "value": "~1,000 ha working figure (sources cite 870-1,750 ha) across 23 communes from Bogács to Miskolc"
+    },
+    {
+      "label": "Geology",
+      "value": "Miocene rhyolite and dacite tuffs - one of Hungary's three flagship volcanic-tuff districts with Tokaj and Eger"
+    },
+    {
+      "label": "Iconic feature",
+      "value": "Pincesor cellar rows at Bogács, Cserépfalu, Cserépváralja and Tibolddaróc, cut directly into the soft tuff"
+    },
+    {
+      "label": "Climate sensitivity",
+      "value": "Lakatos & Nagy 2025: largest projected BEDD increase of any Hungarian district (+258 C, 1986-2005 to 2081-2100)"
+    },
+    {
+      "label": "Frost vulnerability",
+      "value": "Cold-air drainage from the 800-950 m Bükk plateau caused devastating 2020 May and 2024 spring frost damage"
+    },
+    {
+      "label": "Producer ecosystem",
+      "value": "Szövetség a Bükki Borvidékért (founded 2018) gathers a dozen mostly young, quality-focused producers"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Munkaszinten kb. 1000 ha (források 870–1750 ha között) 23 településen Bogácstól Miskolcig"
+    },
+    {
+      "label_hu": "Földtan",
+      "value_hu": "Miocén riolit- és dácittufák – Tokaj és Eger mellett Magyarország harmadik vezető vulkáni tufás borvidéke"
+    },
+    {
+      "label_hu": "Ikonikus elem",
+      "value_hu": "Pincesorok Bogácson, Cserépfaluban, Cserépváralján és Tibolddarócon, közvetlenül a puha tufába vájva"
+    },
+    {
+      "label_hu": "Klímaérzékenység",
+      "value_hu": "Lakatos–Nagy 2025: a magyar borvidékek közül a legnagyobb projektált BEDD-növekedés (+258 °C, 1986–2005 → 2081–2100)"
+    },
+    {
+      "label_hu": "Fagyveszély",
+      "value_hu": "A Bükk-fennsíkról leszálló hideg levegő pusztító 2020. májusi és 2024. tavaszi fagykárokat okozott"
+    },
+    {
+      "label_hu": "Termelői ökoszisztéma",
+      "value_hu": "A 2018-ban alapított Szövetség a Bükki Borvidékért egy tucat, főként fiatal, minőségorientált termelőt fog össze"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Bükki borvidék — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/bukki-borvidek/"
+    },
+    {
+      "title": "Bükki borvidék — Wikipédia (HU)",
+      "url": "https://hu.wikipedia.org/wiki/B%C3%BCkki_borvid%C3%A9k"
+    },
+    {
+      "title": "Bükk – a wine region to be discovered — Hungarianwines.eu",
+      "url": "https://hungarianwines.eu/bukk-a-wine-region-to-be-discovered/"
+    },
+    {
+      "title": "Misik et al. 2024 — Late pruning on Kékfrankos in Eger (ResearchGate)",
+      "url": "https://www.researchgate.net/publication/385969140_First_Experience_of_Late_Pruning_on_Kekfrankos_Grapevine_Vitis_vinifera_L_in_Eger_Wine_Region_Hungary"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "bukki",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Bükki district centroid: annual maximum 1-day precipitation rising from 20.2 mm to 22.8 mm (+2.6 mm, a proxy for severe-storm intensity); longest annual dry spell from 20.6 to 23.7 days (+3.1); frost days from 88 to 36 days/year (-52); annual coldest night from -21.9 °C to -10.6 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Bükki borvidék centroidjára: az éves maximális egynapos csapadék 20,2 mm-ről 22,8 mm-re nő (+2,6 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 20,6-ról 23,7 napra (+3,1); a fagyos napok száma 88-ról 36-ra (-52); az év leghidegebb éjszakája -21,9 °C-ról -10,6 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 20.16,
+      "rx1day_mm_ssp585_2080_2099": 22.76,
+      "rx5day_mm_hist_1995_2014": 46.06,
+      "rx5day_mm_ssp585_2080_2099": 49.92,
+      "cdd_days_hist_1995_2014": 20.65,
+      "cdd_days_ssp585_2080_2099": 23.7,
+      "cwd_days_hist_1995_2014": 10.9,
+      "cwd_days_ssp585_2080_2099": 8.9,
+      "frost_days_hist_1995_2014": 87.7,
+      "frost_days_ssp585_2080_2099": 36,
+      "tnn_c_hist_1995_2014": -21.95,
+      "tnn_c_ssp585_2080_2099": -10.65,
+      "growing_season_length_days_hist_1995_2014": 257.4,
+      "growing_season_length_days_ssp585_2080_2099": 314.5
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

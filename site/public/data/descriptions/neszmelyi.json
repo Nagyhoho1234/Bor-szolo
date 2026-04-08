@@ -1,0 +1,132 @@
+{
+  "borvidek": "Neszmélyi",
+  "name_hu": "Neszmélyi",
+  "name_en": "Neszmély",
+  "tagline": "Danube-bank loess foothills that built Hungary's export identity for fresh, fragrant aromatic whites.",
+  "tagline_hu": "Duna-parti löszös előhegyek, amelyek a friss, illatos magyar fehérek exportarculatát építették fel.",
+  "elevator_pitch": "Neszmely sits on the south bank of the Danube between Tata and Esztergom, on loess-mantled foothills of the Gerecse. The district built its modern reputation on light, crisp, fragrant aromatic whites led by Cserszegi fuszeres, Olaszrizling and Chardonnay, and is dominated to an unusual degree by Hilltop Neszmely Zrt., founded 1993 and exporting roughly 7 to 8 million bottles a year. Warming threatens its fresh-white style proposition.",
+  "elevator_pitch_hu": "Neszmély a Duna déli partján fekszik Tata és Esztergom között, a Gerecse löszborította előhegyein. Modern hírnevét a könnyű, ropogós, illatos fehérekre építette – a cserszegi fűszeres, az olaszrizling és a chardonnay vezetésével –, és szokatlanul nagymértékben dominálja az 1993-ban alapított Hilltop Neszmély Zrt., amely évi mintegy 7–8 millió palackot exportál. A felmelegedés azonban éppen ezt a friss fehér stílusú profilt fenyegeti.",
+  "flagship_wines": [
+    "Cserszegi fuszeres",
+    "Olaszrizling",
+    "Chardonnay"
+  ],
+  "flagship_wines_hu": [
+    "Cserszegi fűszeres",
+    "Olaszrizling",
+    "Chardonnay"
+  ],
+  "principal_grapes_summary": "At least 90 percent white, led by Cserszegi fuszeres, Olaszrizling, Chardonnay and Sauvignon Blanc, plus Kiralyleanyka, Irsai Oliver, Rajnai rizling, Tramini, Szurkebarat, Muller-Thurgau, Zold veltelini and Ezerjo. Reds are a small share, mainly Kekfrankos for rose.",
+  "principal_grapes_summary_hu": "Legalább 90 százalékban fehér: cserszegi fűszeres, olaszrizling, chardonnay, sauvignon blanc, mellette királyleányka, irsai olivér, rajnai rizling, tramini, szürkebarát, rizlingszilváni, zöld veltelíni és ezerjó. A vörösek aránya kicsi, főként roséhoz használt kékfrankos.",
+  "terroir_summary": "Vineyards sit at 130 to 320 m on south- and south-east-facing loess-mantled foothills of the Gerecse, with a Triassic Dachstein limestone and dolomite framework plus Eocene sandstone and Miocene marl. Dominant soils are brown forest soils (luvisols) on loess, rendzinas on dolomite and limestone knolls, and marl-derived clays in the Aszar sub-district. All are calcareous and alkaline, buffering must pH and protecting acidity.",
+  "terroir_summary_hu": "A szőlőültetvények 130–320 méter között helyezkednek el a Gerecse déli és délkeleti kitettségű, lösszel borított előhegyein, triász dachsteini mészkő- és dolomit alapra, eocén homokkővel és miocén márgával. A meghatározó talajok lösszön kialakult barna erdőtalajok (luvisolok), a dolomit- és mészkőhátakon rendzinák, az Ászári körzetben pedig márga eredetű agyagok. Mindegyik meszes és lúgos, ami pufferolja a must pH-ját és védi a savakat.",
+  "climate_today": "Annual mean around 10.8 to 11.3 degrees C with roughly 550 to 650 mm precipitation, moderated by the Danube's thermal mass and channelled north-westerly winds that suppress fungal pressure.",
+  "climate_today_hu": "Évi átlag 10,8–11,3 °C körül, 550–650 mm csapadékkal; a Duna termikus tömege és a borvidéken átáramoltatott északnyugati szelek mérséklik a klímát és csökkentik a gombabetegségek nyomását.",
+  "climate_threat_headline": "Rising alcohols and broader phenolics threaten the district's 'light, fresh, fragrant' style identity, and intense summer convective storms are measurably eroding loess slopes.",
+  "climate_threat_headline_hu": "Az emelkedő alkohol és a szélesebb fenoltartalom veszélyezteti a borvidék „könnyű, friss, illatos” stílusidentitását, és az intenzív nyári konvektív viharok mérhetően erodálják a löszlejtőket.",
+  "climate_winner_loser": "One of Hungary's least-warming districts and a relative climate refuge, but its fresh-aromatic-white style is unusually exposed to any warming at all.",
+  "climate_winner_loser_hu": "Magyarország egyik legkevésbé melegedő borvidéke, viszonylagos klimatikus menedék – ám éppen friss-illatos fehér stílusa miatt szokatlanul érzékeny bármilyen felmelegedésre is.",
+  "key_facts": [
+    {
+      "label": "Area under vine",
+      "value": "Approximately 1,300 to 1,432 ha across 27 municipalities in the Neszmely and Aszar sub-districts"
+    },
+    {
+      "label": "Dominant producer",
+      "value": "Hilltop Neszmely Zrt. holds around 410 ha (about 30 percent of plantings) and produces 7 to 8 million bottles a year, mostly for export"
+    },
+    {
+      "label": "Signature variety",
+      "value": "Cserszegi fuszeres (Irsai Oliver x Roter Traminer, bred 1960), prized for heat-acid retention"
+    },
+    {
+      "label": "Mesoclimate driver",
+      "value": "The Danube (400 to 600 m wide) moderates diurnal range, raises humidity, and channels a distinctive NW wind"
+    },
+    {
+      "label": "Warming projection",
+      "value": "Lakatos & Nagy (2025) place Neszmely among the four or five least-warming Hungarian districts, +2.4 to +2.7 degrees C under RCP 8.5"
+    },
+    {
+      "label": "Locally measured hazard",
+      "value": "Bertalan-Balazs et al. (2022) measured significant vineyard soil loss driven by intense summer convective rainfall"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Kb. 1300–1432 ha 27 településen, a Neszmélyi és az Ászári körzetben"
+    },
+    {
+      "label_hu": "Domináns termelő",
+      "value_hu": "A Hilltop Neszmély Zrt. mintegy 410 hektáron gazdálkodik (a telepítések kb. 30%-a), és évi 7–8 millió palackot készít, főként exportra"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Cserszegi fűszeres (irsai olivér × roter traminer, 1960-as nemesítés), amelyet a hőség- és savmegtartásáért becsülnek"
+    },
+    {
+      "label_hu": "Mezoklimatikus motor",
+      "value_hu": "A 400–600 méter széles Duna mérsékli a napi hőingadozást, emeli a légnedvességet és sajátos északnyugati szelet terel be"
+    },
+    {
+      "label_hu": "Felmelegedési előrejelzés",
+      "value_hu": "Lakatos–Nagy (2025) Neszmélyt a négy-öt legkevésbé melegedő magyar borvidék közé sorolja, RCP 8.5 mellett +2,4–+2,7 °C-kal"
+    },
+    {
+      "label_hu": "Helyben mért veszély",
+      "value_hu": "Bertalan-Balázs et al. (2022) jelentős szőlős talajeróziót mért az intenzív nyári konvektív csapadék következtében"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Bertalan-Balázs et al. 2022 — Vineyard erosion in Neszmély (Remote Sensing)",
+      "url": "https://www.mdpi.com/2072-4292/14/14/3463"
+    },
+    {
+      "title": "Neszmély PDO — Wines of Hungary (Országkóstoló)",
+      "url": "https://orszagkostolo.gov.hu/regiosvedetteredet/neszmely/?lang=en"
+    },
+    {
+      "title": "Neszmély Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-tourism/neszmely-wine-district"
+    },
+    {
+      "title": "Our Wine Region — Neszmély — Hilltop Winery",
+      "url": "https://hilltop.hu/en/wine-region"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "neszmelyi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Neszmélyi district centroid: annual maximum 1-day precipitation rising from 21.1 mm to 24.3 mm (+3.1 mm, a proxy for severe-storm intensity); longest annual dry spell from 19.1 to 22.5 days (+3.4); frost days from 80 to 27 days/year (-53); annual coldest night from -20.6 °C to -8.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Neszmélyi borvidék centroidjára: az éves maximális egynapos csapadék 21,1 mm-ről 24,3 mm-re nő (+3,1 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 19,1-ről 22,5 napra (+3,4); a fagyos napok száma 80-ról 27-re (-53); az év leghidegebb éjszakája -20,6 °C-ról -8,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 21.15,
+      "rx1day_mm_ssp585_2080_2099": 24.29,
+      "rx5day_mm_hist_1995_2014": 48.61,
+      "rx5day_mm_ssp585_2080_2099": 50.99,
+      "cdd_days_hist_1995_2014": 19.1,
+      "cdd_days_ssp585_2080_2099": 22.45,
+      "cwd_days_hist_1995_2014": 9.8,
+      "cwd_days_ssp585_2080_2099": 8.15,
+      "frost_days_hist_1995_2014": 79.7,
+      "frost_days_ssp585_2080_2099": 27,
+      "tnn_c_hist_1995_2014": -20.56,
+      "tnn_c_ssp585_2080_2099": -8.94,
+      "growing_season_length_days_hist_1995_2014": 263.1,
+      "growing_season_length_days_ssp585_2080_2099": 323.5
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

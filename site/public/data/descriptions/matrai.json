@@ -1,0 +1,132 @@
+{
+  "borvidek": "Mátrai",
+  "name_hu": "Mátrai",
+  "name_en": "Mátra",
+  "tagline": "Volcanic andesite foothills of the Mátra, Hungary's second-largest wine district and aromatic white heartland.",
+  "tagline_hu": "A Mátra vulkáni andezites előhegyei – Magyarország második legnagyobb borvidéke és illatos fehérborainak fellegvára.",
+  "elevator_pitch": "On the southern foothills of the Mátra mountains, between Hatvan and Domoszló, Mátra is Hungary's second-largest wine district and its largest mountainous region. Built on Miocene pyroxene andesite with chernozem, erubáz and loess veneers, the district is ~70% white, led by Olaszrizling, Chardonnay, Rizlingszilváni and Tramini, with a fast-growing Kékfrankos-led red segment. Gyöngyös anchors a network of 22 wine communes with vineyards between roughly 150 and 500 m.",
+  "elevator_pitch_hu": "A Mátra déli lábánál, Hatvan és Domoszló között elnyúló Mátrai borvidék Magyarország második legnagyobb és egyben legjelentősebb hegyvidéki borvidéke. Miocén piroxénandeziten épül fel, csernozjom-, erubáz- és löszborítással; kb. 70 százalékban fehér, az olaszrizling, chardonnay, rizlingszilváni és tramini vezetésével, miközben a kékfrankos-alapú vörös szegmens gyors növekedésnek indult. Gyöngyös köré 22 borfalu szerveződik, a szőlőültetvények 150 és 500 méter között helyezkednek el.",
+  "flagship_wines": [
+    "Aromatic, mineral Olaszrizling and other volcanic-soil whites",
+    "Kékfrankos-led foothill reds",
+    "Muscat Ottonel and Irsai Olivér aromatic whites"
+  ],
+  "flagship_wines_hu": [
+    "Illatos, ásványos olaszrizling és más vulkáni talajú fehérek",
+    "Kékfrankos-vezérelte előhegyi vörösek",
+    "Ottonel muskotály és irsai olivér illatos fehérek"
+  ],
+  "principal_grapes_summary": "Whites dominate (~70%), led by Olaszrizling, Chardonnay, Rizlingszilváni, Tramini, Sauvignon Blanc, Hárslevelű, Irsai Olivér and Muscat Ottonel. Reds (~30% and rising) center on Kékfrankos with Cabernet Sauvignon, Cabernet Franc, Pinot Noir and Kadarka, plus newer Syrah, Tempranillo and Gamay plantings.",
+  "principal_grapes_summary_hu": "Fehér dominancia (~70%): olaszrizling, chardonnay, rizlingszilváni, tramini, sauvignon blanc, hárslevelű, irsai olivér és Ottonel muskotály. A vörösek (~30% és növekszik) gerince a kékfrankos, mellette cabernet sauvignon, cabernet franc, pinot noir és kadarka, valamint friss syrah-, tempranillo- és gamay-telepítések.",
+  "terroir_summary": "Mátra is Hungary's archetypal andesite district: Miocene pyroxene andesite, andesite tuff and agglomerate bedrock overlain by a mosaic of chernozem brown forest soils, brown forest soils, erubáz (fekete nyirok) clay, luvisols and loess veneer. Predominantly south-facing foothill slopes between ~150 and 350 m, rising to ~500 m on the isolated volcanic Sár-hegy. The higher Mátra peaks (Galya-tető, Kékes) shelter the vineyard belt from northerly winds, giving a late-spring, warm-summer, dry-late-summer pattern.",
+  "terroir_summary_hu": "A Mátrai Magyarország archetipikus andezites borvidéke: miocén piroxénandezit, andezittufa és agglomerátum alapkőzeten csernozjom barna erdőtalajok, barna erdőtalajok, erubáz (fekete nyirok) agyag, luvisolok és lösztakaró mozaikja terül el. Túlnyomóan déli kitettségű előhegyi lejtők ~150–350 méter között, az elszigetelt vulkáni Sár-hegyen pedig egészen ~500 méterig. A magasabb mátrai csúcsok (Galya-tető, Kékes) szélárnyékban tartják a szőlőövezetet az északi áramlatoktól, így késő tavasz, meleg nyár és száraz nyárvég jellemzi a borvidéket.",
+  "climate_today": "Temperate Cfb/Dfb boundary with mean annual T around 10-11.5 °C and a growing-season mean near 17 °C. Annual precipitation is 550-700 mm, described as a 'rather dry terroir' with a May-June peak and dry late summer.",
+  "climate_today_hu": "A Cfb/Dfb határán: évi átlaghőmérséklet 10–11,5 °C, vegetációs időszaki átlag mintegy 17 °C. Az évi csapadék 550–700 mm, a borvidéket „inkább száraz terroirként” írják le, május–júniusi csapadékcsúccsal és száraz nyárvéggel.",
+  "climate_threat_headline": "Olaszrizling harvest has migrated from late-October to mid-September within one generation, and 2024 drought plus extreme heat forced simultaneous ripening across all varieties.",
+  "climate_threat_headline_hu": "Az olaszrizling szürete egy generáció alatt október végéről szeptember közepére csúszott; a 2024-es aszály és a szélsőséges hőség miatt minden fajta egyszerre érett be.",
+  "climate_winner_loser": "Winners: Kékfrankos, Kadarka, Syrah, Tempranillo and Gamay as newly viable reds. Losers: aromatic cool-climate whites like Rizlingszilváni, Müller-Thurgau and possibly Sauvignon Blanc losing suitability at current elevations.",
+  "climate_winner_loser_hu": "Nyertesek: kékfrankos, kadarka, syrah, tempranillo és gamay mint újonnan életképes vörösek. Vesztesek: a hűvös klímás illatos fehérek – rizlingszilváni, müller-thurgau és esetleg a sauvignon blanc – a jelenlegi magasságokon alkalmasságot veszítenek.",
+  "key_facts": [
+    {
+      "label": "Planted area",
+      "value": "~6,200-7,800 ha (EU PDO file ~5,470 ha); Hungary's second-largest wine district by area"
+    },
+    {
+      "label": "Communes",
+      "value": "22, anchored by Gyöngyös with Abasár, Markaz, Visonta, Nagyréde, Domoszló"
+    },
+    {
+      "label": "Elevation",
+      "value": "~150-350 m on the main belt, rising to ~500 m on Sár-hegy"
+    },
+    {
+      "label": "Bedrock",
+      "value": "Miocene pyroxene andesite, andesite tuff and agglomerate - Hungary's archetypal andesite wine district"
+    },
+    {
+      "label": "Variety mix",
+      "value": "~70% white (Olaszrizling, Chardonnay, Tramini, Rizlingszilváni) and ~30% red, with Kékfrankos rising as the new red flagship"
+    },
+    {
+      "label": "Historical note",
+      "value": "Continuous viticulture since 1042; in the 1980s Mátra produced ~40% of Hungary's wine exports"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített terület",
+      "value_hu": "Kb. 6200–7800 ha (az EU OEM-dosszié ~5470 ha); Magyarország területileg második legnagyobb borvidéke"
+    },
+    {
+      "label_hu": "Települések",
+      "value_hu": "22 település, Gyöngyös köré szervezve, Abasár, Markaz, Visonta, Nagyréde, Domoszló közreműködésével"
+    },
+    {
+      "label_hu": "Magasság",
+      "value_hu": "A főövben 150–350 m, a Sár-hegyen ~500 méterig"
+    },
+    {
+      "label_hu": "Alapkőzet",
+      "value_hu": "Miocén piroxénandezit, andezittufa és agglomerátum – Magyarország archetipikus andezites borvidéke"
+    },
+    {
+      "label_hu": "Fajtaösszetétel",
+      "value_hu": "~70% fehér (olaszrizling, chardonnay, tramini, rizlingszilváni) és ~30% vörös, a kékfrankos új vezérfajta szerepében"
+    },
+    {
+      "label_hu": "Történelmi adat",
+      "value_hu": "Folyamatos szőlőtermesztés 1042 óta; a nyolcvanas években a Mátrai adta a magyar borexport mintegy 40 százalékát"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Mátrai borvidék — Magyar Bor (bor.hu)",
+      "url": "https://bor.hu/matrai-borvidek/"
+    },
+    {
+      "title": "Matra Wine Region Guide — WineTourism.com",
+      "url": "https://www.winetourism.com/wine-appellation/matra/"
+    },
+    {
+      "title": "Mátra – vineyard of the mountains — Hungarianwines.eu",
+      "url": "https://hungarianwines.eu/matra-vineyard-of-the-mountains-full/"
+    },
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "The new home of Kékfrankos: the Mátra Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/magazine/the-new-home-of-kekfrankos-the-matra-wine-district"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "matrai",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Mátrai district centroid: annual maximum 1-day precipitation rising from 21.4 mm to 24.7 mm (+3.2 mm, a proxy for severe-storm intensity); longest annual dry spell from 21.0 to 24.7 days (+3.8); frost days from 87 to 34 days/year (-53); annual coldest night from -20.7 °C to -10.0 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Mátrai borvidék centroidjára: az éves maximális egynapos csapadék 21,4 mm-ről 24,7 mm-re nő (+3,2 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 21,0-ról 24,7 napra (+3,8); a fagyos napok száma 87-ről 34-re (-53); az év leghidegebb éjszakája -20,7 °C-ról -10,0 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 21.45,
+      "rx1day_mm_ssp585_2080_2099": 24.66,
+      "rx5day_mm_hist_1995_2014": 51.29,
+      "rx5day_mm_ssp585_2080_2099": 53.1,
+      "cdd_days_hist_1995_2014": 20.95,
+      "cdd_days_ssp585_2080_2099": 24.7,
+      "cwd_days_hist_1995_2014": 10.85,
+      "cwd_days_ssp585_2080_2099": 8.7,
+      "frost_days_hist_1995_2014": 87.4,
+      "frost_days_ssp585_2080_2099": 34.3,
+      "tnn_c_hist_1995_2014": -20.73,
+      "tnn_c_ssp585_2080_2099": -10.02,
+      "growing_season_length_days_hist_1995_2014": 258.7,
+      "growing_season_length_days_ssp585_2080_2099": 317.2
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

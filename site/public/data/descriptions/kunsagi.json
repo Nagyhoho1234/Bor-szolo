@@ -1,0 +1,132 @@
+{
+  "borvidek": "Kunsági",
+  "name_hu": "Kunsági",
+  "name_en": "Kunság",
+  "tagline": "Hungary's largest wine district: phylloxera-free sands, aromatic whites, and the frontline of aridification.",
+  "tagline_hu": "Magyarország legnagyobb borvidéke: filoxéramentes homok, illatos fehérek és az elsivatagosodás frontvonala.",
+  "elevator_pitch": "Sprawling across ~23,300 ha between the Danube and Tisza, Kunság is Hungary's largest wine district by planted area and supplies roughly a third of national output. Flat, sandy, phylloxera-immune ground on the Homokhátság ridge underpins a volume-and-value model of light, aromatic, early-drinking whites led by Cserszegi fűszeres, Olaszrizling and resistant Bianca, plus endemic high-acid Arany sárfehér and Kövidinka for sparkling bases.",
+  "elevator_pitch_hu": "A Duna és a Tisza között mintegy 23 300 hektáron elnyúló Kunság Magyarország területileg legnagyobb borvidéke, amely a nemzeti termés nagyjából harmadát adja. A Homokhátság sík, homokos, filoxéra-immunis talaja egy mennyiségi és értékorientált modellt támogat: könnyű, illatos, korán fogyasztható fehérek a cserszegi fűszeres, az olaszrizling és a rezisztens Bianca vezetésével, valamint endemikus, magas savú arany sárfehér és kövidinka pezsgőalapnak.",
+  "flagship_wines": [
+    "Cserszegi fűszeres and Irsai Olivér aromatic whites",
+    "Arany sárfehér and Kövidinka high-acid sparkling bases",
+    "Bianca-based resistant-variety and organic whites"
+  ],
+  "flagship_wines_hu": [
+    "Cserszegi fűszeres és irsai olivér illatos fehérek",
+    "Arany sárfehér és kövidinka magas savú pezsgőalapok",
+    "Bianca-alapú rezisztens fajtás és bio fehérek"
+  ],
+  "principal_grapes_summary": "Whites dominate ~75% of production: Cserszegi fűszeres, Olaszrizling, Irsai Olivér, Chardonnay, Bianca, Rajnai rizling, Ezerjó, plus endemic Arany sárfehér and Kövidinka. Reds (~25%) include Kékfrankos, Cabernet Sauvignon, Zweigelt, Cabernet Franc and Merlot.",
+  "principal_grapes_summary_hu": "A fehérek a termelés mintegy 75 százalékát adják: cserszegi fűszeres, olaszrizling, irsai olivér, chardonnay, Bianca, rajnai rizling, ezerjó, valamint endemikus arany sárfehér és kövidinka. A vörösek (~25%) között kékfrankos, cabernet sauvignon, zweigelt, cabernet franc és merlot szerepel.",
+  "terroir_summary": "Kunság is Hungary's archetypal sand-soil district, built on late-Quaternary fluvial and aeolian sands of the Homokhátság ridge. Quartz contents above 75–80% make the soils phylloxera-immune and vines are widely own-rooted. Dominant Arenosols have very low water-holding capacity and rapid drainage, interspersed with chernozem sands and alkaline szikes (solonetz/solonchak) patches — a soil feature unique among Hungarian wine regions. The landscape is near-flat at 85–150 m a.s.l. with effectively no slope.",
+  "terroir_summary_hu": "A Kunság Magyarország archetipikus homoktalajos borvidéke, amelyet a Homokhátság késő-pleisztocén folyóvízi és eolikus homokjai építenek fel. A 75–80 százalék feletti kvarctartalom filoxéra-immunissá teszi a talajokat, így a tövek nagy része saját gyökerű. A meghatározó arenosolok rendkívül gyenge vízmegtartó képességűek és gyorsan szivárognak, közéjük csernozjom homokfoltok és lúgos szikes (szolonyec/szolonycsák) parcellák ékelődnek – ez a talajbéli vonás Magyarország borvidékei között egyedülálló. A táj 85–150 méter magasan szinte teljesen sík, érdemi lejtés nélkül.",
+  "climate_today": "Driest and most continental of Hungary's wine districts: ~10.3–10.6 °C annual mean at Kecskemét, 520–580 mm precipitation, ~2,000–2,100 sunshine hours. Baseline Winkler II–III; Huglin Index has already crossed from 'Temperate warm' into 'Warm'.",
+  "climate_today_hu": "Magyarország legszárazabb és legkontinentálisabb borvidéke: Kecskeméten ~10,3–10,6 °C évi átlag, 520–580 mm csapadék, ~2000–2100 napsütéses óra. Az alap Winkler II–III; a Huglin-index már átlépett a „mérsékelten meleg” sávból a „meleg” kategóriába.",
+  "climate_threat_headline": "Drought is existential: Kunság shows the largest observed and projected GDD increase of any Hungarian wine region, on the Homokhátság aridification epicentre with groundwater down 2–5 m (locally 10 m).",
+  "climate_threat_headline_hu": "Az aszály egzisztenciális kérdés: Kunságon mérték a magyar borvidékek közül a legnagyobb megfigyelt és projektált GDD-növekedést, méghozzá a Homokhátság elsivatagosodási epicentrumában, ahol a talajvíz 2–5 méterrel (helyenként 10 méterrel) lejjebb került.",
+  "climate_winner_loser": "Winners: Bianca (resistant, lower sprays), Arany sárfehér and Kövidinka sparkling bases, rosé. Losers: Cserszegi fűszeres terpene aromatics, low-alcohol bulk whites, own-rooted marginal sand parcels.",
+  "climate_winner_loser_hu": "Nyertesek: Bianca (rezisztens, kevesebb permetezéssel), arany sárfehér és kövidinka pezsgőalapok, rosé. Vesztesek: a cserszegi fűszeres terpén-illatok, az alacsony alkoholú tömegfehérek és a saját gyökerű, marginális homokparcellák.",
+  "key_facts": [
+    {
+      "label": "Planted vineyard area",
+      "value": "~23,300 ha — Hungary's largest wine district by area"
+    },
+    {
+      "label": "Share of national output",
+      "value": "Roughly one-third of all Hungarian wine production; peak ~1.8 million hL"
+    },
+    {
+      "label": "Phylloxera immunity",
+      "value": "Sands >75–80% quartz allow widespread own-rooted (ungrafted) vines"
+    },
+    {
+      "label": "Projected GDD shift 1971–2100",
+      "value": "+581.65 °C-days — the largest of all 22 Hungarian wine regions (Lakatos & Nagy 2025)"
+    },
+    {
+      "label": "Sub-PDO",
+      "value": "Soltvadkerti Ezerjó — restricted to Ezerjó-based whites and sparkling wines"
+    },
+    {
+      "label": "Bianca concentration",
+      "value": "Kunság holds ~90% of all Hungarian Bianca plantings"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Telepített szőlőterület",
+      "value_hu": "Kb. 23 300 ha – Magyarország területileg legnagyobb borvidéke"
+    },
+    {
+      "label_hu": "Részesedés a nemzeti termésből",
+      "value_hu": "Az összes magyar bortermés nagyjából harmada; csúcsa kb. 1,8 millió hl"
+    },
+    {
+      "label_hu": "Filoxéra-immunitás",
+      "value_hu": "A 75–80% feletti kvarctartalmú homok lehetővé teszi a saját gyökerű (oltatlan) tőkék elterjedését"
+    },
+    {
+      "label_hu": "Projektált GDD-eltolódás 1971–2100",
+      "value_hu": "+581,65 °C·nap – a 22 magyar borvidék közül a legnagyobb (Lakatos–Nagy 2025)"
+    },
+    {
+      "label_hu": "Részvédjegy",
+      "value_hu": "Soltvadkerti Ezerjó – kizárólag ezerjó-alapú fehér- és pezsgőborokra"
+    },
+    {
+      "label_hu": "Bianca-koncentráció",
+      "value_hu": "Kunságon található az összes magyarországi Bianca-telepítés mintegy 90 százaléka"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Kunság Wine District: home of award-winning rosés — Wines of Hungary",
+      "url": "https://winesofhungary.hu/magazine/kunsag-wine-district-home-of-award-winning-roses-and-many-hidden-treasures"
+    },
+    {
+      "title": "Kunság PDO: Vineyards Rising From The Sand — Taste Hungary",
+      "url": "https://tastehungary.com/journal/kunsag-pdo-vineyards-rising-from-the-sand/"
+    },
+    {
+      "title": "Kovács, Hoyk & Farkas 2017 — Homokhátság: aridification in the Carpathian Basin (Eur. Countryside)",
+      "url": "https://www.researchgate.net/publication/316005136"
+    },
+    {
+      "title": "Importance of sandy soils during the Hungarian phylloxera epidemic and today — ISHS Acta Hort.",
+      "url": "https://ishs.org/ishs-article/816_2/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "kunsagi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Kunsági district centroid: annual maximum 1-day precipitation rising from 21.1 mm to 24.4 mm (+3.2 mm, a proxy for severe-storm intensity); longest annual dry spell from 21.6 to 25.5 days (+3.9); frost days from 78 to 28 days/year (-49); annual coldest night from -18.7 °C to -8.9 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Kunsági borvidék centroidjára: az éves maximális egynapos csapadék 21,1 mm-ről 24,4 mm-re nő (+3,2 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 21,6-ról 25,5 napra (+3,9); a fagyos napok száma 78-ról 28-ra (-49); az év leghidegebb éjszakája -18,7 °C-ról -8,9 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 21.12,
+      "rx1day_mm_ssp585_2080_2099": 24.37,
+      "rx5day_mm_hist_1995_2014": 47.23,
+      "rx5day_mm_ssp585_2080_2099": 50.39,
+      "cdd_days_hist_1995_2014": 21.65,
+      "cdd_days_ssp585_2080_2099": 25.5,
+      "cwd_days_hist_1995_2014": 9.4,
+      "cwd_days_ssp585_2080_2099": 8,
+      "frost_days_hist_1995_2014": 77.6,
+      "frost_days_ssp585_2080_2099": 28.2,
+      "tnn_c_hist_1995_2014": -18.73,
+      "tnn_c_ssp585_2080_2099": -8.94,
+      "growing_season_length_days_hist_1995_2014": 272,
+      "growing_season_length_days_ssp585_2080_2099": 329
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

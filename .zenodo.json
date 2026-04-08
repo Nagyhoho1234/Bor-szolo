@@ -1,0 +1,79 @@
+{
+  "title": "Hungarian Wine Climate Atlas — district-level climate susceptibility, variety suitability and threats for the 22 Hungarian wine districts (1971–2100)",
+  "description": "<p>An open-source bilingual (Hungarian + English) information site that visualises climate-change susceptibility for the 22 Hungarian wine districts (borvidék). It joins three peer-reviewed climate datasets to a curated knowledge base of 58 grape varieties and surfaces the result as a publishable, citation-ready website.</p><p><strong>What is in here:</strong></p><ul><li>A Python pipeline (analysis/src/) that extracts daily climate fields from the FORESEE v1.1 regional dataset (Dobor et al. 2015) at district level via area-weighted polygon means, computes nine viticulture indices (Winkler GDD, Huglin Index, frost days, heat-stress days, Hargreaves PET drought balance, Cool Night Index, etc.), and validates against the World Bank CCKP CMIP6 0.25° ensemble.</li><li>A variety-suitability matcher with trapezoidal Huglin scoring, soft Winkler-class penalty, and frost/heat tolerance penalties, evaluated across four future bins (2021-2040, 2041-2060, 2061-2080, 2081-2100) and two scenarios (RCP4.5, RCP8.5).</li><li>A curated threats dataset covering the active 2025 Flavescence dorée outbreak (NÉBIH detected in 21 of 22 wine districts), grapevine trunk diseases, late spring frost events, and EU pesticide regulation status.</li><li>22 long-form research dossiers (~123,000 words) and two synthesis briefs, fully translated to Hungarian.</li><li>A bilingual Next.js + MapLibre + deck.gl static site (HU + EN) with 1,091 prerendered pages, including per-district detail pages, side-by-side district comparisons, threat-ranking views, methods explainers, downloadable per-district PDFs, and a sortable comparison table.</li><li>SHA-256 checksums and a versioned manifest.json for the curated data bundle.</li></ul><p><strong>Who is it for:</strong></p><ul><li>Hungarian and international wine investors evaluating district-level climate risk</li><li>Wine growers and hegyközségi tanácsadók considering variety adaptation</li><li>Climate impact researchers needing a reproducible Hungarian baseline</li><li>Policy makers and the wine-curious public</li></ul><p><strong>Reproducibility:</strong> Every site chart can be re-derived from the curated parquet/JSON/GeoJSON in <code>analysis/curated/</code>. The Python pipeline is idempotent and re-runnable; the Next.js site builds to a static export deployable to any host.</p>",
+  "creators": [
+    {
+      "name": "Fehér, Zsolt Zoltán",
+      "affiliation": "University of Debrecen"
+    }
+  ],
+  "keywords": [
+    "Hungarian wine districts",
+    "borvidék",
+    "climate change",
+    "viticulture",
+    "Winkler index",
+    "Huglin index",
+    "FORESEE",
+    "CMIP6",
+    "World Bank CCKP",
+    "wine",
+    "grape varieties",
+    "Flavescence dorée",
+    "Tokaj",
+    "Eger",
+    "Villány",
+    "drought",
+    "heat stress",
+    "frost",
+    "RCP4.5",
+    "RCP8.5",
+    "SSP2-4.5",
+    "SSP5-8.5",
+    "climate adaptation",
+    "Hungary",
+    "open data",
+    "reproducible research"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "upload_type": "software",
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "climate"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1002/gdj3.22",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.3389/fpls.2025.1481431",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.1016/j.agrformet.2003.06.001",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://climateknowledgeportal.worldbank.org/",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://odp.met.hu/",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "dataset"
+    }
+  ]
+}

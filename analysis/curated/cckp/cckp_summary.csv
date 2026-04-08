@@ -1,0 +1,211 @@
+variable,scenario,period,stat,granularity,n_districts,country_value_raw,country_value_conv,description
+tas,historical,1995-2014,mean,district,22,11.45,11.45,
+tas,historical,1995-2014,p10,district,22,11.2,11.2,
+tas,historical,1995-2014,p90,district,22,11.85,11.85,
+tas,ssp245,2040-2059,mean,district,22,13.09,13.09,
+tas,ssp245,2040-2059,p10,district,22,12.07,12.07,
+tas,ssp245,2040-2059,p90,district,22,14.47,14.47,
+tas,ssp585,2040-2059,mean,district,22,13.73,13.73,
+tas,ssp585,2040-2059,p10,district,22,12.79,12.79,
+tas,ssp585,2040-2059,p90,district,22,14.88,14.88,
+tas,ssp245,2080-2099,mean,district,22,14.08,14.08,
+tas,ssp245,2080-2099,p10,district,22,12.82,12.82,
+tas,ssp245,2080-2099,p90,district,22,15.66,15.66,
+tas,ssp585,2080-2099,mean,district,22,16.68,16.68,
+tas,ssp585,2080-2099,p10,district,22,15.12,15.12,
+tas,ssp585,2080-2099,p90,district,22,18.7,18.7,
+tasmax,historical,1995-2014,mean,district,22,15.88,15.88,
+tasmax,historical,1995-2014,p10,district,22,15.27,15.27,
+tasmax,historical,1995-2014,p90,district,22,16.45,16.45,
+tasmax,ssp245,2040-2059,mean,district,22,17.63,17.63,
+tasmax,ssp245,2040-2059,p10,district,22,16.44,16.44,
+tasmax,ssp245,2040-2059,p90,district,22,19.11,19.11,
+tasmax,ssp585,2040-2059,mean,district,22,18.37,18.37,
+tasmax,ssp585,2040-2059,p10,district,22,16.95,16.95,
+tasmax,ssp585,2040-2059,p90,district,22,19.76,19.76,
+tasmax,ssp245,2080-2099,mean,district,22,18.67,18.67,
+tasmax,ssp245,2080-2099,p10,district,22,17.32,17.32,
+tasmax,ssp245,2080-2099,p90,district,22,20.38,20.38,
+tasmax,ssp585,2080-2099,mean,district,22,21.35,21.35,
+tasmax,ssp585,2080-2099,p10,district,22,19.25,19.25,
+tasmax,ssp585,2080-2099,p90,district,22,23.9,23.9,
+tasmin,historical,1995-2014,mean,district,22,7.1,7.1,
+tasmin,historical,1995-2014,p10,district,22,6.55,6.55,
+tasmin,historical,1995-2014,p90,district,22,7.61,7.61,
+tasmin,ssp245,2040-2059,mean,district,22,8.56,8.56,
+tasmin,ssp245,2040-2059,p10,district,22,7.62,7.62,
+tasmin,ssp245,2040-2059,p90,district,22,9.9,9.9,
+tasmin,ssp585,2040-2059,mean,district,22,9.23,9.23,
+tasmin,ssp585,2040-2059,p10,district,22,8.03,8.03,
+tasmin,ssp585,2040-2059,p90,district,22,10.59,10.59,
+tasmin,ssp245,2080-2099,mean,district,22,9.55,9.55,
+tasmin,ssp245,2080-2099,p10,district,22,8.27,8.27,
+tasmin,ssp245,2080-2099,p90,district,22,11.14,11.14,
+tasmin,ssp585,2080-2099,mean,district,22,12.05,12.05,
+tasmin,ssp585,2080-2099,p10,district,22,9.89,9.89,
+tasmin,ssp585,2080-2099,p90,district,22,14.29,14.29,
+pr,historical,1995-2014,mean,district,22,694.1,694.1,
+pr,historical,1995-2014,p10,district,22,615.01,615.01,
+pr,historical,1995-2014,p90,district,22,769.45,769.45,
+pr,ssp245,2040-2059,mean,district,22,688.08,688.08,
+pr,ssp245,2040-2059,p10,district,22,581.98,581.98,
+pr,ssp245,2040-2059,p90,district,22,796.9,796.9,
+pr,ssp585,2040-2059,mean,district,22,665.86,665.86,
+pr,ssp585,2040-2059,p10,district,22,546.75,546.75,
+pr,ssp585,2040-2059,p90,district,22,811.85,811.85,
+pr,ssp245,2080-2099,mean,district,22,686.37,686.37,
+pr,ssp245,2080-2099,p10,district,22,544.19,544.19,
+pr,ssp245,2080-2099,p90,district,22,813.05,813.05,
+pr,ssp585,2080-2099,mean,district,22,632.49,632.49,
+pr,ssp585,2080-2099,p10,district,22,485.77,485.77,
+pr,ssp585,2080-2099,p90,district,22,786.35,786.35,
+hd35,historical,1995-2014,mean,district,22,1.85,1.85,
+hd35,historical,1995-2014,p10,district,22,1.04,1.04,
+hd35,historical,1995-2014,p90,district,22,2.88,2.88,
+hd35,ssp245,2040-2059,mean,district,22,8.34,8.34,
+hd35,ssp245,2040-2059,p10,district,22,4.39,4.39,
+hd35,ssp245,2040-2059,p90,district,22,17.8,17.8,
+hd35,ssp585,2040-2059,mean,district,22,14.59,14.59,
+hd35,ssp585,2040-2059,p10,district,22,5.36,5.36,
+hd35,ssp585,2040-2059,p90,district,22,24.29,24.29,
+hd35,ssp245,2080-2099,mean,district,22,16.34,16.34,
+hd35,ssp245,2080-2099,p10,district,22,6.91,6.91,
+hd35,ssp245,2080-2099,p90,district,22,29.65,29.65,
+hd35,ssp585,2080-2099,mean,district,22,46.77,46.77,
+hd35,ssp585,2080-2099,p10,district,22,23.37,23.37,
+hd35,ssp585,2080-2099,p90,district,22,75.31,75.31,
+txx,historical,1995-2014,mean,district,22,38.04,38.04,
+txx,historical,1995-2014,p10,district,22,36.96,36.96,
+txx,historical,1995-2014,p90,district,22,38.67,38.67,
+txx,ssp245,2040-2059,mean,district,22,40.54,40.54,
+txx,ssp245,2040-2059,p10,district,22,38.46,38.46,
+txx,ssp245,2040-2059,p90,district,22,42.44,42.44,
+txx,ssp585,2040-2059,mean,district,22,41.77,41.77,
+txx,ssp585,2040-2059,p10,district,22,38.97,38.97,
+txx,ssp585,2040-2059,p90,district,22,43.76,43.76,
+txx,ssp245,2080-2099,mean,district,22,42.16,42.16,
+txx,ssp245,2080-2099,p10,district,22,39.44,39.44,
+txx,ssp245,2080-2099,p90,district,22,44.92,44.92,
+txx,ssp585,2080-2099,mean,district,22,46.32,46.32,
+txx,ssp585,2080-2099,p10,district,22,41.87,41.87,
+txx,ssp585,2080-2099,p90,district,22,50.12,50.12,
+r20mm,historical,1995-2014,mean,district,22,0.96,0.96,
+r20mm,historical,1995-2014,p10,district,22,0.12,0.12,
+r20mm,historical,1995-2014,p90,district,22,2.28,2.28,
+r20mm,ssp245,2040-2059,mean,district,22,1.16,1.16,
+r20mm,ssp245,2040-2059,p10,district,22,0.18,0.18,
+r20mm,ssp245,2040-2059,p90,district,22,2.73,2.73,
+r20mm,ssp585,2040-2059,mean,district,22,1.18,1.18,
+r20mm,ssp585,2040-2059,p10,district,22,0.18,0.18,
+r20mm,ssp585,2040-2059,p90,district,22,3.04,3.04,
+r20mm,ssp245,2080-2099,mean,district,22,1.29,1.29,
+r20mm,ssp245,2080-2099,p10,district,22,0.23,0.23,
+r20mm,ssp245,2080-2099,p90,district,22,3.22,3.22,
+r20mm,ssp585,2080-2099,mean,district,22,1.46,1.46,
+r20mm,ssp585,2080-2099,p10,district,22,0.19,0.19,
+r20mm,ssp585,2080-2099,p90,district,22,3.74,3.74,
+cdd,historical,1995-2014,mean,district,22,20.11,20.11,Annual max consecutive dry days (drought intensity)
+cdd,historical,1995-2014,p10,district,22,16.38,16.38,Annual max consecutive dry days (drought intensity)
+cdd,historical,1995-2014,p90,district,22,22.49,22.49,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2040-2059,mean,district,22,20.24,20.24,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2040-2059,p10,district,22,16.75,16.75,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2040-2059,p90,district,22,23.94,23.94,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2040-2059,mean,district,22,20.96,20.96,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2040-2059,p10,district,22,16.81,16.81,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2040-2059,p90,district,22,26.49,26.49,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2080-2099,mean,district,22,21.41,21.41,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2080-2099,p10,district,22,17.71,17.71,Annual max consecutive dry days (drought intensity)
+cdd,ssp245,2080-2099,p90,district,22,26.87,26.87,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2080-2099,mean,district,22,23.8,23.8,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2080-2099,p10,district,22,17.75,17.75,Annual max consecutive dry days (drought intensity)
+cdd,ssp585,2080-2099,p90,district,22,29.73,29.73,Annual max consecutive dry days (drought intensity)
+cwd,historical,1995-2014,mean,district,22,10.29,10.29,Annual max consecutive wet days
+cwd,historical,1995-2014,p10,district,22,8.41,8.41,Annual max consecutive wet days
+cwd,historical,1995-2014,p90,district,22,12.64,12.64,Annual max consecutive wet days
+cwd,ssp245,2040-2059,mean,district,22,10.18,10.18,Annual max consecutive wet days
+cwd,ssp245,2040-2059,p10,district,22,8.23,8.23,Annual max consecutive wet days
+cwd,ssp245,2040-2059,p90,district,22,12.08,12.08,Annual max consecutive wet days
+cwd,ssp585,2040-2059,mean,district,22,9.66,9.66,Annual max consecutive wet days
+cwd,ssp585,2040-2059,p10,district,22,8.29,8.29,Annual max consecutive wet days
+cwd,ssp585,2040-2059,p90,district,22,11.87,11.87,Annual max consecutive wet days
+cwd,ssp245,2080-2099,mean,district,22,9.74,9.74,Annual max consecutive wet days
+cwd,ssp245,2080-2099,p10,district,22,8.35,8.35,Annual max consecutive wet days
+cwd,ssp245,2080-2099,p90,district,22,12.18,12.18,Annual max consecutive wet days
+cwd,ssp585,2080-2099,mean,district,22,8.73,8.73,Annual max consecutive wet days
+cwd,ssp585,2080-2099,p10,district,22,7.54,7.54,Annual max consecutive wet days
+cwd,ssp585,2080-2099,p90,district,22,11.69,11.69,Annual max consecutive wet days
+rx5day,historical,1995-2014,mean,district,22,50.16,50.16,Annual max 5-day precipitation total (flood proxy)
+rx5day,historical,1995-2014,p10,district,22,39.12,39.12,Annual max 5-day precipitation total (flood proxy)
+rx5day,historical,1995-2014,p90,district,22,63.38,63.38,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2040-2059,mean,district,22,53.25,53.25,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2040-2059,p10,district,22,40.77,40.77,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2040-2059,p90,district,22,67.59,67.59,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2040-2059,mean,district,22,52.99,52.99,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2040-2059,p10,district,22,40.36,40.36,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2040-2059,p90,district,22,69.55,69.55,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2080-2099,mean,district,22,53.3,53.3,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2080-2099,p10,district,22,40.66,40.66,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp245,2080-2099,p90,district,22,69.44,69.44,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2080-2099,mean,district,22,54.22,54.22,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2080-2099,p10,district,22,40.68,40.68,Annual max 5-day precipitation total (flood proxy)
+rx5day,ssp585,2080-2099,p90,district,22,72.83,72.83,Annual max 5-day precipitation total (flood proxy)
+rx1day,historical,1995-2014,mean,district,22,22.38,22.38,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,historical,1995-2014,p10,district,22,16.97,16.97,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,historical,1995-2014,p90,district,22,28.95,28.95,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2040-2059,mean,district,22,24.06,24.06,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2040-2059,p10,district,22,17.78,17.78,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2040-2059,p90,district,22,31.67,31.67,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2040-2059,mean,district,22,24.14,24.14,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2040-2059,p10,district,22,17.81,17.81,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2040-2059,p90,district,22,32.66,32.66,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2080-2099,mean,district,22,24.71,24.71,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2080-2099,p10,district,22,18.16,18.16,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp245,2080-2099,p90,district,22,32.86,32.86,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2080-2099,mean,district,22,25.47,25.47,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2080-2099,p10,district,22,18.08,18.08,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+rx1day,ssp585,2080-2099,p90,district,22,34.6,34.6,Annual max 1-day precipitation (convective storm / hail proxy; CMIP6 does NOT model hail directly)
+tnn,historical,1995-2014,mean,district,22,-19.81,-19.81,Annual minimum of daily minimum temperature (frost severity)
+tnn,historical,1995-2014,p10,district,22,-22.89,-22.89,Annual minimum of daily minimum temperature (frost severity)
+tnn,historical,1995-2014,p90,district,22,-16.49,-16.49,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2040-2059,mean,district,22,-15.38,-15.38,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2040-2059,p10,district,22,-19.9,-19.9,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2040-2059,p90,district,22,-12.43,-12.43,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2040-2059,mean,district,22,-15.11,-15.11,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2040-2059,p10,district,22,-19.15,-19.15,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2040-2059,p90,district,22,-11.83,-11.83,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2080-2099,mean,district,22,-13.67,-13.67,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2080-2099,p10,district,22,-17.69,-17.69,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp245,2080-2099,p90,district,22,-11.05,-11.05,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2080-2099,mean,district,22,-9.59,-9.59,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2080-2099,p10,district,22,-14.54,-14.54,Annual minimum of daily minimum temperature (frost severity)
+tnn,ssp585,2080-2099,p90,district,22,-5.87,-5.87,Annual minimum of daily minimum temperature (frost severity)
+fd,historical,1995-2014,mean,district,22,79.11,79.11,Frost days (tmin < 0 C)
+fd,historical,1995-2014,p10,district,22,58.55,58.55,Frost days (tmin < 0 C)
+fd,historical,1995-2014,p90,district,22,91.99,91.99,Frost days (tmin < 0 C)
+fd,ssp245,2040-2059,mean,district,22,61.86,61.86,Frost days (tmin < 0 C)
+fd,ssp245,2040-2059,p10,district,22,38.44,38.44,Frost days (tmin < 0 C)
+fd,ssp245,2040-2059,p90,district,22,79.08,79.08,Frost days (tmin < 0 C)
+fd,ssp585,2040-2059,mean,district,22,55.3,55.3,Frost days (tmin < 0 C)
+fd,ssp585,2040-2059,p10,district,22,32.25,32.25,Frost days (tmin < 0 C)
+fd,ssp585,2040-2059,p90,district,22,72.55,72.55,Frost days (tmin < 0 C)
+fd,ssp245,2080-2099,mean,district,22,51.66,51.66,Frost days (tmin < 0 C)
+fd,ssp245,2080-2099,p10,district,22,28.3,28.3,Frost days (tmin < 0 C)
+fd,ssp245,2080-2099,p90,district,22,70.25,70.25,Frost days (tmin < 0 C)
+fd,ssp585,2080-2099,mean,district,22,28.9,28.9,Frost days (tmin < 0 C)
+fd,ssp585,2080-2099,p10,district,22,4.97,4.97,Frost days (tmin < 0 C)
+fd,ssp585,2080-2099,p90,district,22,50.09,50.09,Frost days (tmin < 0 C)
+gsl,historical,1995-2014,mean,district,22,268.46,268.46,Growing season length
+gsl,historical,1995-2014,p10,district,22,259.32,259.32,Growing season length
+gsl,historical,1995-2014,p90,district,22,278.97,278.97,Growing season length
+gsl,ssp245,2040-2059,mean,district,22,290.19,290.19,Growing season length
+gsl,ssp245,2040-2059,p10,district,22,270.94,270.94,Growing season length
+gsl,ssp245,2040-2059,p90,district,22,306.22,306.22,Growing season length
+gsl,ssp585,2040-2059,mean,district,22,294.59,294.59,Growing season length
+gsl,ssp585,2040-2059,p10,district,22,279.25,279.25,Growing season length
+gsl,ssp585,2040-2059,p90,district,22,315.11,315.11,Growing season length
+gsl,ssp245,2080-2099,mean,district,22,302.09,302.09,Growing season length
+gsl,ssp245,2080-2099,p10,district,22,279.61,279.61,Growing season length
+gsl,ssp245,2080-2099,p90,district,22,315.24,315.24,Growing season length
+gsl,ssp585,2080-2099,mean,district,22,324.71,324.71,Growing season length
+gsl,ssp585,2080-2099,p10,district,22,301.91,301.91,Growing season length
+gsl,ssp585,2080-2099,p90,district,22,351.16,351.16,Growing season length

@@ -1,0 +1,106 @@
+# Climate indices for the Hungarian grape variety × district suitability analysis.
+# Reference definitions only — actual computation lives elsewhere in the pipeline.
+# Compiled 2026-04-07.
+
+winkler:
+  display_name_en: Winkler Index (Growing Degree Days)
+  display_name_hu: Winkler-index (effektív hőösszeg)
+  formula: "sum over Apr 1 – Oct 31 of max(0, (Tmax + Tmin)/2 − 10 °C)"
+  season: "1 April – 31 October (Northern Hemisphere growing season)"
+  units: "°C·day"
+  interpretation: >
+    Region I (<1389) very cool, only earliest white varieties; Region II (1389–1667)
+    cool, classic white-wine climate; Region III (1667–1944) warm-temperate, broad
+    range of varieties; Region IV (1944–2222) warm, late reds; Region V (>2222) very
+    warm. Most Hungarian districts sit in Regions II–III; warm sites (Villány,
+    Szekszárd) approach Region IV.
+  reference: "Winkler, A.J., Cook, J.A., Kliewer, W.M., Lider, L.A. (1974) General Viticulture."
+
+huglin:
+  display_name_en: Huglin Heliothermal Index
+  display_name_hu: Huglin-féle hőösszeg index
+  formula: "sum over Apr 1 – Sep 30 of K · ((Tmean − 10) + (Tmax − 10))/2, where K is a day-length latitude correction (≈1.04 at 47 °N)"
+  season: "1 April – 30 September"
+  units: "°C·day"
+  interpretation: >
+    Tonietto & Carbonneau (2004) thresholds: HI ≤ 1500 very cool; 1500–1800 cool;
+    1800–2100 temperate; 2100–2400 warm-temperate; 2400–2700 warm; 2700–3000 very
+    warm; >3000 extremely warm. Bands in grape_envelopes.csv use these thresholds.
+  reference: "Huglin (1978); Tonietto & Carbonneau (2004) Agricultural and Forest Meteorology 124."
+
+frost_spring:
+  display_name_en: Spring Frost Days
+  display_name_hu: Tavaszi fagyos napok
+  formula: "count of days with Tmin < 0 °C between bud-break (≈ 1 April) and 15 May"
+  season: "1 April – 15 May"
+  units: "days"
+  interpretation: >
+    Number of nights cold enough to damage emerging shoots. >5 days indicates a
+    high-risk site for frost-sensitive varieties (Kadarka, Ezerjó, Merlot, Juhfark).
+    Compare against the per-variety frost_tolerance_days field.
+
+last_frost_doy:
+  display_name_en: Last Spring Frost (Day of Year)
+  display_name_hu: Utolsó tavaszi fagy (év napja)
+  formula: "DOY of the last day with Tmin < 0 °C between 1 March and 31 May"
+  season: "1 March – 31 May"
+  units: "day-of-year"
+  interpretation: >
+    Late values (DOY > 115, ≈ 25 April) indicate high frost risk after bud-break.
+    Useful for siting frost-sensitive varieties and for trend analysis under warming.
+
+heat_days_35:
+  display_name_en: Hot Days (Tmax > 35 °C)
+  display_name_hu: Forró napok száma (Tmax > 35 °C)
+  formula: "count of days in Jun–Aug with Tmax > 35 °C"
+  season: "1 June – 31 August"
+  units: "days"
+  interpretation: >
+    Photosynthesis halts and berries can suffer sunburn above ~35 °C. >15 days
+    threatens aromatic whites (Riesling, Tramini, Pinot noir); robust reds
+    (Cabernet sauvignon, Syrah) tolerate more. Compare against heat_tolerance_days.
+
+extreme_heat_days_38:
+  display_name_en: Extreme Heat Days (Tmax > 38 °C)
+  display_name_hu: Hőségnapok (Tmax > 38 °C)
+  formula: "count of days in Jun–Aug with Tmax > 38 °C"
+  season: "1 June – 31 August"
+  units: "days"
+  interpretation: >
+    Indicator of extreme stress; even one or two such days can cause irreversible
+    berry damage. Used as a hard penalty in the suitability score.
+
+gs_precip:
+  display_name_en: Growing-Season Precipitation
+  display_name_hu: Tenyészidőszaki csapadékösszeg
+  formula: "sum of daily precipitation, 1 April – 31 October"
+  season: "1 April – 31 October"
+  units: "mm"
+  interpretation: >
+    Below ~400 mm over the growing season most varieties need irrigation; above
+    ~700 mm disease pressure (downy/powdery mildew, botrytis) becomes the limiting
+    factor. Compare against min_gs_precip_mm.
+
+drought_ppet:
+  display_name_en: Dryness Index (P − PET)
+  display_name_hu: Szárazsági index (csapadék − potenciális párolgás)
+  formula: "Riou Dryness Index: water balance Apr–Sep, initial soil reserve 200 mm, monthly P − PETriou"
+  season: "1 April – 30 September"
+  units: "mm"
+  interpretation: >
+    Tonietto & Carbonneau (2004) classes: DI > 150 humid; 50–150 sub-humid;
+    −100 to 50 moderately dry; < −100 very dry. Most of Hungary is sub-humid to
+    moderately dry, trending drier under warming.
+  reference: "Riou (1994); Tonietto & Carbonneau (2004)."
+
+cni:
+  display_name_en: Cool Night Index
+  display_name_hu: Hideg éjszakák indexe (CNI)
+  formula: "mean of daily Tmin during September"
+  season: "1 September – 30 September"
+  units: "°C"
+  interpretation: >
+    Tonietto & Carbonneau (2004): CNI ≤ 12 very cool nights; 12–14 cool;
+    14–18 temperate; >18 warm nights. Cool September nights preserve aromatics and
+    anthocyanins — critical for Tokaj, Eger and Sopron.
+  reference: "Tonietto & Carbonneau (2004) Agricultural and Forest Meteorology 124."

@@ -1,0 +1,132 @@
+{
+  "borvidek": "Nagy-Somlói",
+  "name_hu": "Nagy-Somlói",
+  "name_en": "Nagy-Somló",
+  "tagline": "Hungary's smallest PDO: a basalt witness-hill and the only home of the endemic Juhfark grape.",
+  "tagline_hu": "Magyarország legkisebb OEM-je: egy bazalt tanúhegy és az endemikus juhfark egyetlen otthona.",
+  "elevator_pitch": "Nagy-Somló is Hungary's smallest of 22 wine districts, defined by four isolated volcanic buttes rising from the Kisalföld plain. The basalt cap of Somló-hegy hosts roughly the entire global plantation of Juhfark, producing austere, gun-flinty, age-worthy whites historically known as the wedding-night wine and the wine of coronations.",
+  "elevator_pitch_hu": "A Nagy-Somlói Magyarország 22 borvidéke közül a legkisebb, amelyet négy elszigetelt vulkáni tanúhegy határoz meg, melyek a Kisalföld síkságából emelkednek ki. A Somló-hegy bazaltsapkáján gyakorlatilag a juhfark teljes globális ültetvénye található – ezek a szigorú, kovás-puskaporos, érlelhető fehérek a hagyomány szerint a nászéjszakák bora és koronázási bor voltak.",
+  "flagship_wines": [
+    "Bone-dry mineral Juhfark aged in large oak",
+    "Volcanic Olaszrizling and Furmint",
+    "Hárslevelű and traditional oxidative whites"
+  ],
+  "flagship_wines_hu": [
+    "Csontszáraz, ásványos juhfark nagy hordóban érlelve",
+    "Vulkáni olaszrizling és furmint",
+    "Hárslevelű és hagyományos oxidatív fehérek"
+  ],
+  "principal_grapes_summary": "Juhfark is the endemic flagship and effectively unique to Somló, supported by Olaszrizling (~25%), Hárslevelű, Furmint, Tramini, Chardonnay and Rajnai Rizling. Roughly 95% of plantings are white; red grapes are negligible.",
+  "principal_grapes_summary_hu": "A juhfark a borvidék endemikus zászlóshajója, gyakorlatilag csak Somlón terem; mellette olaszrizling (~25%), hárslevelű, furmint, tramini, chardonnay és rajnai rizling szerepel. A telepítések mintegy 95 százaléka fehér; a vörös szőlőfajták elhanyagolható mennyiségűek.",
+  "terroir_summary": "Somló-hegy is a Pliocene-Miocene basalt witness-hill with Pannonian sandstone and loess at the base, basalt tuff and breccia on mid-slopes, and weathered basalt buckshot, nyirok clay and exposed bedrock above. The dark basalt acts as a thermal battery, historically allowing late-ripening Juhfark at 47°N but now amplifying heatwave stress on shallow, free-draining, drought-prone soils.",
+  "terroir_summary_hu": "A Somló-hegy egy pliocén-miocén bazalt tanúhegy: a tövénél pannóniai homokkő és lösz, a középső lejtőkön bazalttufa és breccsa, feljebb mállott bazaltsörét, nyirokagyag és felszínre bukkanó alapkőzet. A sötét bazalt termikus akkumulátorként működik, történelmileg ez tette lehetővé a későn érő juhfark megérését a 47. szélességi körön; ma viszont éppen ez fokozza a hőhullámok hatását a sekély, gyorsan elszivárgó, aszályérzékeny talajokon.",
+  "climate_today": "Western Transdanubian warming of roughly +2 °C between the 1961-1990 and 1991-2020 normals has lengthened the vegetation period by ~20 days and added ~150-200 °C to the growing-season heat sum on Somló's slopes.",
+  "climate_today_hu": "A nyugat-dunántúli mintegy +2 °C-os melegedés az 1961–1990-es és az 1991–2020-as normálértékek között hozzávetőleg 20 nappal hosszabbította meg a vegetációs időszakot, és 150–200 °C-kal növelte a tenyészidőszaki hőösszeget Somló lejtőin.",
+  "climate_threat_headline": "Loss of Juhfark's piercing acidity and gun-flint character as warming compresses the long, cool ripening window on which the variety's identity depends.",
+  "climate_threat_headline_hu": "A juhfark áthatóan magas savainak és puskapor-jellegű karakterének elvesztése, ahogy a melegedés összenyomja azt a hosszú, hűvös érési ablakot, amely a fajta identitását adja.",
+  "climate_winner_loser": "Heat-tolerant Furmint and Olaszrizling gain ground on the cooler aspects, while the endemic, acidity-driven Juhfark is the most identity-vulnerable variety in Hungary.",
+  "climate_winner_loser_hu": "A hőtűrő furmint és olaszrizling teret nyer a hűvösebb kitettségeken; az endemikus, savakra építő juhfark viszont Magyarország identitásszempontból leginkább veszélyeztetett szőlőfajtája.",
+  "key_facts": [
+    {
+      "label": "Total area",
+      "value": "~559 ha delimited; ~500-560 ha actively planted (Hungary's smallest borvidék)"
+    },
+    {
+      "label": "Producer structure",
+      "value": ">1,000 smallholders, median plot <0.5 ha"
+    },
+    {
+      "label": "Endemic variety",
+      "value": "Juhfark — ~80-150 ha of the global ~100-170 ha grow on Somló"
+    },
+    {
+      "label": "Geology",
+      "value": "Pliocene-Miocene basalt witness-hill, 170-435 m a.s.l., all aspects planted"
+    },
+    {
+      "label": "Historic epithet",
+      "value": "Nászéjszakák bora (wedding-night wine); wine of Hungarian coronations"
+    },
+    {
+      "label": "Migration buffer",
+      "value": "None — no continuous ridge or cool fringe to retreat into"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Összterület",
+      "value_hu": "Kb. 559 ha lehatárolva, ebből ~500–560 ha aktívan telepített (Magyarország legkisebb borvidéke)"
+    },
+    {
+      "label_hu": "Termelői szerkezet",
+      "value_hu": "Több mint 1000 kistermelő, a parcellák medián mérete fél hektár alatti"
+    },
+    {
+      "label_hu": "Endemikus fajta",
+      "value_hu": "Juhfark – a globális ~100–170 hektárból kb. 80–150 ha Somlón terem"
+    },
+    {
+      "label_hu": "Földtan",
+      "value_hu": "Pliocén-miocén bazalt tanúhegy, 170–435 m tszf., minden kitettségben telepítve"
+    },
+    {
+      "label_hu": "Történelmi epitheton",
+      "value_hu": "Nászéjszakák bora; a magyar koronázások bora"
+    },
+    {
+      "label_hu": "Migrációs tartalék",
+      "value_hu": "Nincs – nincs olyan folytonos hátság vagy hűvös perem, ahova a borvidék visszahúzódhatna"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Nagy Somló PDO: A Guide to the Wine Region — Taste Hungary",
+      "url": "https://tastehungary.com/journal/nagy-somlo-pdo-a-guide-to-the-wine-region/"
+    },
+    {
+      "title": "Az éghajlatváltozás eddigi nyertesei a Soproni és a Zalai borvidék? — Klímapolitikai Intézet",
+      "url": "https://klimapolitikaiintezet.hu/elemzes/soproni-zalai-borvidek-eghajlatvaltozas"
+    },
+    {
+      "title": "Somló Wine District — Wines of Hungary",
+      "url": "https://winesofhungary.hu/wine-tourism/somlo-wine-district"
+    },
+    {
+      "title": "Nagy-Somló OEM — Országkóstoló (Agrárminisztérium)",
+      "url": "https://orszagkostolo.gov.hu/regiosvedetteredet/nagy-somlo/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "nagy-somloi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Nagy-Somlói district centroid: annual maximum 1-day precipitation rising from 22.8 mm to 25.8 mm (+3.0 mm, a proxy for severe-storm intensity); longest annual dry spell from 18.6 to 22.0 days (+3.4); frost days from 72 to 22 days/year (-51); annual coldest night from -18.6 °C to -9.3 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Nagy-Somlói borvidék centroidjára: az éves maximális egynapos csapadék 22,8 mm-ről 25,8 mm-re nő (+3,0 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 18,6-ról 22,0 napra (+3,4); a fagyos napok száma 72-ről 22-re (-51); az év leghidegebb éjszakája -18,6 °C-ról -9,3 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22.8,
+      "rx1day_mm_ssp585_2080_2099": 25.76,
+      "rx5day_mm_hist_1995_2014": 50.1,
+      "rx5day_mm_ssp585_2080_2099": 52.61,
+      "cdd_days_hist_1995_2014": 18.65,
+      "cdd_days_ssp585_2080_2099": 22.05,
+      "cwd_days_hist_1995_2014": 9.8,
+      "cwd_days_ssp585_2080_2099": 8.75,
+      "frost_days_hist_1995_2014": 72.4,
+      "frost_days_ssp585_2080_2099": 21.6,
+      "tnn_c_hist_1995_2014": -18.62,
+      "tnn_c_ssp585_2080_2099": -9.25,
+      "growing_season_length_days_hist_1995_2014": 272,
+      "growing_season_length_days_ssp585_2080_2099": 329.2
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

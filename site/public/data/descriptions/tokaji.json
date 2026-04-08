@@ -1,0 +1,132 @@
+{
+  "borvidek": "Tokaji",
+  "name_hu": "Tokaji",
+  "name_en": "Tokaj",
+  "tagline": "The world's first demarcated wine region (1737), home of noble-rot Aszú and now rising dry Furmint.",
+  "tagline_hu": "A világ első zárt borvidéke (1737), az aszú szülőhelye és a feltörekvő száraz furmint hazája.",
+  "elevator_pitch": "Tokaj-Hegyalja sits on a heavily eroded volcanic arc at the foot of the Zemplén Mountains, where the Bodrog meets the Tisza. Established by royal decree in 1737 as the world's first closed appellation and a UNESCO World Heritage cultural landscape since 2002, it is famous for botrytised Aszú wines built on indigenous Furmint and Harslevelu, with dry styles now capturing about one-third of production.",
+  "elevator_pitch_hu": "Tokaj-Hegyalja egy mélyen erodált vulkáni ív lábánál fekszik a Zempléni-hegység tövében, ahol a Bodrog a Tiszába torkollik. 1737-ben királyi rendelettel a világ első zárt borvidékévé nyilvánították, 2002 óta pedig az UNESCO világörökség része. Hírnevét a furmintra és hárslevelűre épülő, nemespenész-érlelte aszúborainak köszönheti, miközben mára a termés mintegy harmadát a feltörekvő száraz stílusok adják.",
+  "flagship_wines": [
+    "Tokaji Aszu",
+    "Szamorodni",
+    "Dry Furmint"
+  ],
+  "flagship_wines_hu": [
+    "Tokaji aszú",
+    "Szamorodni",
+    "Száraz furmint"
+  ],
+  "principal_grapes_summary": "Indigenous whites dominate: Furmint leads, supported by Harslevelu, Sarga muskotaly (Yellow Muscat), Kabar, Zeta and Koverszolo. Furmint and Harslevelu are the backbone of both noble-rot sweet wines and the rising dry category.",
+  "principal_grapes_summary_hu": "Az őshonos fehér fajták uralkodnak: a furmintot a hárslevelű, a sárga muskotály, a kabar, a zéta és a kövérszőlő egészíti ki. A furmint és a hárslevelű egyaránt a nemespenészes édes borok és a feltörekvő száraz kategória gerincét adja.",
+  "terroir_summary": "Tokaj sits on an ancient volcanic arc where more than 400 Carpathian-arc volcanoes erupted about 10 million years ago. Rhyolite tuff rich in zeolite forms the parent material, capped on roughly 90% of the vineyards by a thin loess veneer weathering into firm clay-brown forest soils. The loess caps retain summer moisture while deep fissures in the volcanic bedrock hold water below the root zone. Steep south and southwest-facing slopes of the Zemplen foothills drive drainage and sun exposure.",
+  "terroir_summary_hu": "Tokaj egy ősi vulkáni íven helyezkedik el, ahol mintegy 10 millió évvel ezelőtt több mint 400 Kárpát-medencei vulkán tört ki. Az alapkőzetet zeolitban gazdag riolittufa adja, amelyet a szőlőterületek nagyjából 90 százalékán vékony lösztakaró borít, ebből alakultak ki a tömött agyagos-barna erdőtalajok. A löszsapka megőrzi a nyári nedvességet, miközben a vulkáni alapkőzet mély repedései a gyökérzóna alatt tárolják a vizet. A Zemplén meredek déli és délnyugati lejtői biztosítják a vízelvezetést és a napfénykitettséget.",
+  "climate_today": "Tokaj has warmed markedly: recent references cite mean annual temperatures far above the old 9.8 C normal, with 40 C recorded in some vineyards in 2015 and the 2024 harvest starting in early August, roughly a month earlier than historical norms.",
+  "climate_today_hu": "Tokaj jelentősen felmelegedett: a friss adatok az évi 9,8 °C-os régi átlagnál jóval magasabb értékeket mutatnak; egyes dűlőkben 2015-ben 40 °C-ot mértek, a 2024-es szüret pedig már augusztus elején indult – a történelmi átlagnál mintegy egy hónappal korábban.",
+  "climate_threat_headline": "Warmer, drier autumns are eroding the cool humid October conditions that noble rot and classic Aszu depend on.",
+  "climate_threat_headline_hu": "A melegebb és szárazabb őszök fokozatosan felőrlik azokat a hűvös, párás októberi feltételeket, amelyektől a nemespenész és a klasszikus aszú léte függ.",
+  "climate_winner_loser": "Drought-adapted Furmint and Harslevelu hold up for dry styles, but low-heat-requirement whites in their classical sweet-wine role lose about 29% suitability by end of century.",
+  "climate_winner_loser_hu": "A szárazságtűrő furmint és hárslevelű száraz borként megállja a helyét, ám a hagyományos édesbor-szerepben a hűvös klímát igénylő fehérek a század végére mintegy 29 százalékos termőhelyi alkalmassági veszteségre számíthatnak.",
+  "key_facts": [
+    {
+      "label": "PDO status",
+      "value": "World's first demarcated wine region, established 1737"
+    },
+    {
+      "label": "UNESCO status",
+      "value": "World Heritage cultural landscape since 2002"
+    },
+    {
+      "label": "Flagship variety",
+      "value": "Furmint"
+    },
+    {
+      "label": "Yield cap",
+      "value": "~4-5 t/ha under PDO rules"
+    },
+    {
+      "label": "Dry-wine share",
+      "value": "~1/3 of the harvest, a recent warming-linked shift"
+    },
+    {
+      "label": "GDD increase",
+      "value": "+173.96 C growing-degree-days, the largest rise of any Hungarian district"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "PDO-státusz",
+      "value_hu": "A világ első zárt borvidéke, 1737-ben alapították"
+    },
+    {
+      "label_hu": "UNESCO-státusz",
+      "value_hu": "2002 óta a Világörökség részét képező kultúrtáj"
+    },
+    {
+      "label_hu": "Vezérfajta",
+      "value_hu": "Furmint"
+    },
+    {
+      "label_hu": "Hozamkorlát",
+      "value_hu": "OEM-szabályok szerint kb. 4–5 t/ha"
+    },
+    {
+      "label_hu": "Száraz borok aránya",
+      "value_hu": "A termés mintegy harmada – a felmelegedéshez köthető friss elmozdulás"
+    },
+    {
+      "label_hu": "GDD-emelkedés",
+      "value_hu": "+173,96 °C aktív hőösszeg-növekedés, a magyar borvidékek közül a legnagyobb"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Magyar et al. 2025 — Long-term compositional profiling of historical Tokaji aszú wines (npj Sci. Food)",
+      "url": "https://www.nature.com/articles/s41538-025-00468-x"
+    },
+    {
+      "title": "Szám et al. 2024 — Study of drought periods in the Tokaj-Hegyalja wine region (Prog. Agric. Eng. Sci.)",
+      "url": "https://akjournals.com/view/journals/446/20/1/article-p113.xml"
+    },
+    {
+      "title": "Tokaj soils — Wines of Tokaj (official regional site)",
+      "url": "https://winesoftokaj.hu/en/tokaj/soils"
+    },
+    {
+      "title": "Tokaj wine region — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tokaj_wine_region"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "tokaji",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Tokaji district centroid: annual maximum 1-day precipitation rising from 22.0 mm to 25.4 mm (+3.4 mm, a proxy for severe-storm intensity); longest annual dry spell from 19.6 to 23.8 days (+4.1); frost days from 84 to 32 days/year (-52); annual coldest night from -22.2 °C to -11.4 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alapidőszak vs. 2080–2099 SSP5-8.5) a tokaji borvidék centroidjára a következőket valószínűsíti: az éves maximális egynapos csapadék 22,0 mm-ről 25,4 mm-re emelkedik (+3,4 mm, a heves zivatarok intenzitásának közelítő mutatója); a leghosszabb éves száraz időszak 19,6-ról 23,8 napra nő (+4,1); a fagyos napok száma 84-ről 32 napra esik (-52); az év leghidegebb éjszakájának hőmérséklete -22,2 °C-ról -11,4 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt nem szimulálják közvetlenül. Az adatállomány legközelebbi fizikai közelítő mutatója az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását ragadja meg. Tényleges jégeső-eseményadatokat sem a Világbank CCKP gyűjteménye, sem a HungaroMet nyilvános napi állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 22,
+      "rx1day_mm_ssp585_2080_2099": 25.39,
+      "rx5day_mm_hist_1995_2014": 47.34,
+      "rx5day_mm_ssp585_2080_2099": 53.08,
+      "cdd_days_hist_1995_2014": 19.65,
+      "cdd_days_ssp585_2080_2099": 23.75,
+      "cwd_days_hist_1995_2014": 11.15,
+      "cwd_days_ssp585_2080_2099": 9.5,
+      "frost_days_hist_1995_2014": 84.4,
+      "frost_days_ssp585_2080_2099": 32.5,
+      "tnn_c_hist_1995_2014": -22.24,
+      "tnn_c_ssp585_2080_2099": -11.38,
+      "growing_season_length_days_hist_1995_2014": 258.1,
+      "growing_season_length_days_ssp585_2080_2099": 316.8
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}

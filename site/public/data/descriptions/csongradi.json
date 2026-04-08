@@ -1,0 +1,132 @@
+{
+  "borvidek": "Csongrádi",
+  "name_hu": "Csongrádi",
+  "name_en": "Csongrád",
+  "tagline": "Hungary's hottest, sandiest, fastest-warming PDO: a phylloxera-refuge facing an existential climate squeeze.",
+  "tagline_hu": "Magyarország legmelegebb, leghomokosabb és leggyorsabban melegedő OEM-je: filoxéra-menedék egzisztenciális klímaszorításban.",
+  "elevator_pitch": "The Csongradi PDO is the smallest of the three Duna-region wine districts, hugging the lower Tisza around Szeged on flat sandy plains of the Homokhatsag and Tisza alluvium. Born of the 1880s phylloxera crisis as a sand refuge, it remains a smallholder, bulk-oriented district with light whites and soft reds. Lakatos & Nagy (2025) single it out as the fastest-warming of all 22 Hungarian wine regions under RCP8.5.",
+  "elevator_pitch_hu": "A Csongrádi OEM a három Duna menti borvidék közül a legkisebb, az alsó-Tisza vidékét, Szeged környékét öleli fel a Homokhátság és a Tisza alluviumának sík homokpusztáin. Az 1880-as évek filoxérajárványa idején homoki menedékként született, és máig kistermelői, tömegtermelési orientációjú borvidék, könnyű fehérekkel és lágy vörösekkel. Lakatos és Nagy (2025) a 22 magyar borvidék közül a leggyorsabban melegedőként azonosítja az RCP8.5 forgatókönyv alatt.",
+  "flagship_wines": [
+    "Olaszrizling",
+    "Kekfrankos",
+    "Kadarka"
+  ],
+  "flagship_wines_hu": [
+    "Olaszrizling",
+    "Kékfrankos",
+    "Kadarka"
+  ],
+  "principal_grapes_summary": "Whites (around 55-60%) are led by Olaszrizling, Kovidinka, Rajnai rizling, Kunleany, Cserszegi fuszeres and Chardonnay. Reds are dominated by Kekfrankos and Zweigelt, with Kadarka as the historical flagship now reduced to token plantings, plus minor Cabernet Sauvignon, Cabernet Franc and Merlot.",
+  "principal_grapes_summary_hu": "A fehérek aránya kb. 55–60 százalék: olaszrizling, kövidinka, rajnai rizling, kunleány, cserszegi fűszeres és chardonnay vezeti a sort. A vörösek között a kékfrankos és a zweigelt dominál, a történelmi zászlóshajó kadarka mára szimbolikus mennyiségre szorult vissza, mellettük cabernet sauvignon, cabernet franc és merlot szerepel kisebb arányban.",
+  "terroir_summary": "Csongrad is the purest sand-viticulture district in Hungary, established as a phylloxera refuge because the louse cannot survive in loose silica sand. Calcareous aeolian sand with loess admixture dominates the western Homokhatsag (Pusztamerges, Morahalom), while acid sand and Tisza alluvium prevail around Csongrad town. Vineyards sit at 80-130 m on flat ground with no slopes, very low organic matter, very low water-holding capacity (60-90 mm in the top metre) and frost-pocket risk in low-lying parcels.",
+  "terroir_summary_hu": "Csongrád Magyarország legtisztább homoki borvidéke, amely filoxéra-menedékként jött létre, mert a tetű nem éli túl a laza kvarchomokot. A nyugati Homokhátságot (Pusztamérges, Mórahalom) lösszel kevert mésztartalmú futóhomok uralja, Csongrád város környékén savanyú homok és Tisza-alluvium az uralkodó. A szőlőültetvények 80–130 méteres magasságban, lapos talajon helyezkednek el, lejtő nélkül, nagyon alacsony szervesanyag-tartalommal és vízmegtartó képességgel (a felső 1 méterben mindössze 60–90 mm), a mélyebben fekvő parcellákon pedig fagyzugkockázattal.",
+  "climate_today": "Annual mean has climbed about 2.1 C since the late 1970s to ~12.6 C, with the warmest growing-season mean of any Hungarian district (~18.0-18.5 C) and only ~500-560 mm of rainfall on the Hungarian sunshine maximum.",
+  "climate_today_hu": "Az évi középhőmérséklet a hetvenes évek vége óta mintegy 2,1 °C-kal emelkedett, ma ~12,6 °C; ez a magyar borvidékek legmagasabb tenyészidőszaki átlaga (~18,0–18,5 °C), ráadásul mindössze 500–560 mm csapadékkal és Magyarország napsütésmaximumával párosul.",
+  "climate_threat_headline": "Drought is the defining stressor: low rainfall, sand soils with minimal water buffer, and almost no irrigation infrastructure converge on existential risk.",
+  "climate_threat_headline_hu": "Az aszály a meghatározó stresszor: az alacsony csapadék, a minimális víztartalékot adó homoktalajok és a szinte teljesen hiányzó öntözési infrastruktúra együttesen egzisztenciális kockázatot jelent.",
+  "climate_winner_loser": "Mediterranean candidates such as Syrah, Tempranillo, Grenache (and possibly Cinsault, Carignan, Bobal, Assyrtiko) become plausible; Olaszrizling, Rajnai rizling, Pinot noir, Kadarka and even Kekfrankos face baseline-suitability failure under RCP8.5.",
+  "climate_winner_loser_hu": "Mediterrán jelöltek – syrah, tempranillo, grenache (esetleg cinsault, carignan, bobal, asszírtikó) – kerülnek a látótérbe; az olaszrizling, a rajnai rizling, a pinot noir, a kadarka, sőt még a kékfrankos is RCP8.5 forgatókönyv mellett alapszintű alkalmasságát is elveszítheti.",
+  "key_facts": [
+    {
+      "label": "Vineyard area",
+      "value": "~14,311 ha delimited but only ~2,000-2,600 ha actually planted (commonly ~1,500 ha bottled)"
+    },
+    {
+      "label": "Sub-zones",
+      "value": "Four zones: Csongrad, Kistelek, Pusztamerges, Morahalom"
+    },
+    {
+      "label": "Phylloxera status",
+      "value": "Sand is phylloxera-proof; a non-trivial share of vines are still own-rooted (franc de pied)"
+    },
+    {
+      "label": "Warming rank",
+      "value": "#1 in Hungary - Lakatos & Nagy 2025 flag >2.5 C AGST rise by 2071-2100 under RCP8.5, the largest of 22 districts"
+    },
+    {
+      "label": "Heat extremes",
+      "value": "Szeged 40.1 C July 2022; Kelebia 40.7 C August 2024; tropical nights now routine"
+    },
+    {
+      "label": "Drought footprint",
+      "value": "Heavy-drought share of the Great Hungarian Plain projected to rise from 6% (2001-2020) to 17% (2081-2100) under RCP8.5"
+    }
+  ],
+  "key_facts_hu": [
+    {
+      "label_hu": "Szőlőterület",
+      "value_hu": "Kb. 14 311 ha lehatárolt, ám csak 2000–2600 ha ténylegesen telepített (palackozási alapon gyakran csak ~1500 ha)"
+    },
+    {
+      "label_hu": "Körzetek",
+      "value_hu": "Négy körzet: Csongrád, Kistelek, Pusztamérges, Mórahalom"
+    },
+    {
+      "label_hu": "Filoxéra-státusz",
+      "value_hu": "A homok filoxéra-immunitást ad; a tövek nem elhanyagolható része ma is saját gyökerű (franc de pied)"
+    },
+    {
+      "label_hu": "Felmelegedési rangsor",
+      "value_hu": "Magyarországon az 1. helyen – Lakatos–Nagy 2025 szerint RCP8.5 mellett 2071–2100-ra >2,5 °C-os AGST-emelkedés várható, a 22 borvidék közül a legnagyobb"
+    },
+    {
+      "label_hu": "Hőszélsőségek",
+      "value_hu": "Szeged 40,1 °C 2022 júliusában; Kelebia 40,7 °C 2024 augusztusában; a trópusi éjszakák ma már hétköznapok"
+    },
+    {
+      "label_hu": "Aszály-lábnyom",
+      "value_hu": "Az Alföld súlyos aszállyal sújtott területének aránya RCP8.5 mellett 6%-ról (2001–2020) 17%-ra (2081–2100) emelkedhet"
+    }
+  ],
+  "top_sources": [
+    {
+      "title": "Lakatos & Nagy 2025 — Temperature indices for Hungarian wine regions (Frontiers Plant Sci.)",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1481431/full"
+    },
+    {
+      "title": "Analysis of detected and future drought conditions, Great Hungarian Plain (Theor. Appl. Climatol. 2025)",
+      "url": "https://link.springer.com/article/10.1007/s00704-025-05510-2"
+    },
+    {
+      "title": "Importance of sandy soils during the Hungarian phylloxera epidemic and today — ISHS Acta Hort.",
+      "url": "https://ishs.org/ishs-article/816_2/"
+    },
+    {
+      "title": "Csongrád Wine District — Vinotravel.hu",
+      "url": "http://vinotravel.hu/en/wine-regions/csongrad-wine-district/17"
+    },
+    {
+      "title": "Csongrádi borvidék — DKMT Wine (2022)",
+      "url": "https://dkmtwine.com/en/2022/05/01/csongradi-borvidek-2/"
+    },
+    {
+      "title": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble extremes (cdd, rx1day, rx5day, fd, tnn, gsl)",
+      "url": "https://climateknowledgeportal.worldbank.org/"
+    }
+  ],
+  "slug": "csongradi",
+  "climate_extremes_outlook": {
+    "summary": "World Bank CCKP CMIP6 ensemble (1995-2014 baseline vs. 2080-2099 SSP5-8.5) projects, for the Csongrádi district centroid: annual maximum 1-day precipitation rising from 20.9 mm to 24.2 mm (+3.3 mm, a proxy for severe-storm intensity); longest annual dry spell from 21.6 to 25.8 days (+4.1); frost days from 76 to 28 days/year (-48); annual coldest night from -19.1 °C to -9.1 °C.",
+    "summary_hu": "A Világbank CCKP CMIP6 sokaság-előrejelzése (1995–2014 alap vs. 2080–2099 SSP5-8.5) a Csongrádi borvidék centroidjára: az éves maximális egynapos csapadék 20,9 mm-ről 24,2 mm-re nő (+3,3 mm, a heves zivatarok intenzitásának közelítője); a leghosszabb éves száraz időszak 21,6-ról 25,8 napra (+4,1); a fagyos napok száma 76-ról 28-ra (-48); az év leghidegebb éjszakája -19,1 °C-ról -9,1 °C-ra emelkedik.",
+    "hail_caveat": "CMIP6 climate models do not directly simulate hail. The closest physical proxy in this dataset is rx1day (annual maximum 1-day precipitation), which captures convective storm intensity. True hail event records are not part of the World Bank CCKP collection or HungaroMet's open daily station data.",
+    "hail_caveat_hu": "A CMIP6 klímamodellek a jégesőt közvetlenül nem szimulálják. Az adatállomány legközelebbi fizikai közelítője az rx1day (éves maximális egynapos csapadék), amely a konvektív zivatarok intenzitását méri. Tényleges jégeső-eseményadatokat sem a Világbank CCKP, sem a HungaroMet nyilvános állomásadatai nem tartalmaznak.",
+    "metrics": {
+      "rx1day_mm_hist_1995_2014": 20.89,
+      "rx1day_mm_ssp585_2080_2099": 24.2,
+      "rx5day_mm_hist_1995_2014": 48.17,
+      "rx5day_mm_ssp585_2080_2099": 50.64,
+      "cdd_days_hist_1995_2014": 21.6,
+      "cdd_days_ssp585_2080_2099": 25.75,
+      "cwd_days_hist_1995_2014": 9.7,
+      "cwd_days_ssp585_2080_2099": 8.3,
+      "frost_days_hist_1995_2014": 76.1,
+      "frost_days_ssp585_2080_2099": 28.2,
+      "tnn_c_hist_1995_2014": -19.06,
+      "tnn_c_ssp585_2080_2099": -9.1,
+      "growing_season_length_days_hist_1995_2014": 276,
+      "growing_season_length_days_ssp585_2080_2099": 328.6
+    },
+    "source": "World Bank Climate Change Knowledge Portal — CMIP6 ensemble (cmip6-x0.25), district-centroid nearest grid sample.",
+    "source_url": "https://climateknowledgeportal.worldbank.org/"
+  }
+}
