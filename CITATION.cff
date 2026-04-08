@@ -1,6 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this atlas, its derived datasets, or any of its outputs, please cite it as below."
 title: "Hungarian Wine Climate Atlas"
+doi: "10.5281/zenodo.19466301"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19466301"
+    description: "Zenodo archive of v1.0.0"
 abstract: >-
   An open-source bilingual (Hungarian + English) information site that
   visualises climate-change susceptibility for the 22 Hungarian wine districts

@@ -1,7 +1,7 @@
 # Hungarian Wine Climate Atlas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-pending-orange.svg)](.zenodo.json)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19466301.svg)](https://doi.org/10.5281/zenodo.19466301)
 [![Districts](https://img.shields.io/badge/wine%20districts-22-burgundy)](analysis/curated/wine_districts.geojson)
 [![Varieties](https://img.shields.io/badge/grape%20varieties-58-darkgreen)](analysis/config/grape_envelopes.csv)
 [![Languages](https://img.shields.io/badge/languages-HU%20%7C%20EN-yellow)](site/src/messages)
@@ -226,21 +226,23 @@ cite it as:
 
 ```bibtex
 @misc{feher2026hungarianwineclimateatlas,
-  author = {Fehér, Zsolt Zoltán},
-  title = {Hungarian Wine Climate Atlas — district-level climate
-           susceptibility, variety suitability and threats for the
-           22 Hungarian wine districts (1971–2100)},
-  year = {2026},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/Nagyhoho1234/Bor-szolo}},
-  note = {22 wine districts, 58 grape varieties, RCP4.5/8.5 + SSP2-4.5/5-8.5,
-          bilingual Hungarian + English}
+  author    = {Fehér, Zsolt Zoltán},
+  title     = {Hungarian Wine Climate Atlas — district-level climate
+               susceptibility, variety suitability and threats for the
+               22 Hungarian wine districts (1971–2100)},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.19466301},
+  url       = {https://doi.org/10.5281/zenodo.19466301},
+  note      = {22 wine districts, 58 grape varieties, RCP4.5/8.5 +
+               SSP2-4.5/5-8.5, bilingual Hungarian + English}
 }
 ```
 
-A machine-readable version is in [`CITATION.cff`](CITATION.cff). Once the
-first GitHub release is cut, a Zenodo DOI will be minted automatically from
-[`.zenodo.json`](.zenodo.json).
+A machine-readable version is in [`CITATION.cff`](CITATION.cff). The Zenodo
+record archives v1.0.0 and is citable via
+[**doi:10.5281/zenodo.19466301**](https://doi.org/10.5281/zenodo.19466301).
 
 When citing, please **also** acknowledge the upstream sources:
 
