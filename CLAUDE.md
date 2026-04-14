@@ -1,28 +1,35 @@
-# Bor-szőlő — Hungarian wine-district climate susceptibility project
+# Bor-szőlő — Hungarian Wine Climate Atlas
+
+**Published:** [github.com/Nagyhoho1234/Bor-szolo](https://github.com/Nagyhoho1234/Bor-szolo)
+**DOI:** [10.5281/zenodo.19466301](https://doi.org/10.5281/zenodo.19466301)
+**Version:** v1.0.0 (released 2026-04-08)
+**Author:** Fehér Zsolt Zoltán · MIT License
 
 ## What this project is
 
-A bilingual (HU/EN) website that visualises climate-change susceptibility for the **22 Hungarian wine districts** (borvidék), built on:
-- **Frontend:** Next.js + MapLibre + deck.gl in `site/`
-- **Spatial data:** `wine_districts.shp` (22 borvidék) and `admin8_with_district.shp` (district-attributed admin units) in the project root, EOV-projected
-- **Climate analysis pipeline:** Python in `analysis/src/` (`s01_extract_daily_districts.py` → `s07_publish_curated.py`), with computed outputs in `analysis/curated/` (indices, normals, variety_match, variety_match_combined, variety_replacements, cckp). The curated bundle is published into `site/public/data/` by **`site/scripts/sync_curated.mjs`** — run that whenever you regenerate any curated file.
-- **Pre-computed figures:** `analysis/reports/figures/` (`suitability_heatmap_2071-2100_rcp85.png`, `winkler_trends_all_districts.png`)
-- **Research corpus:** 22 deep-research markdown files + scientific synthesis + decision-support brief + variety-replacement analysis + validation report in `research/` (see `research/RESEARCH_LOG.md` for the original task log)
+A bilingual (HU/EN) static website that visualises climate-change susceptibility for the **22 Hungarian wine districts** (borvidék). It joins three peer-reviewed climate datasets to a curated knowledge base of **58 grape varieties** and surfaces the result as a publishable, citation-ready atlas with **1,091 prerendered pages**.
+
+**Three layers:**
+1. **Python pipeline** (`analysis/src/s00 → s10`) — area-weighted polygon means from FORESEE NetCDF, 9 viticulture indices, 30-year normals, variety suitability matcher, CCKP CMIP6 ensemble validation, HungaroMet station fetch, threats curation, per-district PDF generation, manifest + checksums.
+2. **Curated bundle** (`analysis/curated/`) — the publishable dataset: 22 district polygons, annual indices, normals, variety suitability, variety replacements, CCKP extracts, HungaroMet observations, threats CSVs, descriptions (bilingual), manifest.json, SHA256SUMS.txt. Synced into `site/public/data/` by `site/scripts/sync_curated.mjs`.
+3. **Site** (`site/`) — Next.js 16 + MapLibre + deck.gl + Recharts + TanStack Table + next-intl. Static export (`output: 'export'`), no server.
+
+**Research corpus** (`research/`) — 22 long-form district dossiers (~123K words) + 2 synthesis briefs (~17K words), all fully translated to Hungarian. 880 unique source URLs scanned (640 successfully fetched, indexed in `research/sources/`; raw HTML excluded from git).
 
 ## Key facts about the user
 
-- Hungarian scientist, not a programmer — focus on outcomes and results, not code quality
+- Hungarian scientist, not a programmer — focus on outcomes and results, not code quality or implementation details. Don't show or explain code unless asked.
 - Uses fast/parallel workflows: 32-thread AMD 9950X, 96 GB RAM
-- Wants **parallel background agents** over sequential execution wherever independent work allows
-- Builds the website in parallel with research work — don't block on website progress
+- Wants **parallel background agents** over sequential execution wherever independent work allows (up to 10+ in parallel, explicitly authorised)
+- WebSearch / WebFetch work in subagents on this project (verified across 22 parallel research agents in April 2026)
 
 ## Hungarian EOV coordinates (do not trust headers, check value ranges)
 - Northing: 0 – 400,000
 - Easting: 400,000 – 1,000,000
 
-## Climate-pipeline period bins (current, as of 2026-04-07 evening)
+## Climate-pipeline period bins
 
-The pipeline now uses **20-year future bins for both RCP scenarios** (changed from the original 30-year bins). All scripts and site components have been migrated. **Do not reintroduce 2041–2070 or 2071–2100 anywhere.**
+20-year future bins for both RCP scenarios. **Do not reintroduce 2041–2070 or 2071–2100 anywhere.**
 
 | Bin | RCP4.5 | RCP8.5 | User-facing label |
 |---|---|---|---|
@@ -35,123 +42,161 @@ The pipeline now uses **20-year future bins for both RCP scenarios** (changed fr
 
 ## Variety envelope state (`analysis/config/grape_envelopes.csv`)
 
-**52 varieties total** (38 Hungarian + Central European original + 14 Mediterranean added 2026-04-07):
-- **Reds added:** Tempranillo, Touriga Nacional, Garnacha (Grenache), Mourvèdre, Carignan, Aglianico, Nero d'Avola, Sangiovese
-- **Whites added:** Vermentino, Assyrtiko, Fiano, Verdejo, Albariño
+**58 varieties total** as of v1.0.0:
+- 38 Hungarian + Central European originals
+- 14 Mediterranean additions (2026-04-07): Tempranillo, Touriga Nacional, Garnacha, Mourvèdre, Carignan, Aglianico, Nero d'Avola, Sangiovese, Vermentino, Assyrtiko, Fiano, Verdejo, Albariño
+- 6 PIWI additions (Wave 11A, 2026-04-07): Solaris, Bronner, Johanniter, Muscaris, Souvignier Gris, Cabernet Cortis
 
-**Known calibration issues** flagged by the validation audit (`research/synthesis/replacement_validation.md`):
-1. **Mourvèdre and Nero d'Avola envelopes too generous** — Mourvèdre is recommended in 21/22 districts but appears in 1/22 §12 sections; Nero d'Avola in 14/22 vs 0/22. Tighten upper Huglin/Winkler bounds.
-2. **Furmint water-stress parameterisation likely wrong** — Tarcal Research Institute literature says Furmint is drought-tolerant due to efficient stomatal control, but the model ejects it from Tokaji at 2081–2100 RCP8.5. Widen Furmint's upper Huglin envelope.
-3. **Csongrád & Szekszárd produce zero replacement picks** at 2081–2100 RCP8.5 because the Winkler envelope collapses for every variety. Their §12 sections explicitly name Touriga Nacional / Tempranillo / Grenache as actual trial plantings, so this is calibration, not real unfarmability.
-4. **~30 varieties named in §12 sections have no envelope row at all** — most consequentially the PIWI group (Souvignier Gris, Muscaris, Solaris, Bronner) and Hungarian endemics (Cirfandli, Juhfark, Kéknyelű — though some are present, just under-represented).
+**Calibration issues status** (from Wave 11A):
+1. ~~Mourvèdre too generous (21/22)~~ → **FIXED**: tightened to Huglin 2700+, now 10/22 districts >0.5
+2. ~~Nero d'Avola too generous (14/22)~~ → **FIXED**: tightened to Huglin 2800+, now 4/22
+3. ~~Furmint ejected from Tokaji~~ → **FIXED**: huglin_max raised, Tokaji Furmint 0.73→0.64 at 2081-2100 RCP8.5 (was 0.32)
+4. ~~Csongrád/Szekszárd zero picks~~ → **FIXED**: both now 8 varieties >0.5
+5. **~24 varieties named in §12 sections still have no envelope row** — mostly Hungarian endemics and additional PIWIs. Not blocking but worth filling eventually.
 
-**Soft-Winkler scoring:** `s04_variety_match.py` softened from `gap/3.0` to `gap/4.0` so a variety reaches zero suitability only at 4 Winkler classes off (was 3). Reflects that varieties *can* grow beyond their classical class with quality changes.
-
-## Research corpus state (as of 2026-04-07)
-
-`research/districts/*.md` contains 22 district synthesis files (~123,000 words, ~1,200 source citations, 880 unique URLs after dedup). Each follows a 15-section template with `[OBSERVED]` vs `[PROJECTED]` tags and `[HU-AGGREGATE]` / `[GAP]` fall-back markers. **Tokaji is the pilot template** — match its structure when generating new content.
-
-`research/synthesis/` contains:
-- `scientific_synthesis.md` — manuscript-grade review (~7,080 words)
-- `decision_support_brief.md` — grower/policy-facing (~9,700 words)
-- `variety_replacements.{md,csv,py}` — per-district top-4 replacement candidates across 8 horizon combinations (4 future bins × 2 RCPs); 696 recommendations
-- `export_combined_suitability.py` — generates `analysis/curated/variety_match_combined/{slug}.json` for the chart's two-sub-chart UI (baseline + RCP4.5 + RCP8.5 nested per future period)
-- `export_replacements_to_site.py` — generates `analysis/curated/variety_replacements/{slug}.json` for per-district replacement deep-dives
-- `replacement_validation.md` — 4,311-word audit cross-referencing the model's recommendations against the qualitative §12 evidence in the 22 district MDs. **Headline: only 5% strict / 20% permissive convergence.** Read this before publishing the chart as authoritative.
-
-`research/sources/` — 880 unique URLs scanned, **640 successfully downloaded and converted to local Markdown** (73% success), 239 failed, 1 auth-gated. Indexed in `research/sources/index.json` and `research/sources/INDEX.md`. Re-runnable via `python research/sources/fetch_sources.py` (idempotent).
+**Soft-Winkler scoring:** `s04_variety_match.py` uses `gap/4.0` so a variety reaches zero suitability only at 4 Winkler classes off.
 
 ## Anchor reference paper
 
-The single most-cited paper across the corpus is the **Frontiers in Plant Science 2025** Hungarian wine regions thermal-indices study, DOI **10.3389/fpls.2025.1481431**. **Citation drift warning:** the paper is referenced as both *"Lakatos & Nagy 2025"* and *"Kovács et al. 2025"* across different district files — same DOI, ambiguous author ordering. Standardise before publication.
+**Lakatos & Nagy 2025**, Frontiers in Plant Science, DOI **10.3389/fpls.2025.1481431**. The single most-cited paper across the corpus. **Citation drift was fixed** in Wave 11C (~118 corrections across 22 research markdowns). The paper has **no supplementary materials** (verified definitively in Wave 14F via the Frontiers Nuxt SSR payload `hasSupplementalData = false`). Per-district numerical data exists only as figure raster plots — not machine-extractable. See `research/synthesis/lakatos_nagy_si_hunt.md` for the full search report.
 
-## Headline numbers worth memorising
+## Headline numbers
 
 | Finding | District | Value |
 |---|---|---|
 | Largest GDD increase | Kunság | +581.65 °C-d (1971–2100) |
-| Largest BEDD increase | Bükk | +258.49 °C-d (because it started coolest) |
+| Largest BEDD increase | Bükk | +258.49 °C-d (started coolest) |
 | Highest AGST warming | Csongrád | >+2.5 °C, RCP8.5 |
 | Slowest-warming | Sopron | GDD +66.16 °C-d |
 | Smallest end-century warming | Pannonhalma | +2.3 °C, RCP8.5 |
-| Counterintuitive gradient | — | Northern HU warms faster than southern (inverts traditional ordering) |
-| Climate "winners" (provisional) | Sopron, Zala, Pannonhalma, Móri | Klímapolitikai Intézet 2023/2024 |
-| Existential variety risks | Móri Ezerjó (>14k → 1.6k ha), Pécsi Cirfandli (13.9 ha), Nagy-Somló Juhfark (~80–150 ha *globally*) | — |
+| Counterintuitive gradient | — | Northern HU warms faster than southern |
+| CCKP Tokaji warming | Tokaji | 11.05 → 16.24 °C (+5.19 °C, SSP5-8.5 2080-2099) |
+| Existential variety risks | — | Móri Ezerjó (>14k → 1.6k ha), Pécsi Cirfandli (13.9 ha), Nagy-Somló Juhfark (~80–150 ha globally) |
+| Flavescence dorée | 21/22 districts | NÉBIH confirmed, 3.8 BHUF emergency aid, vector established 2006, disease detected 2013, catastrophe 2025 |
+| Replacement validation | — | Model vs real-world plantings: 5% strict / 20% permissive convergence |
 
-## Inverted-U Hungary-wide trajectory under RCP8.5
+## Inverted-U trajectory under RCP8.5
 
 | Period | Mean suitability | Interpretation |
 |---|---|---|
-| 1991–2020 | 0.74 | reference |
-| 2021–2040 | 0.85 | warming *helps* — cool districts lift into class III |
-| 2041–2060 | 0.85 | plateau |
-| 2061–2080 | 0.63 | crossover — Mediterranean ceiling exceeded |
-| 2081–2100 | **0.33** | collapse — even with Mediterranean varieties added |
+| 1991–2020 | 0.75 | reference |
+| 2021–2040 | 0.83 | warming helps — cool districts lift into class III |
+| 2041–2060 | 0.83 | plateau |
+| 2061–2080 | 0.59 | crossover — Mediterranean ceiling exceeded |
+| 2081–2100 | **0.33** | collapse — even with Mediterranean + PIWI varieties added |
 
-Hungarian viticulture as a whole *gains* from moderate warming through ~2050, then deteriorates rapidly. This is the headline trajectory worth featuring prominently on the website timeline.
+## Site architecture (1,091 static pages)
 
-## Variety chart UI contract (`site/src/components/VarietySuitabilityBars.tsx`)
+**Routes × 2 locales (EN + HU):**
+- Landing, districts index, 22 district detail pages (with PDF download + variety replacements + HungaroMet station panel + research dossier)
+- 462 directed comparison pairs (`/compare/[a]/[b]`), ranking table + picker
+- 38 variety detail pages, variety index
+- 4 threat sub-pages (Flavescence dorée, heat, drought, frost) + overview
+- 4 methods pages (About this atlas, About the data, What the numbers mean, How sure are we?)
+- 3 synthesis pages (hub, scientific, policy-brief)
+- About, Downloads
 
-The chart now reads `suitability_long.json` (passed in as `rows`) and renders **two sub-charts under one shared period dropdown**:
+**Key components:**
+- `DistrictMap` — MapLibre + deck.gl choropleth with **official Hungarian wine-region colour scheme** (regional families: purples for Észak-Dunántúl, greens for Balaton, pinks/reds for Pannon, yellows/cream for Duna, oranges for Észak-Magyarországi, brown for Tokaj). Lazy-loaded via `DistrictMapClient` wrapper. Locale-aware click navigation.
+- `IndexCard` + `ChartModal` — static-by-default 2×3 dashboard, click-to-expand interactive trajectory
+- `VarietySuitabilityBars` — two sub-charts (principals + climate-hedge candidates), 4 future periods, both RCPs side-by-side
+- `VarietyReplacements` — top 4 climate-adapted replacement candidates per district per horizon
+- `HungaroMetPanel` — actual station observations credibility anchor (21/22 districts)
+- `ThreatRanking` — horizontal-bar ranking with toggleable FORESEE + CCKP series
+- `DownloadPdfButton` — links to `/pdfs/<slug>.pdf` (22 per-district A4 PDFs generated by `s10`)
 
-1. **Upper:** the district's current principal varieties only (`in_principal_varieties === true`), sorted by baseline suitability descending. Three bars per variety: gray = baseline 1991–2020, amber = RCP 4.5, rose = RCP 8.5.
-2. **Lower:** climate-adapted candidates that are NOT currently grown in the district (`in_principal_varieties === false`), ranked by RCP 8.5 → RCP 4.5 → baseline. **Top 5 in collapsed (`staticView`) mode; all candidates with `max(rcp45, rcp85) > 0.5` in expanded modal mode.**
+## Curated data bundle state
 
-The parent district page (`site/src/app/[locale]/districts/[borvidek]/page.tsx`) must pass **all** suitability rows for the district (not pre-filtered to principals) and preserve the `in_principal_varieties` field in the row mapping. Pre-filtering breaks the lower chart silently.
+44+ files in `analysis/curated/`. Everything here is the publishable output; `analysis/interim/` is NOT published. Sync to site via `node site/scripts/sync_curated.mjs`.
 
-Default period is `2081-2100`. The dropdown lists 4 future periods only — there is no scenario selector because both RCPs are always shown side-by-side.
+**Key outputs:**
+- `wine_districts.geojson` — 22 polygons, simplified for web (<500 KB)
+- `indices/indices_{rcp45,rcp85}_annual.parquet` — 9 viticulture indices per district per year
+- `normals/normals_<period>_<scenario>_per_district.parquet` × 10 — 30-year normals + anomalies + risk flags
+- `variety_match/by_district/<slug>.json` — per-district suitability (split from monolith in Wave 12, ~284 KB each)
+- `variety_match/suitability_long.parquet` — full cross-district (for comparison pages only)
+- `variety_replacements/<slug>.json` — top climate-adapted candidates per horizon
+- `cckp/` — 14 CCKP CMIP6 variables (original 7 + 7 ETCCDI extras from Wave 8)
+- `odpmethu/` — 21 HungaroMet stations, 2020-2024, mean distance 9.6 km from centroids
+- `threats/` — 4 CSVs (FD timeline, trunk diseases, pest/regulatory, EU pesticides); all verified except 2 partial rows (sulphur + kaolin approval dates)
+- `descriptions/` — 22 district descriptions with `*_hu` parallel fields for all prose
 
-## Hard infrastructure gaps blocking deeper work
+## Bilingual coverage
 
-1. **FORESEE 4.0 / Lakatos & Nagy 2025 supplementary tables** — district-level AGST/GDD/HI/BEDD numbers are not in the open-access body; flagged as missing in 19 of 22 district files. This is the highest-leverage single fix for the whole project.
-2. **EURO-CORDEX 12 km does not resolve Lake Balaton** — the lake mesoclimate that defines four borvidék is missing from public projections.
-3. **No multi-decadal phenology series** for any district except Tokaj.
-4. **No district-level pest/disease monitoring** for *Scaphoideus titanus*, *Drosophila suzukii*, *Halyomorpha halys*, esca, Flavescence dorée.
-5. **Móri-szél has no published multi-decadal climatology** despite anchoring the Móri district's resilience narrative.
-6. **Variety envelope calibration** — see "Known calibration issues" above.
+| Content | EN | HU |
+|---|---|---|
+| UI strings (267+ keys) | ✅ | ✅ |
+| Description JSON prose (22 districts × ~10 fields) | ✅ | ✅ |
+| 22 research dossiers (~123K words) | ✅ | ✅ |
+| 2 synthesis briefs (~17K words) | ✅ | ✅ |
+| Methods pages (4) | ✅ | ✅ |
+| Methods formula drawer | ✅ | ✅ |
+| Research dossier source titles | EN only | EN (source titles not translatable) |
+
+**Loader pattern:** `loadResearch(slug, locale)` prefers `<slug>.hu.md` when locale is `hu`, falls back to `<slug>.md`. Same for synthesis briefs. Description JSONs use `localizeDescription(desc, locale)` helper in `site/src/lib/data.ts` to pick `*_hu` fields.
+
+## Threats data state
+
+| CSV | Rows | Verified | Partial | Unverified |
+|---|---|---|---|---|
+| flavescence_doree_timeline | 10 | 10 | 0 | 0 |
+| trunk_diseases | 9 | 7 | 2 | 0 |
+| pest_disease_regulatory | 26 | 24 | 2 | 0 |
+| eu_pesticides_actives | 28 | 26 | 2 (sulphur, kaolin) | 0 |
+
+FD first HU detection: August 2013, Zala county. Vector (*Scaphoideus titanus*) established 2006 — seven years before disease arrived.
 
 ## User-facing content tone & citation discipline
 
-Hard-won rules from multiple correction cycles. Apply these any time you (or a subagent) write content that the visitor will see on the site.
+Hard-won rules from multiple correction cycles. Apply any time you or a subagent writes visitor-visible content.
 
 **Tone**
-- Visitor-friendly explainer journalism, like a museum interpretive panel or a *Wine Folly* feature article. Plain English. Why → what → how. Use "you / we" voice. Use analogies (a Huglin Index is "a sun-clock for the vine"; a Winkler GDD is "an oven that only counts warmth above 10 °C").
-- **Methods pages** (`site/src/app/[locale]/methods/*`) are visitor explainers, NOT a journal methods section. **Forbidden in body text:** pipeline-script names (s00–s09), DOI-style inline citations, Hargreaves-vs-Penman trade-off discussion, ETCCDI verbatim definitions, "what we did NOT model" lists, file/code/manifest references. Formulas live only in a collapsed `<details>` "Want the formulas?" drawer at the bottom of `methods/indices`. Page H1s can be friendly ("About the data" / "What the numbers mean" / "How sure are we?") while URLs stay stable.
-- Aim for ~250–500 words per Methods page body, with one optional collapsed depth drawer for the technically curious.
-- **Don't render the `hail_caveat` field on district pages.** The field stays in `descriptions/*.json` for the Methods/Uncertainty page reference, but the long disclaimer reads like a methods footnote on a public site.
+- Visitor-friendly explainer journalism. Plain English. Why → what → how. "you / we" voice. Analogies welcome.
+- **Methods pages** are visitor explainers, NOT journal methods. Forbidden: pipeline-script names, DOI inline citations, Hargreaves-vs-Penman jargon, "what we did NOT model" lists, code/file references. Formulas live only in a collapsed `<details>` drawer.
+- **Don't render `hail_caveat` field on district pages** — too academic for visitor-facing site.
 
-**Sources, citations, and external links**
-- **No JSON / parquet / manifest.json links in user-facing source boxes.** Internal data files belong on `/downloads` only.
-- **Use `https://doi.org/<DOI>` for academic citations**, never publisher-direct URLs. Springer / Wiley / Elsevier paywall and reorganise URLs; the DOI redirector is the only stable scholarly link. Mark `(paywalled)` after the link if the reader can't get full text.
+**Sources & citations**
+- **No JSON / parquet / manifest links in user-facing source boxes.** Those belong on `/downloads` only.
+- **Use `https://doi.org/<DOI>` for academic citations**, never publisher-direct URLs. Mark `(paywalled)` where applicable.
 - **No "Please cite..." lines** — the citation block IS the cite.
-- **Real source titles only.** WebFetch every URL before committing the title text. The bootstrap pass produced ~110 fake titles (mostly "Kovács et al." attributions for the Frontiers paper) that took a full audit to fix. Run `site/scripts/fix_sources.py` if you want the canonical URL → title map.
-- **Anchor paper attribution:** the Frontiers in Plant Science 2025 Hungarian wine regions paper (DOI **10.3389/fpls.2025.1481431**) is **Lakatos & Nagy 2025** — never Kovács et al., never Zhao et al.
-- **Research dossier markdown** at the bottom of each district page must be processed via `processResearchMarkdown` (`site/src/lib/research-markdown.ts`) before rendering. The processor strips the `> Reading guide` blockquote, all `[OBSERVED]`/`[PROJECTED]`/`[HU-AGGREGATE]`/`[N-HU ANALOGUE]` etc. inline meta-tags, and converts inline `> Sources (§N): [title](url)` blockquotes into superscript numeric markers `[1] [2]` linking to a single References section appended at the bottom of the dossier.
+- **Real source titles only.** WebFetch every URL before committing. Run `site/scripts/fix_sources.py` for the canonical URL → title map.
+- **Frontiers 2025 = Lakatos & Nagy 2025** — never Kovács, never Zhao.
+- **Research dossier markdown** processed via `processResearchMarkdown` (`site/src/lib/research-markdown.ts`) which strips `[OBSERVED]`/`[PROJECTED]`/etc tags and converts `> Sources (§N):` blockquotes to numbered references.
 
-**Charts UX contract — static-by-default, click-to-interact**
-The user does not want interactive controls (tooltips, hover, toggle chips, period selectors) visible inline on a page. Every inline chart must use `staticView={true}` or its equivalent (no Tooltip, no Legend, `pointer-events-none`). Wrap each chart in `<ChartModal>` (`site/src/components/ChartModal.tsx`) and pass the **interactive copy** as the `expanded` prop. There must be **only one** style of climate line chart on the district detail page: the bottom **IndexCard 2×3 dashboard**, each card wrapped in `<ChartModal>` whose `expanded` slot is the interactive `ClimateTrendChart`. Do not add a second top-level "climate trajectory" grid above it — this is a regression we already fixed once.
+**Charts UX — static-by-default, click-to-interact**
+Every inline chart uses `staticView={true}`. Wrap in `<ChartModal>`, pass the interactive copy as `expanded`. One chart style on district pages: the IndexCard 2×3 dashboard. Do not add a second top-level chart grid — that regression was fixed once already.
 
-**District map**
-Uses a 22-colour qualitative palette hashed by district name. The borrégió layer was deleted from the site entirely (`/regions/` pages, `BORREGIO_COLORS`, `BORREGIO_LIST`). Do not reintroduce it; the borrégió grouping has been deprecated in Hungarian wine law since ~2020 and was an organisational layer the user explicitly rejected.
+**District map colours**
+Uses the official Hungarian wine-region colour scheme from `Borvidekterkep.png` (regional colour families, not a hash-based qualitative palette). Defined as a named lookup in `DISTRICT_COLORS` in `DistrictMap.tsx`. The `/regions/` pages and `BORREGIO_LIST` navigation layer were deleted from the site — do not reintroduce.
 
-## Workflow conventions to follow
+## Infrastructure gaps still open
 
-- **For multi-step tasks:** present a plan first, wait for approval, then run the entire workflow unattended without pausing between steps. Only stop on errors.
-- **Parallelise everything independent.** Launch background agents in single-message batches (up to 10+ in parallel — the user has explicitly authorised this).
-- **Subagent web access:** WebSearch and WebFetch *do* work in subagents on this project (the earlier memory note saying otherwise was stale — corrected during the 22-district research run on 2026-04-07).
-- **Rate-limit handling:** when running 10+ parallel agents, expect occasional `You've hit your limit · resets <time>` bounces. Stagger or relaunch survivors after the reset window. Save points (git commits) before each parallel wave make recovery painless.
-- **Curated → site sync:** after any change to `analysis/curated/`, run `node site/scripts/sync_curated.mjs` from the `site/` directory to publish to `site/public/data/`. The sync script wipes the destination first, so anything you write directly into `site/public/data/` outside the sync flow gets deleted on the next run.
-- **Save points:** create git commits before any major batch operation per the global rules in `~/.claude/CLAUDE.md`.
-- **Codex cross-review:** for second opinions on manuscripts or analysis, run `codex exec --model gpt-5.4 "prompt"` via Bash.
-- **Don't show or explain code unless asked** — the user is a scientist, not a programmer.
+1. ~~Lakatos & Nagy 2025 supplementary tables~~ → **RESOLVED: no supplementary materials exist.** Per-district numerical data is in figure rasters only. Alternatives: email authors, recompute on same FORESEE input + 1986-2005 window, or WebPlotDigitizer.
+2. **EURO-CORDEX 12 km does not resolve Lake Balaton** — the lake mesoclimate that defines four borvidék is missing from public projections.
+3. **No multi-decadal phenology series** for any district except Tokaj.
+4. **No district-level pest/disease monitoring** for *Scaphoideus titanus*, *Drosophila suzukii*, *Halyomorpha halys*, esca, Flavescence dorée.
+5. **Móri-szél has no published multi-decadal climatology.**
+6. **~24 varieties named in §12 sections still have no envelope row** — mostly Hungarian endemics and additional PIWIs beyond the 6 added in Wave 11A.
+7. **Pannonhalmi HungaroMet station (Pér airport)** has all-null tmean/precip — should find a better station.
 
-## Subprojects with their own CLAUDE.md
+## Workflow conventions
 
-- `site/CLAUDE.md` → Next.js subproject. **WARNING in `site/AGENTS.md`:** the Next.js version in use has breaking changes from training-data conventions. Read `site/node_modules/next/dist/docs/` before writing site code.
+- **Plan first, then run unattended.** Only stop on errors.
+- **Parallelise everything independent.** Up to 10+ parallel background agents.
+- **Curated → site sync:** `cd site && node scripts/sync_curated.mjs` after any `analysis/curated/` change.
+- **PDF refresh:** `python analysis/src/s10_generate_district_pdfs.py` after normals or variety_match changes.
+- **Save points:** git commit before major batch operations.
+- **Codex cross-review:** `codex exec --model gpt-5.4 "prompt"` for second opinions.
+- **Don't show/explain code unless asked.**
+- **Rate-limit handling:** expect `You've hit your limit` bounces with 10+ parallel agents. Stagger or relaunch survivors after the reset window.
+
+## Subprojects
+
+- `site/CLAUDE.md` → imports `site/AGENTS.md` which has the full Next.js stack gotchas (luma.gl webgl adapter, tailwind typography plugin, Sapling hydration, static export limits, chart UX contract, variety chart data contract, build verification patterns, mobile responsive approach, and the full user-facing content tone rules).
 
 ## Known repository quirks
 
-- Project root path contains the non-ASCII character `ő`: `C:\Bor-szőlő\` → use forward slashes and quote in shell commands. Some bash output mojibakes the directory name; this is cosmetic only.
-- `s03_normals_and_anomalies.py` and `s04_variety_match.py` both crash on the **last** stdout `print()` statement when run through ArcGIS Pro's bundled Python on Windows because cp1252 cannot encode `ő`. The data files all write successfully before the crash — it is harmless, but use `python -X utf8 ...` or set `PYTHONIOENCODING=utf-8` to silence it.
-- Many top-level files are work-in-progress geospatial intermediates (`_affine_params.npy`, `_legrow_*.png`, `wine_map_georef*.tif`, etc.) — do not touch unless asked.
-- Two parallel shapefile lineages: `wine_districts.shp` (22 borvidék polygons) and `admin8_with_district.shp` (3,174 admin units with `borvidek`/`borregio` columns). Use the correct one for the task.
+- **Path contains `ő`:** `C:\Bor-szőlő\` → use forward slashes, quote in shell. netCDF4's C library crashes on this path; use `scipy` or `h5netcdf` engine + bytes-in-memory bypass for .nc files under this path.
+- **ArcGIS Pro Python cp1252 crash:** `s03` and `s04` crash on the last `print()` because cp1252 can't encode `ő`. Data files write successfully before the crash. Use `PYTHONIOENCODING=utf-8` to silence.
+- **Two shapefile lineages:** `wine_districts.shp` (22 borvidék) and `admin8_with_district.shp` (3,174 admin units with `borvidek` column). Use the correct one.
+- **Orphan `main` branch:** the git history was squashed to a single v1.0.0 commit for a clean GitHub push. The original development history was on `master` (now deleted). The `.git` folder is 8.7 MB.
