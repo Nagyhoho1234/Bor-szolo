@@ -1,0 +1,351 @@
+StationNumber;StartDate; EndDate;Latitude;Longitude;Elevation;StationName                             ;RegioName             ;EOR
+        13704; 19950422;20040317; 47.6783;  16.6022;    232.8;Sopron Kuruc-domb                       ;Győr-Moson-Sopron     ;EOR
+        13704; 20050727;20260414; 47.6783;  16.6022;    232.8;Sopron Kuruc-domb                       ;Győr-Moson-Sopron     ;EOR
+        13711; 20031107;20260414; 47.7147;  16.6658;    116.8;Fertőrákos                              ;Győr-Moson-Sopron     ;EOR
+        14308; 20220401;20220401; 47.6319;  16.7183;    153.0;Fertőboz                                ;Győr-Moson-Sopron     ;EOR
+        14707; 20140519;20260414; 47.4806;  16.7292;    198.7;Sopronhorpács                           ;Győr-Moson-Sopron     ;EOR
+        14805; 20120901;20260414; 47.3575;  16.7964;    166.0;Gór                                     ;Vas                   ;EOR
+        15304; 19950816;20020424; 47.2675;  16.6339;    220.0;Szombathely                             ;Vas                   ;EOR
+        15310; 20020227;20260414; 47.1983;  16.6478;    200.1;Szombathely                             ;Vas                   ;EOR
+        15404; 20120901;20180525; 47.2469;  16.9292;    153.0;Sárvár                                  ;Vas                   ;EOR
+        15405; 20180525;20260414; 47.2428;  16.9083;    153.0;Sárvár                                  ;Vas                   ;EOR
+        15811; 20180328;20260414; 47.0511;  16.8119;    227.0;Vasvár                                  ;Vas                   ;EOR
+        16204; 19950517;20260414; 46.9103;  16.3094;    310.7;Szentgotthárd Farkasfa                  ;Vas                   ;EOR
+        16414; 19990422;20260414; 46.9258;  16.8128;    239.1;Nagykutas                               ;Zala                  ;EOR
+        17306; 19970925;20260414; 46.6056;  16.6131;    164.3;Iklódbördőce                            ;Zala                  ;EOR
+        17419; 20140527;20260414; 46.6511;  16.8408;    204.4;Söjtör                                  ;Zala                  ;EOR
+        17708; 20120901;20260414; 46.4233;  16.7347;    144.0;Letenye                                 ;Zala                  ;EOR
+        17809; 19951125;20260414; 46.4561;  16.9706;    138.8;Nagykanizsa                             ;Zala                  ;EOR
+        17814; 20120901;20260414; 46.3550;  16.8778;    131.0;Murakeresztúr                           ;Zala                  ;EOR
+        23104; 20120901;20260414; 47.9292;  17.1483;    127.0;Hegyeshalom                             ;Győr-Moson-Sopron     ;EOR
+        23201; 19961231;20260414; 47.8897;  17.2672;    120.0;Mosonmagyaróvár                         ;Győr-Moson-Sopron     ;EOR
+        23300; 20120901;20260414; 47.8361;  17.5153;    112.0;Ásványráró                              ;Győr-Moson-Sopron     ;EOR
+        23508; 20120901;20260414; 47.7183;  17.2228;    116.0;Jánossomorja Hanságliget                ;Győr-Moson-Sopron     ;EOR
+        23613; 20120901;20260414; 47.7061;  17.3622;    112.0;Győrsövényház                           ;Győr-Moson-Sopron     ;EOR
+        23703; 19960103;20260414; 47.7100;  17.6747;    115.7;Győr Likócs                             ;Győr-Moson-Sopron     ;EOR
+        23709; 20120901;20260414; 47.7403;  17.5706;    111.0;Győrzámoly                              ;Győr-Moson-Sopron     ;EOR
+        23712; 20120901;20260414; 47.6758;  17.5158;    111.0;Ikrény Dózsamajor                       ;Győr-Moson-Sopron     ;EOR
+        23714; 20200218;20260414; 47.6931;  17.6275;    124.0;Győr Egyetem                            ;Győr-Moson-Sopron     ;EOR
+        24100; 19970925;20140512; 47.5617;  17.0392;    122.8;Kapuvár                                 ;Győr-Moson-Sopron     ;EOR
+        24118; 20120901;20260414; 47.5914;  17.1781;    117.0;Rábatamási                              ;Győr-Moson-Sopron     ;EOR
+        24119; 20120901;20260414; 47.6350;  17.0714;    116.0;Osli                                    ;Győr-Moson-Sopron     ;EOR
+        24120; 20140603;20260414; 47.5767;  17.1819;    118.4;Jobaháza                                ;Győr-Moson-Sopron     ;EOR
+        24202; 20120901;20260414; 47.5128;  17.4022;    115.0;Árpás Dombiföld                         ;Győr-Moson-Sopron     ;EOR
+        24307; 20120901;20260414; 47.6086;  17.5156;    112.0;Koroncó                                 ;Győr-Moson-Sopron     ;EOR
+        24422; 20060930;20141013; 47.6242;  17.8042;    128.1;Pér                                     ;Győr-Moson-Sopron     ;EOR
+        24423; 20140627;20260414; 47.6244;  17.8119;    128.1;Pér repülőtér                           ;Győr-Moson-Sopron     ;EOR
+        24424; 20140702;20260414; 47.6308;  17.7956;    128.1;Pér repülőtér (észak)                   ;Győr-Moson-Sopron     ;EOR
+        24510; 20120901;20260414; 47.3847;  17.0317;    140.0;Nick                                    ;Vas                   ;EOR
+        24512; 20120901;20260414; 47.4428;  17.2119;    127.0;Vág                                     ;Győr-Moson-Sopron     ;EOR
+        24607; 20110610;20260414; 47.3706;  17.4964;    143.5;Pápa repülőtér (észak)                  ;Veszprém              ;EOR
+        24609; 19970101;20020424; 47.3611;  17.4900;    145.0;Pápa                                    ;Veszprém              ;EOR
+        24609; 20041025;20121231; 47.3611;  17.4900;    145.0;Pápa                                    ;Veszprém              ;EOR
+        24709; 20110905;20260414; 47.3569;  17.5036;    144.4;Pápa repülőtér                          ;Veszprém              ;EOR
+        24713; 20250707;20260414; 47.3617;  17.5033;    144.6;Pápa repülőtér (közép)                  ;Veszprém              ;EOR
+        25212; 20020605;20121011; 47.2922;  17.3722;    134.5;Pápa Nyárád                             ;Veszprém              ;EOR
+        25503; 19980811;20260414; 47.1606;  17.0397;    169.2;Káld                                    ;Vas                   ;EOR
+        25507; 20120901;20260414; 47.1197;  17.2036;    126.0;Karakó                                  ;Vas                   ;EOR
+        25615; 20120901;20260414; 47.1114;  17.4328;    168.0;Devecser                                ;Veszprém              ;EOR
+        25713; 19991013;20260414; 47.0469;  17.6569;    593.7;Kab-hegy                                ;Veszprém              ;EOR
+        25811; 19960822;20041004; 47.0781;  17.9700;    280.0;Szentkirályszabadja                     ;Veszprém              ;EOR
+        25820; 20050325;20260414; 47.0828;  17.9706;    280.5;Szentkirályszabadja repülőtér           ;Veszprém              ;EOR
+        26118; 20120901;20260414; 46.8333;  17.1400;    259.0;Nemesbük                                ;Zala                  ;EOR
+        26212; 19971217;20260414; 46.9642;  17.2917;    193.8;Sümeg                                   ;Veszprém              ;EOR
+        26328; 20120901;20260414; 46.8803;  17.7367;    105.0;Balatonakali                            ;Veszprém              ;EOR
+        26422; 20240716;20260414; 46.8800;  17.8983;    105.0;Szántód kikötő                          ;Somogy                ;EOR
+        26505; 19951101;20001214; 46.7356;  17.2386;    110.7;Keszthely Tanyakereszt                  ;Zala                  ;EOR
+        26505; 20010425;20260414; 46.7356;  17.2386;    110.7;Keszthely Tanyakereszt                  ;Zala                  ;EOR
+        26513; 20001213;20190502; 46.6867;  17.1608;    118.9;Sármellék                               ;Zala                  ;EOR
+        26514; 20161213;20260414; 46.6942;  17.1575;    122.0;Sármellék repülőtér                     ;Zala                  ;EOR
+        26515; 20161213;20260414; 46.6789;  17.1633;    122.0;Sármellék repülőtér (dél)               ;Zala                  ;EOR
+        26617; 20120901;20260414; 46.8136;  17.3786;    122.0;Balatonederics                          ;Veszprém              ;EOR
+        26710; 19970924;20260414; 46.7492;  17.5525;    105.6;Fonyód                                  ;Somogy                ;EOR
+        26720; 20120901;20260414; 46.7950;  17.7275;    106.0;Balatonlelle felső                      ;Somogy                ;EOR
+        26830; 20240716;20260414; 46.8153;  17.7675;    105.0;Balatonszemes kikötő                    ;Somogy                ;EOR
+        27109; 20230630;20260414; 46.6603;  17.0625;    294.1;Pogányvár                               ;Zala                  ;EOR
+        27226; 20120901;20210422; 46.6347;  17.2550;    106.9;Főnyed                                  ;Somogy                ;EOR
+        27227; 20210422;20260414; 46.6339;  17.2628;    107.0;Főnyed                                  ;Somogy                ;EOR
+        27406; 19990421;20260414; 46.6172;  17.8703;    163.0;Kisbárapáti                             ;Somogy                ;EOR
+        27615; 19980812;20260414; 46.4400;  17.3744;    185.9;Nemeskisfalud                           ;Somogy                ;EOR
+        27813; 19970101;20051019; 46.3933;  17.9192;    155.6;Taszár                                  ;Somogy                ;EOR
+        27815; 20060320;20260414; 46.3628;  17.8739;    128.5;Kaposvár Fészerlak                      ;Somogy                ;EOR
+        28104; 20140604;20260414; 46.2286;  17.1089;    134.0;Csurgó                                  ;Somogy                ;EOR
+        28210; 20120901;20260414; 46.2372;  17.3653;    126.0;Nagyatád                                ;Somogy                ;EOR
+        28609; 20140626;20260414; 46.0247;  17.3367;    110.1;Babócsa                                 ;Somogy                ;EOR
+        28700; 19970925;20260414; 46.1033;  17.5269;    158.0;Homokszentgyörgy Mariettapuszta         ;Somogy                ;EOR
+        29403; 19980204;20260414; 45.8675;  17.8511;     99.4;Sellye                                  ;Baranya               ;EOR
+        32805; 19990531;20260414; 48.0269;  18.8256;    118.2;Tésa Vízmű                              ;Pest                  ;EOR
+        33431; 19990519;20260414; 47.9364;  18.9217;    853.8;Nagy-Hideg-hegy                         ;Pest                  ;EOR
+        33605; 20150528;20260414; 47.6758;  18.4933;    619.0;Gerecse tető                            ;Komárom-Esztergom     ;EOR
+        33720; 19990531;20260414; 47.7564;  18.6061;    109.4;Tát Vízmű                               ;Komárom-Esztergom     ;EOR
+        33830; 20120901;20260414; 47.7717;  18.9456;    105.0;Nagymaros                               ;Pest                  ;EOR
+        33832; 20180913;20260414; 47.7197;  18.8989;    698.0;Dobogókő                                ;Pest                  ;EOR
+        34211; 19960530;20160322; 47.6517;  18.3108;    122.8;Tata                                    ;Komárom-Esztergom     ;EOR
+        34233; 20120901;20260414; 47.5889;  18.3853;    138.0;Tatabánya Dózsakert                     ;Komárom-Esztergom     ;EOR
+        34234; 20150908;20260414; 47.6503;  18.3075;    123.0;Tata                                    ;Komárom-Esztergom     ;EOR
+        34429; 20141002;20260414; 47.5186;  18.9589;    515.0;Budapest János-hegy                     ;Budapest XII.         ;EOR
+        34433; 20141217;20260414; 47.5078;  18.9661;    420.0;Budapest Zugliget                       ;Budapest XII.         ;EOR
+        34500; 19970925;20260414; 47.4894;  18.0858;    204.6;Vérteskethely                           ;Komárom-Esztergom     ;EOR
+        34712; 19990331;20260414; 47.4494;  18.5775;    144.2;Felcsút                                 ;Fejér                 ;EOR
+        34816; 20120901;20260414; 47.3619;  18.9417;     96.0;Érd Ófalu                               ;Pest                  ;EOR
+        35116; 19990428;20260414; 47.2622;  18.0322;    471.4;Tés                                     ;Veszprém              ;EOR
+        35122; 20250320;20260414; 47.1667;  18.0408;    230.0;Öskü                                    ;Veszprém              ;EOR
+        35221; 20120901;20260414; 47.2519;  18.4903;    120.0;Pátka víztározó                         ;Fejér                 ;EOR
+        35222; 20120901;20260414; 47.2817;  18.2561;    148.0;Kincsesbánya Rákhegy                    ;Fejér                 ;EOR
+        35315; 19960418;20260414; 47.1900;  18.5836;    104.3;Agárd                                   ;Fejér                 ;EOR
+        35418; 20081120;20260414; 47.3111;  18.7800;    109.0;Martonvásár                             ;Fejér                 ;EOR
+        35521; 20120901;20260414; 47.0250;  18.1281;    107.0;Balatonkenese                           ;Veszprém              ;EOR
+        35605; 20001213;20260414; 47.1653;  18.4325;    112.3;Székesfehérvár                          ;Fejér                 ;EOR
+        35800; 19970925;20260414; 47.0214;  18.9853;     97.9;Tass Vízmű                              ;Bács-Kiskun           ;EOR
+        35806; 20120901;20260414; 47.1081;  18.8728;     97.0;Adony                                   ;Fejér                 ;EOR
+        36100; 19950502;20260414; 46.9108;  18.0408;    107.2;Siófok                                  ;Somogy                ;EOR
+        36114; 20181015;20181211; 46.8831;  18.1400;    100.0;Balatonszabadi                          ;Somogy                ;EOR
+        36114; 20191120;20200214; 46.8831;  18.1400;    100.0;Balatonszabadi                          ;Somogy                ;EOR
+        36115; 20210331;20260414; 46.9122;  18.0425;    101.0;Siófok kikötő                           ;Somogy                ;EOR
+        36301; 19990608;20260414; 46.8833;  18.6097;    103.9;Sárbogárd                               ;Fejér                 ;EOR
+        36308; 20140620;20260414; 46.9953;  18.5247;    100.4;Sárkeresztúr                            ;Fejér                 ;EOR
+        36407; 20070518;20260414; 46.9506;  18.9522;    146.7;Dunaújváros                             ;Fejér                 ;EOR
+        36500; 19970925;20260414; 46.6856;  18.1836;    164.0;Iregszemcse                             ;Tolna                 ;EOR
+        36709; 20120901;20260414; 46.7514;  18.5383;     99.0;Simontornya                             ;Tolna                 ;EOR
+        37402; 19960801;20260414; 46.5736;  18.8456;     96.2;Paks                                    ;Tolna                 ;EOR
+        37405; 20110607;20260414; 46.5750;  18.8472;     98.0;Paks Atomerőmű                          ;Tolna                 ;EOR
+        37410; 20120326;20131205; 46.5922;  18.8606;     96.0;Paks Csónakház                          ;Tolna                 ;EOR
+        37411; 20120330;20140324; 46.6206;  18.8361;    106.0;Paks Gesztenyés                         ;Tolna                 ;EOR
+        37412; 20120326;20210324; 46.5464;  18.9019;     96.0;Uszód                                   ;Bács-Kiskun           ;EOR
+        37613; 19980919;20260414; 46.4311;  18.4547;    215.6;Tevel                                   ;Tolna                 ;EOR
+        37725; 20120901;20260414; 46.3819;  18.7178;     89.0;Szekszárd Palánkpuszta                  ;Tolna                 ;EOR
+        37804; 20120901;20260414; 46.4267;  18.8933;     92.0;Fadd Dombori                            ;Tolna                 ;EOR
+        38305; 20120718;20260414; 46.2192;  18.6106;    154.0;Bátaapáti                               ;Tolna                 ;EOR
+        38311; 19991119;20050427; 46.2181;  18.5992;    146.0;Bátaapáti                               ;Tolna                 ;EOR
+        38316; 20051212;20120718; 46.2181;  18.5983;    146.0;Bátaapáti                               ;Tolna                 ;EOR
+        38317; 20130703;20260414; 46.2225;  18.6083;    144.0;Bátaapáti Vadászház                     ;Tolna                 ;EOR
+        38522; 19980324;20040331; 46.0058;  18.2328;    201.8;Pogány                                  ;Baranya               ;EOR
+        38528; 20100201;20260414; 46.0778;  18.2072;    174.0;Pécs Egyetem                            ;Baranya               ;EOR
+        38535; 20120901;20260414; 46.0350;  18.0072;    122.0;Szentlőrinc                             ;Baranya               ;EOR
+        38537; 20231129;20260414; 46.0867;  18.0464;    233.0;Boda                                    ;Baranya               ;EOR
+        38605; 19971130;20260414; 46.1347;  18.2522;    394.7;Pécs Árpádtető                          ;Baranya               ;EOR
+        38806; 20120901;20260414; 46.1306;  18.7783;     85.0;Báta                                    ;Tolna                 ;EOR
+        39113; 20040331;20220528; 45.9950;  18.2350;    199.2;Pogány                                  ;Baranya               ;EOR
+        39115; 20210701;20260414; 45.9950;  18.2350;    196.0;Pogány repülőtér                        ;Baranya               ;EOR
+        39116; 20210701;20260414; 45.9925;  18.2386;    196.1;Pogány repülőtér (észak)                ;Baranya               ;EOR
+        39214; 20120901;20260414; 45.8758;  18.4703;    103.0;Villány                                 ;Baranya               ;EOR
+        39307; 19980527;20260414; 45.9358;  18.6322;     93.0;Sátorhely                               ;Baranya               ;EOR
+        39408; 20120901;20260414; 45.9439;  18.8942;     82.0;Hercegszántó Karapancsa                 ;Bács-Kiskun           ;EOR
+        39409; 20120901;20260414; 45.9694;  18.7792;     86.0;Homorúd                                 ;Baranya               ;EOR
+        39500; 20120901;20260414; 45.7906;  18.2056;     88.0;Drávaszabolcs                           ;Baranya               ;EOR
+        39501; 20120901;20260414; 45.8283;  18.0997;     94.0;Kémes                                   ;Baranya               ;EOR
+        42318; 20120901;20260414; 48.2028;  19.6233;    177.0;Mihálygerge                             ;Nógrád                ;EOR
+        42604; 20120901;20260414; 48.0717;  19.2744;    145.0;Balassagyarmat                          ;Nógrád                ;EOR
+        42708; 19960528;20260414; 48.1067;  19.5156;    152.0;Szécsény                                ;Nógrád                ;EOR
+        43129; 20170719;20260414; 47.9225;  19.1797;    170.5;Bánk                                    ;Nógrád                ;EOR
+        43227; 20120901;20260414; 47.9933;  19.3539;    170.0;Mohora                                  ;Nógrád                ;EOR
+        43416; 20210412;20260414; 47.9000;  19.9469;    619.0;Gyöngyössolymos Nyírjes                 ;Heves                 ;EOR
+        43430; 20120901;20200908; 47.9258;  19.7594;    269.0;Pásztó Hasznos                          ;Nógrád                ;EOR
+        43431; 20200908;20260414; 47.9258;  19.7572;    269.0;Pásztó Hasznos                          ;Nógrád                ;EOR
+        43500; 20120901;20260414; 47.7008;  19.1217;    105.0;Pócsmegyer Surány                       ;Pest                  ;EOR
+        43613; 19980911;20260414; 47.7900;  19.2836;    241.9;Penc Obszervatórium                     ;Pest                  ;EOR
+        43617; 20060728;20260414; 47.7297;  19.3100;    238.2;Püspökszilágy                           ;Pest                  ;EOR
+        43715; 20120901;20260414; 47.7953;  19.6850;    132.8;Apc                                     ;Heves                 ;EOR
+        43813; 20120901;20260414; 47.7719;  19.9069;    159.0;Gyöngyös víztározó                      ;Heves                 ;EOR
+        44121; 19971130;20260414; 47.5111;  19.0281;    152.3;Budapest belterület                     ;Budapest II.          ;EOR
+        44165; 20010428;20260414; 47.5733;  19.0750;    104.8;Budapest Újpest                         ;Budapest IV.          ;EOR
+        44166; 20120901;20260414; 47.6189;  19.0756;    105.0;Budakalász                              ;Pest                  ;EOR
+        44167; 20160412;20260414; 47.5186;  19.0761;    105.0;Budapest Állatkert                      ;Budapest XIV.         ;EOR
+        44214; 19971231;20260414; 47.6556;  19.4764;    161.4;Aszód                                   ;Pest                  ;EOR
+        44305; 20120901;20260414; 47.5931;  19.6047;    120.0;Tura                                    ;Pest                  ;EOR
+        44407; 20120901;20260414; 47.5097;  19.8961;     93.0;Jászberény                              ;Jász-Nagykun-Szolnok  ;EOR
+        44505; 19991029;20260414; 47.4747;  19.0619;    144.6;Budapest Lágymányos                     ;Budapest XI.          ;EOR
+        44527; 19960104;20260414; 47.4292;  19.1822;    138.1;Budapest Pestszentlőrinc                ;Budapest XVIII.       ;EOR
+        44550; 20120901;20260414; 47.3725;  19.2286;    110.0;Gyál                                    ;Pest                  ;EOR
+        44625; 20100407;20241017; 47.4369;  19.2542;    151.3;Budapest Ferihegy                       ;Budapest XVIII.       ;EOR
+        44710; 20140613;20260414; 47.4319;  19.5367;    180.0;Sülysáp Sűrűpuszta                      ;Pest                  ;EOR
+        44811; 20000113;20260414; 47.3550;  19.8894;     95.2;Tápiószele Külsőmező                    ;Pest                  ;EOR
+        45208; 19990325;20260414; 47.2453;  19.3603;    114.3;Kakucs                                  ;Pest                  ;EOR
+        45209; 20120901;20260414; 47.3267;  19.4053;    125.0;Vasad                                   ;Pest                  ;EOR
+        45210; 20120901;20260414; 47.2064;  19.2689;     93.0;Dabas                                   ;Pest                  ;EOR
+        45504; 20120901;20260414; 47.1444;  19.1922;     97.0;Bugyi Ürbőpuszta                        ;Pest                  ;EOR
+        45505; 20120901;20260414; 47.0214;  19.1139;     93.0;Kunszentmiklós                          ;Bács-Kiskun           ;EOR
+        45506; 20120901;20260414; 47.1581;  19.0978;     96.0;Apaj Szivattyútelep                     ;Pest                  ;EOR
+        45803; 20120901;20260414; 47.1183;  19.9356;     92.0;Törtel                                  ;Pest                  ;EOR
+        45805; 20120901;20260414; 47.0353;  19.8219;    107.0;Nagykőrös                               ;Pest                  ;EOR
+        45806; 20120901;20260414; 47.1531;  19.8011;    100.0;Cegléd                                  ;Pest                  ;EOR
+        46213; 20000419;20170629; 46.8686;  19.4261;    106.9;Fülöpháza                               ;Bács-Kiskun           ;EOR
+        46214; 20170629;20260414; 46.8711;  19.4219;    107.7;Fülöpháza Hattyús-szék                  ;Bács-Kiskun           ;EOR
+        46303; 19970101;20121231; 46.9131;  19.7483;    113.0;Kecskemét külterület                    ;Bács-Kiskun           ;EOR
+        46304; 19971130;20260414; 46.9656;  19.5450;    125.9;Kecskemét K-puszta                      ;Bács-Kiskun           ;EOR
+        46313; 20111208;20260414; 46.9214;  19.7392;    113.0;Kecskemét repülőtér (észak)             ;Bács-Kiskun           ;EOR
+        46314; 20260112;20260414; 46.9167;  19.7486;    113.0;Kecskemét repülőtér (közép)             ;Bács-Kiskun           ;EOR
+        46400; 20110905;20260414; 46.9122;  19.7597;    113.7;Kecskemét repülőtér                     ;Bács-Kiskun           ;EOR
+        46515; 20120901;20260414; 46.7942;  19.0061;     93.0;Solt                                    ;Bács-Kiskun           ;EOR
+        46609; 20120901;20260414; 46.7756;  19.2825;     96.0;Soltszentimre                           ;Bács-Kiskun           ;EOR
+        46800; 20120901;20260414; 46.7272;  19.8692;     94.0;Kiskunfélegyháza                        ;Bács-Kiskun           ;EOR
+        47107; 20120901;20260414; 46.5789;  19.1456;     88.0;Öregcsertő Csornapuszta                 ;Bács-Kiskun           ;EOR
+        47200; 19971020;20210601; 46.5908;  19.3414;    108.2;Soltvadkert                             ;Bács-Kiskun           ;EOR
+        47200; 20241014;20260414; 46.5908;  19.3414;    108.2;Soltvadkert                             ;Bács-Kiskun           ;EOR
+        47300; 20120901;20260414; 46.5736;  19.7497;     97.0;Jászszentlászló                         ;Bács-Kiskun           ;EOR
+        47505; 20050413;20260414; 46.3967;  19.1511;     91.8;Hajós                                   ;Bács-Kiskun           ;EOR
+        47606; 20050628;20260414; 46.4292;  19.4992;    126.9;Kiskunhalas                             ;Bács-Kiskun           ;EOR
+        47710; 19990407;20260414; 46.4942;  19.7450;    104.2;Kiskunmajsa                             ;Bács-Kiskun           ;EOR
+        47800; 20120901;20260414; 46.3392;  19.8508;     96.0;Üllés                                   ;Csongrád-Csanád       ;EOR
+        48101; 19950503;20260414; 46.1797;  19.0106;    111.0;Baja Csillagvizsgáló                    ;Bács-Kiskun           ;EOR
+        48302; 19980915;20260414; 46.1956;  19.6064;    132.3;Kelebia                                 ;Bács-Kiskun           ;EOR
+        48304; 20120901;20260414; 46.2964;  19.5239;    125.0;Kisszállás külterület                   ;Bács-Kiskun           ;EOR
+        48507; 20140611;20260414; 46.0378;  19.1997;    110.3;Katymár                                 ;Bács-Kiskun           ;EOR
+        51407; 20120901;20260414; 48.5650;  20.8428;    166.0;Hidvégardó                              ;Borsod-Abaúj-Zemplén  ;EOR
+        51705; 19960918;20260414; 48.4953;  20.5361;    307.9;Jósvafő                                 ;Borsod-Abaúj-Zemplén  ;EOR
+        51812; 20210603;20260414; 48.4414;  20.9458;    227.0;Gagybátor                               ;Borsod-Abaúj-Zemplén  ;EOR
+        52213; 20120901;20260414; 48.2889;  20.3419;    149.0;Bánréve                                 ;Borsod-Abaúj-Zemplén  ;EOR
+        52309; 20001019;20221201; 48.2869;  20.7419;    130.6;Edelény                                 ;Borsod-Abaúj-Zemplén  ;EOR
+        52313; 20221201;20260414; 48.2872;  20.7414;    130.6;Edelény                                 ;Borsod-Abaúj-Zemplén  ;EOR
+        52409; 20210811;20260414; 48.2078;  20.9514;    120.0;Szikszó Vízmű                           ;Borsod-Abaúj-Zemplén  ;EOR
+        52523; 19981231;20260414; 48.1414;  20.0558;    224.6;Zabar                                   ;Nógrád                ;EOR
+        52614; 20210708;20260414; 48.1442;  20.3736;    278.0;Lénárddaróc                             ;Borsod-Abaúj-Zemplén  ;EOR
+        52733; 19981204;20260414; 48.1219;  20.5244;    751.4;Miskolc Szentlélek                      ;Borsod-Abaúj-Zemplén  ;EOR
+        52744; 20130627;20260414; 48.0947;  20.7267;    161.0;Miskolc Diósgyőr                        ;Borsod-Abaúj-Zemplén  ;EOR
+        52819; 19970624;20130627; 48.0969;  20.7714;    231.8;Miskolc Avas                            ;Borsod-Abaúj-Zemplén  ;EOR
+        52824; 20120901;20260414; 48.0958;  20.9475;    108.0;Hernádkak Belegrád                      ;Borsod-Abaúj-Zemplén  ;EOR
+        53101; 19950514;20260414; 47.8722;  20.0128;   1010.8;Kékestető                               ;Heves                 ;EOR
+        53124; 20120901;20260414; 47.8575;  20.2125;    136.0;Verpelét                                ;Heves                 ;EOR
+        53206; 19990514;20060615; 47.9036;  20.3861;    219.9;Eger                                    ;Heves                 ;EOR
+        53215; 20060615;20260414; 47.9039;  20.3889;    224.2;Eger                                    ;Heves                 ;EOR
+        53315; 20120901;20260414; 47.8481;  20.5553;    141.0;Mezőkövesd víztározó                    ;Borsod-Abaúj-Zemplén  ;EOR
+        53406; 20120901;20260414; 47.9481;  20.8761;     98.0;Hejőszalonta                            ;Borsod-Abaúj-Zemplén  ;EOR
+        53407; 20210906;20260414; 47.8425;  20.8058;     97.0;Gelej                                   ;Borsod-Abaúj-Zemplén  ;EOR
+        53521; 20001130;20260414; 47.7397;  20.2358;    122.3;Kompolt                                 ;Heves                 ;EOR
+        53525; 20120901;20260414; 47.6669;  20.1481;     86.0;Tarnaméra                               ;Heves                 ;EOR
+        53614; 20120901;20260414; 47.6739;  20.3206;    105.0;Erdőtelek                               ;Heves                 ;EOR
+        53810; 20120901;20260414; 47.7125;  20.9531;     89.0;Tiszacsege Tiszapart                    ;Hajdú-Bihar           ;EOR
+        53811; 20210818;20260414; 47.6783;  20.9878;     93.0;Tiszacsege                              ;Hajdú-Bihar           ;EOR
+        54107; 19980810;20260414; 47.5200;  20.1489;     93.4;Jászapáti                               ;Jász-Nagykun-Szolnok  ;EOR
+        54214; 20120901;20260414; 47.5550;  20.3664;     89.0;Hevesvezekény                           ;Heves                 ;EOR
+        54306; 19960726;20130705; 47.6447;  20.6478;     89.2;Poroszló                                ;Heves                 ;EOR
+        54308; 20120901;20260414; 47.6064;  20.7181;     86.0;Tiszafüred Tiszaörvény                  ;Jász-Nagykun-Szolnok  ;EOR
+        54309; 20140521;20260414; 47.6561;  20.6536;     90.7;Poroszló                                ;Heves                 ;EOR
+        54501; 20120901;20260414; 47.4208;  20.0392;     87.0;Alattyán                                ;Jász-Nagykun-Szolnok  ;EOR
+        54600; 20120901;20260414; 47.3986;  20.4244;     85.0;Tiszaroff                               ;Jász-Nagykun-Szolnok  ;EOR
+        54715; 20120901;20170608; 47.3656;  20.6261;     87.0;Kunhegyes                               ;Jász-Nagykun-Szolnok  ;EOR
+        54716; 20120901;20260414; 47.4969;  20.5153;     88.0;Kisköre                                 ;Heves                 ;EOR
+        54809; 19980119;20061107; 47.4503;  20.9092;     87.1;Kunmadaras                              ;Jász-Nagykun-Szolnok  ;EOR
+        54817; 20061107;20260414; 47.4656;  20.8908;     87.8;Kunmadaras külterület                   ;Jász-Nagykun-Szolnok  ;EOR
+        55108; 20120901;20260414; 47.2575;  20.1261;     85.0;Zagyvarékas                             ;Jász-Nagykun-Szolnok  ;EOR
+        55211; 20051104;20260414; 47.1836;  20.4694;     86.3;Törökszentmiklós                        ;Jász-Nagykun-Szolnok  ;EOR
+        55212; 20120901;20260414; 47.2711;  20.3550;     78.0;Csataszög Dobapuszta                    ;Jász-Nagykun-Szolnok  ;EOR
+        55213; 20120901;20260414; 47.3033;  20.2561;     84.0;Besenyszög                              ;Jász-Nagykun-Szolnok  ;EOR
+        55309; 20170608;20260414; 47.3097;  20.6069;     84.8;Kenderes Bánhalma                       ;Jász-Nagykun-Szolnok  ;EOR
+        55405; 20040608;20260414; 47.2894;  20.8903;     87.3;Karcag                                  ;Jász-Nagykun-Szolnok  ;EOR
+        55502; 19970101;20121231; 47.1286;  20.2000;     89.0;Szolnok Szandaszőlős                    ;Jász-Nagykun-Szolnok  ;EOR
+        55507; 20110905;20260414; 47.1172;  20.2311;     88.8;Szolnok repülőtér                       ;Jász-Nagykun-Szolnok  ;EOR
+        55508; 20110706;20260414; 47.1297;  20.2381;     87.8;Szolnok repülőtér (észak)               ;Jász-Nagykun-Szolnok  ;EOR
+        55612; 20120901;20260414; 47.0769;  20.4814;     81.0;Kétpó                                   ;Jász-Nagykun-Szolnok  ;EOR
+        55706; 20000510;20130508; 47.1064;  20.7400;     84.9;Túrkeve                                 ;Jász-Nagykun-Szolnok  ;EOR
+        55806; 20120901;20260414; 47.1528;  20.9169;     81.0;Ecsegfalva                              ;Békés                 ;EOR
+        55807; 20120901;20260414; 47.0222;  20.9372;     80.0;Dévaványa                               ;Békés                 ;EOR
+        55808; 20140528;20260414; 47.0956;  20.7517;     83.2;Túrkeve                                 ;Jász-Nagykun-Szolnok  ;EOR
+        56117; 20120901;20260414; 46.8769;  20.0058;     90.0;Lakitelek                               ;Bács-Kiskun           ;EOR
+        56211; 20120901;20260414; 46.8464;  20.2658;     81.0;Kunszentmárton                          ;Jász-Nagykun-Szolnok  ;EOR
+        56300; 19980625;20200730; 46.8694;  20.5278;     84.4;Szarvas                                 ;Békés                 ;EOR
+        56311; 20120901;20260414; 46.9444;  20.6714;     81.0;Mezőtúr Pusztaperes                     ;Jász-Nagykun-Szolnok  ;EOR
+        56312; 20200129;20260414; 46.8697;  20.5275;     85.0;Szarvas                                 ;Békés                 ;EOR
+        56408; 20120901;20260414; 46.9392;  20.8464;     81.0;Gyomaendrőd Gyoma                       ;Békés                 ;EOR
+        56500; 20120901;20260414; 46.7978;  20.0033;     85.0;Tiszaalpár                              ;Bács-Kiskun           ;EOR
+        56603; 20120901;20260414; 46.7219;  20.4631;     77.0;Szentes Mucsihát                        ;Csongrád-Csanád       ;EOR
+        56705; 20120901;20260414; 46.7917;  20.6217;     79.0;Csabacsűd Nagyráta                      ;Békés                 ;EOR
+        57113; 20120901;20260414; 46.5564;  20.0908;     79.0;Baks                                    ;Csongrád-Csanád       ;EOR
+        57202; 19990418;20260414; 46.6131;  20.2861;     79.3;Szentes repülőtér                       ;Csongrád-Csanád       ;EOR
+        57204; 20120901;20260414; 46.5789;  20.3544;     77.0;Derekegyház                             ;Csongrád-Csanád       ;EOR
+        57311; 20001031;20260414; 46.5442;  20.6875;     87.8;Orosháza                                ;Békés                 ;EOR
+        57501; 20120901;20260414; 46.4136;  20.1806;     78.0;Sándorfalva Tisza-part                  ;Csongrád-Csanád       ;EOR
+        57601; 20120901;20260414; 46.3592;  20.4561;     78.0;Hódmezővásárhely Szikáncs               ;Csongrád-Csanád       ;EOR
+        57612; 20231101;20231101; 46.4022;  20.2528;     78.0;Hódmezővásárhely                        ;Csongrád-Csanád       ;EOR
+        57706; 20120901;20220413; 46.4314;  20.6169;     84.0;Békéssámson                             ;Békés                 ;EOR
+        57707; 20220413;20260414; 46.4317;  20.6178;     84.0;Békéssámson                             ;Békés                 ;EOR
+        57802; 20120901;20260414; 46.4019;  20.8964;     91.0;Mezőkovácsháza                          ;Békés                 ;EOR
+        58102; 19971208;20260414; 46.2472;  20.1406;    103.9;Szeged belterület                       ;Csongrád-Csanád       ;EOR
+        58104; 19960102;20040505; 46.2553;  20.0903;     81.0;Szeged külterület                       ;Csongrád-Csanád       ;EOR
+        58113; 20040505;20191216; 46.2561;  20.0903;     80.8;Szeged külterület                       ;Csongrád-Csanád       ;EOR
+        58116; 20191130;20260414; 46.2561;  20.0906;     81.0;Szeged külterület                       ;Csongrád-Csanád       ;EOR
+        58209; 20120901;20260414; 46.2064;  20.4658;     81.0;Makó                                    ;Csongrád-Csanád       ;EOR
+        58213; 20140522;20260414; 46.1900;  20.3992;     79.7;Kiszombor                               ;Csongrád-Csanád       ;EOR
+        58300; 19970925;20260414; 46.3172;  20.7367;     93.8;Pitvaros                                ;Csongrád-Csanád       ;EOR
+        58603; 20120901;20260414; 46.1622;  20.2686;     76.0;Kübekháza gátőrház                      ;Csongrád-Csanád       ;EOR
+        61104; 19980323;20260414; 48.5106;  21.2350;    156.1;Hidasnémeti                             ;Borsod-Abaúj-Zemplén  ;EOR
+        61617; 19990527;20260414; 48.3333;  21.3331;    410.3;Baskó                                   ;Borsod-Abaúj-Zemplén  ;EOR
+        61700; 20170829;20260414; 48.3369;  21.5708;    119.0;Sárospatak Malomkőgyár                  ;Borsod-Abaúj-Zemplén  ;EOR
+        61709; 19971120;20260414; 48.3808;  21.6589;     99.4;Sátoraljaújhely                         ;Borsod-Abaúj-Zemplén  ;EOR
+        62120; 20120901;20260414; 48.3258;  21.1175;    136.0;Encs                                    ;Borsod-Abaúj-Zemplén  ;EOR
+        62313; 20120901;20260414; 48.3200;  21.5747;    100.0;Sárospatak                              ;Borsod-Abaúj-Zemplén  ;EOR
+        62315; 20120901;20260414; 48.1950;  21.7078;     94.0;Tiszakarád                              ;Borsod-Abaúj-Zemplén  ;EOR
+        62409; 20120901;20260414; 48.2739;  21.9569;     96.0;Ricse Szivattyútelep                    ;Borsod-Abaúj-Zemplén  ;EOR
+        62411; 20120901;20260414; 48.3078;  21.7944;     95.0;Karcsa                                  ;Borsod-Abaúj-Zemplén  ;EOR
+        62412; 20140606;20170428; 48.1733;  21.8375;     95.0;Beszterec                               ;Szabolcs-Szatmár-Bereg;EOR
+        62414; 20210825;20260414; 48.2350;  21.7994;    100.0;Tiszacsermely                           ;Borsod-Abaúj-Zemplén  ;EOR
+        62506; 20120901;20260414; 48.0314;  21.1683;     89.0;Taktakenéz külterület                   ;Borsod-Abaúj-Zemplén  ;EOR
+        62612; 20001128;20260414; 48.1450;  21.3344;    123.8;Tarcal                                  ;Borsod-Abaúj-Zemplén  ;EOR
+        62614; 20120901;20260414; 48.1072;  21.4203;     95.0;Tokaj                                   ;Borsod-Abaúj-Zemplén  ;EOR
+        62615; 20120901;20260414; 48.0256;  21.3044;     90.0;Tiszalök Arborétum                      ;Szabolcs-Szatmár-Bereg;EOR
+        62705; 20120901;20260414; 48.0597;  21.7492;     97.0;Nagyhalász Mága                         ;Szabolcs-Szatmár-Bereg;EOR
+        62707; 20210420;20260414; 48.0683;  21.6053;    105.0;Buj Nádastótanya                        ;Szabolcs-Szatmár-Bereg;EOR
+        63101; 20051104;20260414; 47.9311;  21.0539;     93.7;Tiszaújváros                            ;Borsod-Abaúj-Zemplén  ;EOR
+        63208; 20120901;20260414; 47.8625;  21.3819;     91.0;Hajdúnánás Keleti-főcsatorna            ;Hajdú-Bihar           ;EOR
+        63210; 20210610;20260414; 47.9714;  21.4803;     95.0;Tiszavasvári külterület                 ;Szabolcs-Szatmár-Bereg;EOR
+        63305; 20210325;20260414; 47.9808;  21.6911;    103.0;Nyíregyháza repülőtér                   ;Szabolcs-Szatmár-Bereg;EOR
+        63306; 20231027;20260414; 47.9900;  21.6906;    103.0;Nyíregyháza repülőtér (észak)           ;Szabolcs-Szatmár-Bereg;EOR
+        63402; 19960103;20030828; 47.9622;  21.8869;    139.9;Napkor                                  ;Szabolcs-Szatmár-Bereg;EOR
+        63411; 20030828;20200828; 47.9622;  21.8869;    141.1;Napkor                                  ;Szabolcs-Szatmár-Bereg;EOR
+        63412; 20120901;20260414; 47.8892;  21.8428;    115.0;Nagykálló                               ;Szabolcs-Szatmár-Bereg;EOR
+        63413; 20200316;20260414; 47.9622;  21.8869;    141.0;Napkor                                  ;Szabolcs-Szatmár-Bereg;EOR
+        63502; 19971220;20260414; 47.8031;  21.1378;     91.7;Folyás                                  ;Hajdú-Bihar           ;EOR
+        63510; 20120901;20260414; 47.7917;  21.0081;     88.0;Tiszakeszi                              ;Borsod-Abaúj-Zemplén  ;EOR
+        63707; 19990428;20260414; 47.8217;  21.6714;    124.7;Újfehértó                               ;Szabolcs-Szatmár-Bereg;EOR
+        64104; 20120901;20260414; 47.6044;  21.0750;     86.0;Hortobágy Halastó                       ;Hajdú-Bihar           ;EOR
+        64105; 20130909;20140226; 47.6019;  21.0764;    101.0;Hortobágy Szásztelek                    ;Hajdú-Bihar           ;EOR
+        64105; 20141030;20150409; 47.6019;  21.0764;    101.0;Hortobágy Szásztelek                    ;Hajdú-Bihar           ;EOR
+        64208; 20120901;20260414; 47.6328;  21.3736;     90.0;Balmazújváros Virágoskút                ;Hajdú-Bihar           ;EOR
+        64209; 20210806;20260414; 47.5378;  21.3092;     89.0;Nagyhegyes Elep                         ;Hajdú-Bihar           ;EOR
+        64310; 20200130;20260414; 47.5767;  21.5825;    125.0;Debrecen Kismacs                        ;Hajdú-Bihar           ;EOR
+        64611; 20120901;20260414; 47.4328;  21.4061;     91.0;Hajdúszoboszló                          ;Hajdú-Bihar           ;EOR
+        64704; 19950804;20190322; 47.4903;  21.6108;    106.6;Debrecen                                ;Hajdú-Bihar           ;EOR
+        64710; 20161015;20260414; 47.4953;  21.6236;    106.0;Debrecen repülőtér (észak)              ;Hajdú-Bihar           ;EOR
+        64711; 20161015;20260414; 47.4844;  21.6056;    106.6;Debrecen repülőtér                      ;Hajdú-Bihar           ;EOR
+        64713; 20210623;20260414; 47.3653;  21.5497;     97.0;Derecske Petőfi major                   ;Hajdú-Bihar           ;EOR
+        65102; 20120901;20260414; 47.3156;  21.0269;     82.0;Püspökladány Apavára                    ;Hajdú-Bihar           ;EOR
+        65105; 19981207;20260414; 47.2308;  21.1472;     85.3;Szerep                                  ;Hajdú-Bihar           ;EOR
+        65305; 20120901;20260414; 47.2092;  21.5383;     92.0;Berettyóújfalu                          ;Hajdú-Bihar           ;EOR
+        65403; 20120901;20260414; 47.2778;  21.7972;     97.0;Pocsaj                                  ;Hajdú-Bihar           ;EOR
+        65514; 20120901;20260414; 47.0897;  21.0900;     81.0;Szeghalom Töviskes                      ;Békés                 ;EOR
+        65609; 20120901;20260414; 47.1081;  21.3194;     87.0;Darvas                                  ;Hajdú-Bihar           ;EOR
+        65700; 19971022;20260414; 47.0197;  21.5942;     94.5;Körösszakál                             ;Hajdú-Bihar           ;EOR
+        66103; 20050624;20260414; 46.9778;  21.0544;     84.4;Körösladány                             ;Békés                 ;EOR
+        66105; 20120901;20260414; 46.8467;  21.1011;     80.0;Mezőberény Hosszúfok                    ;Békés                 ;EOR
+        66106; 20120901;20260414; 46.9858;  21.1839;     84.0;Szeghalom Szivattyútelep                ;Békés                 ;EOR
+        66210; 20120901;20260414; 46.8375;  21.2603;     85.0;Bélmegyer Gereblyés                     ;Békés                 ;EOR
+        66211; 20120901;20260414; 46.9747;  21.4025;     88.0;Körösújfalu                             ;Békés                 ;EOR
+        66300; 20120901;20260414; 46.8708;  21.5233;     88.0;Mezőgyán                                ;Békés                 ;EOR
+        66508; 19950501;20021205; 46.6769;  21.1617;     86.1;Békéscsaba                              ;Békés                 ;EOR
+        66518; 20021009;20101105; 46.6844;  21.1133;     85.2;Békéscsaba                              ;Békés                 ;EOR
+        66519; 20101029;20191213; 46.6794;  21.1606;     86.8;Békéscsaba                              ;Békés                 ;EOR
+        66520; 20120901;20260414; 46.7628;  21.1569;     82.0;Békés Dánfok                            ;Békés                 ;EOR
+        66522; 20191213;20260414; 46.6797;  21.1608;     87.0;Békéscsaba repülőtér                    ;Békés                 ;EOR
+        66613; 20120901;20260414; 46.7028;  21.4244;     85.0;Sarkad Malomfok                         ;Békés                 ;EOR
+        67113; 20120901;20260414; 46.5331;  21.2319;     91.0;Elek                                    ;Békés                 ;EOR
+        67207; 20120901;20260414; 46.6633;  21.2989;     87.0;Gyula Máriafalva                        ;Békés                 ;EOR
+        67506; 20120901;20260414; 46.3600;  21.1647;     98.0;Dombegyház Gátőrház                     ;Békés                 ;EOR
+        67507; 20140627;20260414; 46.4283;  21.2436;    100.2;Lőkösháza                               ;Békés                 ;EOR
+        71505; 19960726;20260414; 48.3986;  22.1775;    103.5;Záhony                                  ;Szabolcs-Szatmár-Bereg;EOR
+        71508; 20120901;20260414; 48.3461;  22.1142;    100.0;Tuzsér                                  ;Szabolcs-Szatmár-Bereg;EOR
+        72213; 20120901;20260414; 48.3178;  22.2553;    104.0;Lónya                                   ;Szabolcs-Szatmár-Bereg;EOR
+        72512; 20210614;20260414; 48.1006;  22.0461;    104.0;Nyírtass                                ;Szabolcs-Szatmár-Bereg;EOR
+        72601; 20120901;20260414; 48.1631;  22.3383;    106.0;Tiszaszalka Szipatelep                  ;Szabolcs-Szatmár-Bereg;EOR
+        72604; 19980312;20200721; 48.1250;  22.2978;    109.3;Vásárosnamény                           ;Szabolcs-Szatmár-Bereg;EOR
+        72617; 20120901;20260414; 48.0914;  22.3628;    106.0;Olcsvaapáti Gátőrház                    ;Szabolcs-Szatmár-Bereg;EOR
+        72618; 20200205;20260414; 48.1250;  22.2981;    109.0;Vásárosnamény                           ;Szabolcs-Szatmár-Bereg;EOR
+        72703; 20120901;20260414; 48.1031;  22.5511;    109.0;Tarpa                                   ;Szabolcs-Szatmár-Bereg;EOR
+        72805; 19981231;20260414; 48.1042;  22.7694;    114.7;Milota                                  ;Szabolcs-Szatmár-Bereg;EOR
+        73110; 20210906;20260414; 47.8636;  22.2222;    150.0;Nyírkáta Herczeghtanya                  ;Szabolcs-Szatmár-Bereg;EOR
+        73210; 20120901;20260414; 47.9747;  22.4769;    109.0;Fehérgyarmat Halastó                    ;Szabolcs-Szatmár-Bereg;EOR
+        73211; 20120901;20260414; 47.9525;  22.3192;    127.0;Mátészalka                              ;Szabolcs-Szatmár-Bereg;EOR
+        73301; 20120901;20260414; 47.9119;  22.5922;    115.0;Szamosújlak                             ;Szabolcs-Szatmár-Bereg;EOR
+        73302; 19980312;20141030; 47.8622;  22.6256;    117.3;Pátyod                                  ;Szabolcs-Szatmár-Bereg;EOR
+        73313; 20140605;20260414; 47.8456;  22.6631;    117.6;Csenger                                 ;Szabolcs-Szatmár-Bereg;EOR
+        73505; 19980311;20260414; 47.6961;  22.0569;    155.7;Nyírlugos                               ;Szabolcs-Szatmár-Bereg;EOR
+        74500; 20140612;20260414; 47.4400;  22.0011;    124.2;Bagamér                                 ;Hajdú-Bihar           ;EOR
