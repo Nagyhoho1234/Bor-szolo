@@ -2,17 +2,18 @@
 
 **Published:** [github.com/Nagyhoho1234/Bor-szolo](https://github.com/Nagyhoho1234/Bor-szolo)
 **DOI:** [10.5281/zenodo.19466301](https://doi.org/10.5281/zenodo.19466301)
-**Version:** v1.0.0 (released 2026-04-08)
+**Version:** v1.0.1 (released 2026-04-15)
 **Author:** Fehér Zsolt Zoltán · MIT License
 
 ## What this project is
 
-A bilingual (HU/EN) static website that visualises climate-change susceptibility for the **22 Hungarian wine districts** (borvidék). It joins three peer-reviewed climate datasets to a curated knowledge base of **58 grape varieties** and surfaces the result as a publishable, citation-ready atlas with **1,091 prerendered pages**.
+A bilingual (HU/EN) static website that visualises climate-change susceptibility for the **22 Hungarian wine districts** (borvidék). It joins three peer-reviewed climate datasets to a curated knowledge base of **57 grape varieties** (site) / **81 grape varieties** (paper envelope superset) and surfaces the result as a publishable, citation-ready atlas with **1,091 prerendered pages**, plus a separate reproducibility bundle for the associated Frontiers manuscript.
 
-**Three layers:**
-1. **Python pipeline** (`analysis/src/s00 → s10`) — area-weighted polygon means from FORESEE NetCDF, 9 viticulture indices, 30-year normals, variety suitability matcher, CCKP CMIP6 ensemble validation, HungaroMet station fetch, threats curation, per-district PDF generation, manifest + checksums.
-2. **Curated bundle** (`analysis/curated/`) — the publishable dataset: 22 district polygons, annual indices, normals, variety suitability, variety replacements, CCKP extracts, HungaroMet observations, threats CSVs, descriptions (bilingual), manifest.json, SHA256SUMS.txt. Synced into `site/public/data/` by `site/scripts/sync_curated.mjs`.
+**Four layers:**
+1. **Python pipeline** (`analysis/src/s00 → s15`) — area-weighted polygon means from FORESEE NetCDF, 9 viticulture indices, 30-year normals, variety suitability matcher (cos²-centred Huglin), CCKP CMIP6 ensemble validation, HungaroMet station fetch, threats curation, per-district PDF generation, 14-member EURO-CORDEX ensemble orchestration + aggregation, manifest + checksums.
+2. **Curated bundle** (`analysis/curated/`) — the publishable dataset: 22 district polygons, annual indices, normals, variety suitability, variety replacements, CCKP extracts, HungaroMet observations, threats CSVs, descriptions (bilingual), 14-member ensemble aggregates (`ensemble/`), manifest.json, SHA256SUMS.txt. Synced into `site/public/data/` by `site/scripts/sync_curated.mjs`.
 3. **Site** (`site/`) — Next.js 16 + MapLibre + deck.gl + Recharts + TanStack Table + next-intl. Static export (`output: 'export'`), no server.
+4. **Paper reproducibility bundle** (`paper_analysis/`) — shipped in v1.0.1. Self-contained folder with `code/` (s00–s15 + figure scripts), `config/` (81-variety envelope), `figures/` (all main + appendix, PNG+PDF), `tables/` (manuscript tables as CSV), `data/` (indices + per-horizon suitability + V1 cos² variant + 14-member ensemble aggregate and per-member, all as CSV). Zero markdown, raw artefacts only.
 
 **Research corpus** (`research/`) — 22 long-form district dossiers (~123K words) + 2 synthesis briefs (~17K words), all fully translated to Hungarian. 880 unique source URLs scanned (640 successfully fetched, indexed in `research/sources/`; raw HTML excluded from git).
 
@@ -42,9 +43,9 @@ A bilingual (HU/EN) static website that visualises climate-change susceptibility
 
 ## Variety envelope state (`analysis/config/grape_envelopes.csv`)
 
-**58 varieties total** as of v1.0.0:
+**57 varieties total** as of v1.0.0:
 - 38 Hungarian + Central European originals
-- 14 Mediterranean additions (2026-04-07): Tempranillo, Touriga Nacional, Garnacha, Mourvèdre, Carignan, Aglianico, Nero d'Avola, Sangiovese, Vermentino, Assyrtiko, Fiano, Verdejo, Albariño
+- 13 Mediterranean additions (2026-04-07): Tempranillo, Touriga Nacional, Garnacha, Mourvèdre, Carignan, Aglianico, Nero d'Avola, Sangiovese, Vermentino, Assyrtiko, Fiano, Verdejo
 - 6 PIWI additions (Wave 11A, 2026-04-07): Solaris, Bronner, Johanniter, Muscaris, Souvignier Gris, Cabernet Cortis
 
 **Calibration issues status** (from Wave 11A):
@@ -84,6 +85,59 @@ A bilingual (HU/EN) static website that visualises climate-change susceptibility
 | 2041–2060 | 0.83 | plateau |
 | 2061–2080 | 0.59 | crossover — Mediterranean ceiling exceeded |
 | 2081–2100 | **0.33** | collapse — even with Mediterranean + PIWI varieties added |
+
+## Paper (ResearchPotential/paper/)
+
+Manuscript targeting **Frontiers in Plant Science** (same journal as Lakatos & Nagy 2025). ~8,500 words body text.
+
+### Chapter files (source of truth)
+Each section is a separate .md file — **never use a single monolithic manuscript.md**:
+- `00_abstract.md` (~220 words)
+- `01_introduction.md` (~1,300 words, 3 sub-sections)
+- `02_methods.md` (~1,870 words, 5 sub-sections)
+- `03_results.md` (~2,430 words, 4 sub-sections, 3 tables)
+- `04_discussion.md` (~1,900 words, 4 sub-sections)
+- `05_conclusions.md` (~365 words, 3 numbered findings)
+- `06_backmatter.md` (Data Availability, Author Contributions, etc.)
+- `07_references.md` (28 verified references)
+- `08_appendix.md` (Figure S1 + S2a–j listing)
+- `figure_captions.md` (7 main + 2 supplementary, SHORT captions)
+
+### Naming convention
+English place names for districts in all figures and text (Tokaj not Tokaji, Sopron not Soproni, Villány not Villányi, Csongrád not Csongrádi). "Tokaji" only when referring to the wine style. Borrégió names: "North Transdanubia" (not Észak-Dunántúl), "Northern Hungary" (not Észak-Magyarországi). All Hungarian proper nouns must keep diacritics (Hárslevelű, Kékfrankos, Bükk, Mátra, Szekszárd, etc.).
+
+### Figures (7 main + supplementary, renumbered 2026-04-14)
+
+| Fig | File | Content |
+|-----|------|---------|
+| 1 | `fig0_study_area` | 22-district map, borrégió colours, Europe inset, scale bar, north arrow |
+| 2 | `fig0_workflow` | Methodology flowchart, top-down branching (5 stages) |
+| 3 | `fig1_inverted_u` | Inverted-U trajectory, 6 regional lines + national mean |
+| 4 | `fig2_spotlight_winkler` | 4-panel Winkler GDD for spotlights |
+| 5 | `fig3_heatmap_suitability` | 4 spotlights × 2 periods, 47 varieties, gapped columns |
+| 6 | `fig4_adaptation` | Suitability collapse bars (Tokaj+Sopron 2081–2100, Villány+Csongrád 2061–2080) |
+| 7 | `fig5_cckp_crosscheck` | FORESEE-HUN vs CCKP scatter |
+| S1 | `fig2_appendix_combined` | All 22 districts Winkler GDD on one A4 page |
+| S2a–j | `fig3_appendix_*` | 10 suitability heatmaps (57 varieties × 22 districts) |
+
+### Figure rules
+- No titles on main-text figures (caption only, short — 1–2 sentences max)
+- No file paths, parquet references, or technical content in manuscript
+- Appendix figures keep titles
+- No `---` horizontal rules anywhere
+- No random bold text (only Table N. labels)
+- All `--` must be proper en-dashes `–`
+- Table separators must use `|---|` format, never broken by en-dash replacement
+
+### Assembly & conversion
+- **mcp-pandoc** MCP server installed for md→docx conversion (restart needed to activate)
+- Assembly script concatenates chapter .md files, inserts `![](figures/...)` at first figure reference
+- Supplementary figures appended at end
+- DOCX must have: inline figures at correct positions, working tables with data, no stray artifacts
+- Writing style: `C:\styles\style_en.md` (passive voice, no "I", anti-AI stripping)
+
+### 4 spotlight districts
+Sopron (NW, coolest), Tokaj (NE, cool), Villány (S, warm), Csongrád (SE, hottest)
 
 ## Site architecture (1,091 static pages)
 
