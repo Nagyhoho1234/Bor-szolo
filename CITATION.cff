@@ -28,8 +28,8 @@ type: software
 license: MIT
 url: "https://github.com/Nagyhoho1234/Bor-szolo"
 repository-code: "https://github.com/Nagyhoho1234/Bor-szolo"
-version: "1.0.0"
-date-released: "2026-04-08"
+version: "1.0.1"
+date-released: "2026-04-15"
 keywords:
   - "Hungarian wine districts"
   - "borvidék"
