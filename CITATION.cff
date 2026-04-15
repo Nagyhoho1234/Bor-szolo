@@ -7,14 +7,19 @@ identifiers:
     value: "10.5281/zenodo.19466301"
     description: "Zenodo archive of v1.0.0"
 abstract: >-
-  An open-source bilingual (Hungarian + English) information site that
-  visualises climate-change susceptibility for the 22 Hungarian wine districts
-  (borvidék). It joins three peer-reviewed climate datasets (FORESEE v1.1
-  regional climate, World Bank CCKP CMIP6 ensemble, HungaroMet station
-  observations) to a curated knowledge base of 58 grape varieties and surfaces
-  the result as a publishable Next.js + MapLibre + deck.gl static site with
-  per-district detail pages, side-by-side comparisons, threat ranking views,
-  methods explainers, and downloadable per-district PDFs.
+  An open-source bilingual (Hungarian + English) climate-suitability atlas
+  for the 22 Hungarian wine districts (borvidék) over 1971–2100. Three
+  peer-reviewed climate datasets (FORESEE v1.1 CNRM-ALADIN53, the full
+  14-member FORESEE EURO-CORDEX ensemble, and the World Bank CCKP CMIP6
+  0.25° ensemble) are joined to a curated envelope bank of 81 grape
+  varieties and surfaced both as a Next.js + MapLibre + deck.gl static
+  site and as a reproducibility bundle (paper_analysis/) for the
+  associated research paper. The site offers per-district detail pages,
+  462 side-by-side district comparisons, threat-ranking views, methods
+  explainers, and downloadable per-district PDFs; the paper bundle ships
+  the full Python pipeline, 81-variety envelopes, main and appendix
+  figures, manuscript tables, and CSV mirrors of all per-horizon
+  suitability and 14-member ensemble outputs.
 authors:
   - family-names: "Fehér"
     given-names: "Zsolt Zoltán"
@@ -32,13 +37,23 @@ keywords:
   - "viticulture"
   - "Winkler GDD"
   - "Huglin index"
+  - "cos-squared centred suitability score"
   - "FORESEE"
+  - "FORESEE-HUN"
+  - "EURO-CORDEX"
+  - "ensemble uncertainty"
   - "CMIP6"
   - "World Bank CCKP"
   - "Flavescence dorée"
   - "Tokaj"
+  - "Sopron"
+  - "Villány"
+  - "Csongrád"
   - "wine"
   - "grape varieties"
+  - "variety suitability"
+  - "PIWI varieties"
+  - "Mediterranean varieties"
   - "RCP4.5"
   - "RCP8.5"
   - "Hungary"

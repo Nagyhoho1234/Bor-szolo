@@ -148,6 +148,12 @@ Bor-szolo/
 │       ├── threats/                # FD timeline, trunk diseases, EU pesticides
 │       ├── manifest.json           # full bundle metadata + checksums
 │       └── SHA256SUMS.txt
+├── paper_analysis/                 # Manuscript reproducibility bundle
+│   ├── code/                       # s00–s15 pipeline + figure scripts
+│   ├── config/                     # 81-variety envelopes
+│   ├── figures/                    # PNG + PDF main and appendix figures
+│   ├── tables/                     # manuscript tables as CSV
+│   └── data/                       # indices, suitability, 14-member ensemble (CSV)
 ├── research/
 │   ├── districts/                  # 22 EN + 22 HU long-form dossiers
 │   ├── synthesis/                  # 2 EN + 2 HU long-form briefs
@@ -170,6 +176,33 @@ Bor-szolo/
 ├── CLAUDE.md                       # development guide for Claude Code
 └── .gitignore
 ```
+
+## Research Paper Analysis Bundle
+
+The folder [`paper_analysis/`](paper_analysis/) contains the complete
+analysis workflow, numerical results, and figures underlying the
+manuscript *"Variety-level climate suitability for the 22 Hungarian wine
+districts under a 14-member EURO-CORDEX ensemble (1971–2100)"*
+(Fehér, submitted to *Frontiers in Plant Science*, Crop and Product
+Physiology). It is kept separate from the site pipeline so that
+reviewers and replicators can find the paper artefacts without
+traversing the web-application code.
+
+```
+paper_analysis/
+├── code/          s00–s15 pipeline scripts + figure scripts
+├── config/        grape_envelopes.csv (81 cultivars: 38 Central European + 13 Mediterranean + 6 PIWI + 24 Hungarian endemics & crosses)
+├── figures/       all main-text and appendix figures (PNG + PDF)
+├── tables/        manuscript tables as CSV
+└── data/
+    ├── indices/          annual Winkler GDD, Huglin, BEDD, AGST, PET per district (RCP4.5, RCP8.5)
+    ├── suitability/      district × variety × horizon × scenario (CSV), including the cos²-centred V1 variant
+    └── ensemble/         14-member EURO-CORDEX aggregate + per-member outputs (CSV)
+```
+
+The paper pool of 81 varieties is a superset of the 57-variety site
+envelope; the extra 24 low-confidence rows are flagged in
+`config/grape_envelopes.csv`.
 
 ## Tech Stack
 
